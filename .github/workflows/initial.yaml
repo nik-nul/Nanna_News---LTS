@@ -12,6 +12,7 @@ jobs:
     - name: makedir
       run: |
         mkdir -p pdfs
+        TZ='Asia/Shanghai' date >> ./pdfs/date
     - name: pushback
       run: |
         git config user.name "github-actions[bot]"
