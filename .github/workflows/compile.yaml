@@ -39,9 +39,9 @@ jobs:
         pandoc --toc tmp.tex -s -o ./html/latest.html
         rm tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
         dtm=$(TZ=Asia/Urumqi date '+%F')
-        cp ./pdfs/latest.pdf ./pdfs/$(dtm).pdf
-        cp ./imgs/latest.png ./imgs/$(dtm).png
-        cp ./html/latest.html ./html/$(dtm).html
+        cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
+        cp ./imgs/latest.png ./imgs/$dtm.png
+        cp ./html/latest.html ./html/$dtm.html
     - name: Pushback
       run: |
         git config user.name "github-actions[bot]"
