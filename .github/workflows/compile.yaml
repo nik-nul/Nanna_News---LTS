@@ -31,6 +31,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Compile
       run:  |
+        sed -i '/disable ghostscript format types/,+6d' /etc/ImageMagick-6/policy.xml
         lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs '000.tex'
         convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
         pat=$(echo '/^\\\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\\\centerline{\\\\huge/, "\\\\section{"); print; }'); awk $pat 000.tex > tmp.tex
