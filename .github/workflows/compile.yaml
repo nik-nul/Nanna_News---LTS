@@ -34,7 +34,8 @@ jobs:
         sudo cp ./policy.xml /etc/ImageMagick-6/policy.xml
         lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs '000.tex'
         convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
-        pat=$(echo '/^\\\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\\\centerline{\\\\huge/, "\\\\section{"); print; }'); awk $pat 000.tex > tmp.tex
+        pat=$(echo '/^\\\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\\\centerline{\\\\huge/, "\\\\section{"); print; }')
+        awk $pat 000.tex > tmp.tex
         pandoc --toc tmp.tex -s -o ./html/latest.html
         rm tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
         dtm=$(TZ=Asia/Urumqi date '+%F')
