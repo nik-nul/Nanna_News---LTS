@@ -1,0 +1,51 @@
+name: compile_pdf
+
+on: [push, workflow_dispatch]
+
+jobs:
+  compile_pdf:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup Noto & Pandoc
+      uses: daaku/gh-action-apt-install@v4
+      with:
+        packages: |
+          fonts-noto-cjk
+          pandoc
+    - name: Setup TeXLive
+      uses: teatimeguest/setup-texlive-action@v3
+      with:
+        version: 2023
+        packages: |
+          scheme-basic
+          graphicx
+          hyperref
+          multicol
+          anysize
+          fontspec
+          ctex
+          tabularx
+          chinese-jfm
+          tex-gyre-bonum
+          fandol
+          url
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Compile
+      run:  |
+        lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs '000.tex'
+        convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
+        pat=$(echo '/^\\\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\\\centerline{\\\\huge/, "\\\\section{"); print; }'); awk $pat 000.tex > tmp.tex
+        pandoc --toc tmp.tex -s -o ./html/latest.html
+        rm tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
+        dtm=$(TZ=Asia/Urumqi date '+%F')
+        cp ./pdfs/latest.pdf ./pdfs/$(dtm).pdf
+        cp ./imgs/latest.imgs ./imgs/$(dtm).imgs
+        cp ./html/latest.html ./html/$(dtm).html
+    - name: Pushback
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "compile docs"
+        git push
