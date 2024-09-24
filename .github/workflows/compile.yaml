@@ -31,6 +31,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Compile
       run:  |
+        ls /usr.share/ghostscript
         cp ./icc/* /usr/share/ghostscript/9.55/iccprofiles/
         cp ./icc/* /usr/share/color/icc/ghostscript/
         sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
