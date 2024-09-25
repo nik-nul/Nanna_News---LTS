@@ -6,10 +6,10 @@ jobs:
   compile:
     runs-on: ubuntu-24.04
     steps:
-    - name: Setup Noto & Pandoc & ghostscript & ImageMagick
+    - name: Setup Noto & Pandoc & ghostscript
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: fonts-noto-cjk pandoc ghostscript imagemagick
+        packages: fonts-noto-cjk pandoc ghostscript
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
@@ -31,6 +31,7 @@ jobs:
       uses: actions/checkout@v3
     - name: Compile
       run:  |
+        sudo apt-get install -y imagemagick # cannot cahced
         # sudo mkdir /usr/share/ghostscript/9.55.0/iccprofiles
         # sudo cp ./icc/* /usr/share/ghostscript/9.55.0/iccprofiles/
         # sudo cp ./icc/* /usr/share/color/icc/ghostscript/
