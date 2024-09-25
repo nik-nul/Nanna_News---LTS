@@ -26,7 +26,8 @@ jobs:
         cp ./html/* ./pages/news/
         cp ./pdfs/* ./pages/news/pdfs
         cp ./imgs/* ./pages/news/imgs
-        tree -H ./pages/news --filesfirst -t -r -o ./pages/news/index.html  
+        cd /pages/news
+        tree -H . --filesfirst -t -r -o ./index.html  
     
     - name: Push
       uses: cpina/github-action-push-to-another-repository@main
