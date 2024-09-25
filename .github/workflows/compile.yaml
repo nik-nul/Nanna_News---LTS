@@ -38,11 +38,11 @@ jobs:
         lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs '000.tex'
         convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
         echo '/^\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\centerline{\\huge/, "\\section{"); gsub(/\\begin{multicols}\{2\}/, ""); gsub(/\\end{multicols}/, ""); print; }' > pat
-        awk -f pat 000.tex | tail -n +2 > tmp.tex
+        awk -f pat 000.tex > tmp.tex
         pandoc --toc tmp.tex -s -o ./html/latest.md
         pandoc --toc ./html/latest.md -s -o ./html/latest.html
         rm ./html/latest.md
-        cp ./html/latest.html ./README.md
+        tail ./html/latest.html -n +2 > ./README.md
         rm tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
         dtm=$(TZ=Asia/Urumqi date '+%F')
         cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
