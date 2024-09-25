@@ -1,4 +1,7 @@
-/* credit: https://gist.github.com/killercup/5917178 */
+/*
+credit: https://gist.github.com/killercup/5917178 
+some modifications are made.
+*/
 
 html {
     font-size: 100%;
@@ -255,7 +258,7 @@ html {
   }
   @media only screen and (min-width: 768px) {
     body {
-      font-size: 16px;
+      font-size: 21px;
     }
   }
   @media print {
