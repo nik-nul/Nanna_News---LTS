@@ -1,0 +1,32 @@
+name: compile
+
+on: [push, workflow_dispatch]
+
+jobs: 
+  compile_pdf_html_md:
+    runs-on: ubuntu-latest
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Checkout pages
+      uses: actions/checkout@v4
+      with:
+        repository: nik-nul/nik-nul.github.io
+        path: pages
+
+    - name: Copy
+      run:  |
+        mkdir -p ./pages/news ./pages/news/imgs ./pages/news/pdfs
+        cp ./html/* ./pages/news/
+        cp ./pdfs/* ./pages/news/pdfs
+        cp ./imgs/* ./pages/news/imgs
+    
+    - name: Push
+      - uses: cpina/github-action-push-to-another-repository@main
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        with:
+          source-directory: 'news'
+          destination-github-username: 'nik-nul'
+          destination-repository-name: 'nik-nul.github.io'
+          user-email: 231220103@smail.nju.edu.cn
