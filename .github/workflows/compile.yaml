@@ -9,7 +9,7 @@ jobs:
     - name: Setup Noto & Pandoc & ghostscript & ImageMagick
       uses: daaku/gh-action-apt-install@v4
       with:
-        packages: fonts-noto-cjk pandoc ghostscript ImageMagick
+        packages: fonts-noto-cjk pandoc ghostscript imagemagick
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
