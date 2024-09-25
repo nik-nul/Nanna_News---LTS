@@ -6,10 +6,10 @@ jobs:
   compile_pdf_html_md:
     runs-on: ubuntu-24.04
     steps:
-    - name: Setup Noto & Pandoc & ghostscript
+    - name: Setup Noto & Pandoc
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: fonts-noto-cjk pandoc ghostscript
+        packages: fonts-noto-cjk pandoc
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
@@ -65,6 +65,10 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
+    - name: Setup Gohstscript
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: ghostscript
     - name: Compile
       run:  |
         sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
