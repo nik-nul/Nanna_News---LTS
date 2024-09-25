@@ -1,15 +1,15 @@
-name: compile_pdf
+name: compile
 
 on: [push, workflow_dispatch]
 
 jobs:
-  compile_pdf:
+  compile:
     runs-on: ubuntu-24.04
     steps:
-    - name: Setup Noto & Pandoc & ghostscript
+    - name: Setup Noto & Pandoc & ghostscript & ImageMagick
       uses: daaku/gh-action-apt-install@v4
       with:
-        packages: fonts-noto-cjk pandoc ghostscript
+        packages: fonts-noto-cjk pandoc ghostscript ImageMagick
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
