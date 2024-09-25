@@ -5,12 +5,162 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>南哪消息 2024-09-25</title>
   <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
@@ -19,40 +169,60 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#活动预告"><strong>活动预告</strong></a>
+<li><a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
 <ul>
-<li><a href="#编辑部招聘人才">编辑部招聘人才</a></li>
-<li><a href="#deadline-ongoing">Deadline Ongoing</a></li>
-<li><a href="#讲座">讲座</a></li>
-<li><a href="#国庆节图书馆开放时间">国庆节图书馆开放时间</a></li>
-<li><a href="#秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</a></li>
-<li><a href="#部分课程增加名额的通知">部分课程增加名额的通知</a></li>
-<li><a href="#大学生创新训练计划项目申报">大学生创新训练计划项目申报</a></li>
-<li><a href="#图协服务台">图协服务台</a></li>
-<li><a href="#历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</a></li>
-<li><a href="#ii剧-观众招募如果你也在此刻">II剧 观众招募|如果你也在此刻</a></li>
+<li><a href="#编辑部招聘人才"
+id="toc-编辑部招聘人才">编辑部招聘人才</a></li>
+<li><a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
+Ongoing</a></li>
+<li><a href="#讲座" id="toc-讲座">讲座</a></li>
+<li><a href="#国庆节图书馆开放时间"
+id="toc-国庆节图书馆开放时间">国庆节图书馆开放时间</a></li>
+<li><a href="#秋悦读经典导读班助教课程qq群信息"
+id="toc-秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</a></li>
+<li><a href="#部分课程增加名额的通知"
+id="toc-部分课程增加名额的通知">部分课程增加名额的通知</a></li>
+<li><a href="#大学生创新训练计划项目申报"
+id="toc-大学生创新训练计划项目申报">大学生创新训练计划项目申报</a></li>
+<li><a href="#图协服务台" id="toc-图协服务台">图协服务台</a></li>
+<li><a href="#历史学院宣传技能培训之推送"
+id="toc-历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</a></li>
+<li><a href="#ii剧-观众招募如果你也在此刻"
+id="toc-ii剧-观众招募如果你也在此刻">II剧
+观众招募|如果你也在此刻</a></li>
 </ul></li>
 </ul>
 </nav>
 <ul>
-<li><a href="#活动预告"><strong>活动预告</strong></a>
+<li><a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
 <ul>
-<li><a href="#编辑部招聘人才">编辑部招聘人才</a></li>
-<li><a href="#deadline-ongoing">Deadline Ongoing</a></li>
-<li><a href="#讲座">讲座</a></li>
-<li><a href="#国庆节图书馆开放时间">国庆节图书馆开放时间</a></li>
-<li><a href="#秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</a></li>
-<li><a href="#部分课程增加名额的通知">部分课程增加名额的通知</a></li>
-<li><a href="#大学生创新训练计划项目申报">大学生创新训练计划项目申报</a></li>
-<li><a href="#图协服务台">图协服务台</a></li>
-<li><a href="#历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</a></li>
-<li><a href="#ii剧-观众招募如果你也在此刻">II剧 观众招募|如果你也在此刻</a></li>
+<li><a href="#编辑部招聘人才"
+id="toc-编辑部招聘人才">编辑部招聘人才</a></li>
+<li><a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
+Ongoing</a></li>
+<li><a href="#讲座" id="toc-讲座">讲座</a></li>
+<li><a href="#国庆节图书馆开放时间"
+id="toc-国庆节图书馆开放时间">国庆节图书馆开放时间</a></li>
+<li><a href="#秋悦读经典导读班助教课程qq群信息"
+id="toc-秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</a></li>
+<li><a href="#部分课程增加名额的通知"
+id="toc-部分课程增加名额的通知">部分课程增加名额的通知</a></li>
+<li><a href="#大学生创新训练计划项目申报"
+id="toc-大学生创新训练计划项目申报">大学生创新训练计划项目申报</a></li>
+<li><a href="#图协服务台" id="toc-图协服务台">图协服务台</a></li>
+<li><a href="#历史学院宣传技能培训之推送"
+id="toc-历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</a></li>
+<li><a href="#ii剧-观众招募如果你也在此刻"
+id="toc-ii剧-观众招募如果你也在此刻">II剧
+观众招募|如果你也在此刻</a></li>
 </ul></li>
 </ul>
 <h1 id="活动预告"><strong>活动预告</strong></h1>
 <h2 id="编辑部招聘人才">编辑部招聘人才</h2>
-<p>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951 客服小祥<br />
-想订阅本消息或获取PDF版（便于查看超链接），可加QQ群：<a href="https://qm.qq.com/q/FGX1VYCrGS">962626571</a>.</p>
+<p>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+客服小祥<br />
+想订阅本消息或获取PDF版（便于查看超链接），可加QQ群：<a
+href="https://qm.qq.com/q/FGX1VYCrGS">962626571</a>.</p>
 <h2 id="deadline-ongoing">Deadline Ongoing</h2>
 <table>
 <thead>
@@ -151,7 +321,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">《梁启超的“近代”》</td>
+<td style="text-align: center;">《梁启超的”近代”》</td>
 <td style="text-align: center;">9.25</td>
 <td style="text-align: center;">9.23</td>
 </tr>
@@ -176,32 +346,41 @@
 开放区域：全部区域<br />
 开放时间：8:00-22:00<br />
 </p>
-<h2 id="秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</h2>
-<p>具体链接：<a href="https://jw.nju.edu.cn/ef/5f/c26263a716639/page.psp" class="uri">https://jw.nju.edu.cn/ef/5f/c26263a716639/page.psp</a><br />
+<h2
+id="秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</h2>
+<p>具体链接：<a
+href="https://jw.nju.edu.cn/ef/5f/c26263a716639/page.psp"
+class="uri">https://jw.nju.edu.cn/ef/5f/c26263a716639/page.psp</a><br />
 </p>
 <h2 id="部分课程增加名额的通知">部分课程增加名额的通知</h2>
-<p>增加的名额将于周五（9月27日）中午13:30在“2024年秋季学期新生课程补选”中放出。<br />
+<p>增加的名额将于周五（9月27日）中午13:30在”2024年秋季学期新生课程补选”中放出。<br />
 包括以下：<br />
 00010011A《微积分I(第一层次)》（崔小军老师班），增加5个名额。<br />
 02000050《看一台中国历史的大戏》，向人文大类增加20个名额。<br />
 04000040《哲学问题》，向人文大类增加11个名额。<br />
-链接：<a href="https://jw.nju.edu.cn/ef/8d/c26263a716685/page.htm" class="uri">https://jw.nju.edu.cn/ef/8d/c26263a716685/page.htm</a>9月27日前本科生院收到的增加名额班级也会补充在本通知中。</p>
+链接：<a href="https://jw.nju.edu.cn/ef/8d/c26263a716685/page.htm"
+class="uri">https://jw.nju.edu.cn/ef/8d/c26263a716685/page.htm</a>9月27日前本科生院收到的增加名额班级也会补充在本通知中。</p>
 <h2 id="大学生创新训练计划项目申报">大学生创新训练计划项目申报</h2>
 <p>2025年大学生创新训练计划项目申报工作将在2024年9-10月份进行，11月份开展项目预立项答辩后确定入围名单，待2025年春季进行中期考核后确定正式的立项名单和推荐等级。请有意愿申请项目的同学提前进行文献调研等预研究工作，尽早联系指导教师、选择课题、组建团队，为秋季进行项目申报提前做好准备。<br />
 注意事项：<br />
 1.所有项目的申报时间为2024年9月18日0时—11月18日24时，在此时间内教师在系统里发布选题，学生在系统里申报。<br />
 2.2024年一年期的项目起始时间为2024年12月-2025年12月，两年期项目起始时间为202年12月-2026年12月。<br />
-详细申报事项见<a href="https://jw.nju.edu.cn/ef/91/c26263a716689/page.htm" class="uri">https://jw.nju.edu.cn/ef/91/c26263a716689/page.htm</a></p>
+详细申报事项见<a
+href="https://jw.nju.edu.cn/ef/91/c26263a716689/page.htm"
+class="uri">https://jw.nju.edu.cn/ef/91/c26263a716689/page.htm</a></p>
 <h2 id="图协服务台">图协服务台</h2>
 <p>物品丢失、图书显示在架却找不到、使用研讨间遇到困难、反馈问题等可向图协服务台寻求帮助。图协服务台位于杜厦图书馆三楼IJK区一侧，服务时间为工作日8:00-12:00、14:00-18:00。<br />
 同时，图协服务台为广大师生设置爱心箱，提供布洛芬、创可贴、风油精等药品，以及卫生巾、纸巾、纸杯等日用品，供大家按需取用。</p>
 <h2 id="历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</h2>
 <p>为了培养研会成员的宣传技能，提高部门工作效率，进一步提升学院宣传工作的影响力与创造力。历史学院研会宣传部将推出宣传技能培训系列活动，<br />
 本次培训计划于2024年9月28日进行。培训不限于宣传部内部成员，将面向全体历史学院学生。欢迎所有对宣传工作感兴趣、想提升自身宣传技能的同学们参与。<br />
-详见全文：<a href="https://mp.weixin.qq.com/s/BuBdBOLOaERVw3NFXYF_WQ" class="uri">https://mp.weixin.qq.com/s/BuBdBOLOaERVw3NFXYF_WQ</a></p>
+详见全文：<a href="https://mp.weixin.qq.com/s/BuBdBOLOaERVw3NFXYF_WQ"
+class="uri">https://mp.weixin.qq.com/s/BuBdBOLOaERVw3NFXYF_WQ</a></p>
 <h2 id="ii剧-观众招募如果你也在此刻">II剧 观众招募|如果你也在此刻</h2>
 <p>表演内容小编也很好奇。<br />
 演出时长为30-40分钟，演后谈预计时长为30-45分钟。演出时间为9月27日（周五）19：30和9月28日（周六）14：30，演出地点在南京大学仙林校区-黑匣子（敬文学生活动中心三楼）。每场最大容纳观众数80人。<br />
-免费表演，报名请扫码报名，二维码见原文：<a href="https://mp.weixin.qq.com/s/54TZvFm6rK9OCKE1nNyYVw" class="uri">https://mp.weixin.qq.com/s/54TZvFm6rK9OCKE1nNyYVw</a></p>
+免费表演，报名请扫码报名，二维码见原文：<a
+href="https://mp.weixin.qq.com/s/54TZvFm6rK9OCKE1nNyYVw"
+class="uri">https://mp.weixin.qq.com/s/54TZvFm6rK9OCKE1nNyYVw</a></p>
 </body>
 </html>
