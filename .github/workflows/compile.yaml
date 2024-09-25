@@ -60,12 +60,14 @@ jobs:
         git push
   
   compile_image:
+    needs: compile_pdf_html_md
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout
       uses: actions/checkout@v3
     - name: Compile
       run:  |
+        sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
         convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
         cp ./imgs/latest.png ./imgs/$dtm.png
     - name: Pushback
