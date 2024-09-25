@@ -28,7 +28,7 @@ jobs:
           fandol
           url
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Compile
       run:  |
         # sudo apt-get install -y imagemagick # cannot cahced
@@ -64,7 +64,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Setup Gohstscript
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
