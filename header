@@ -1,0 +1,64 @@
+  <div id="scroll-here"></div>
+  <a id="back-to-top" href="#scroll-here">
+    <img src="data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' aria-labelledby='title' aria-describedby='desc' role='img' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3EAngle Up%3C/title%3E%3Cdesc%3EA line styled icon from Orion Icon Library.%3C/desc%3E%3Cpath data-name='layer1' fill='none' stroke='%23202020' stroke-miterlimit='10' stroke-width='2' d='M20 40l11.994-14L44 40' stroke-linejoin='round' stroke-linecap='round'%3E%3C/path%3E%3C/svg%3E" alt="Angle Up" />
+  </a>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script>
+    $(function(){
+      //Function To Add Class
+      function showBackToTop(){
+        $('#back-to-top').addClass('show-btt');
+      }
+  
+      //Function To Add Class
+      function hideBackToTop(){
+        $('#back-to-top').removeClass('show-btt');
+      }
+  
+      //Check Scroll and Add Class
+      function checkScrollPos(){
+        if ($(this).scrollTop() >= 700) { //if scroll position is lower than 700px from the top of the screen
+          showBackToTop();
+        } else {
+          hideBackToTop()
+        }
+      }
+      // tell the browser to run the "checkScrollPos()" function just above when the user scrolls
+      $(window).on('scroll', function(){ 
+        checkScrollPos();
+      });
+      //Check the scroll position once when the page loads
+      checkScrollPos();
+    })
+  </script>
+  <style>
+    html {
+    scroll-behavior:smooth
+  }
+  #back-to-top{
+    height:50px;
+    width:50px;
+    position:fixed;
+    right:10%;
+    z-index:99;
+  
+    border-radius:50%;
+    box-shadow: 0px 0px 5px #ccc;
+    margin:17px;
+    background:white;
+  
+    /Position Out of View/
+    bottom:-150px;
+    opacity:0;
+    transition: all .5s ease;
+  }
+  #back-to-top.show-btt{
+    /Position In View/
+    bottom:0;
+    opacity:1;
+    transition: all .5s ease;
+  }
+  </style>
+  <style>
+    .t-top { display:none !important; }
+    </style> 
