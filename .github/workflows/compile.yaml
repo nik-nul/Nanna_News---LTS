@@ -2,7 +2,7 @@ name: compile
 
 on: [push, workflow_dispatch]
 
-jobs:
+jobs: |
   compile pdf & html & md:
     runs-on: ubuntu-24.04
     steps:
