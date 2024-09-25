@@ -3,7 +3,7 @@ name: compile
 on: [push, workflow_dispatch]
 
 jobs:
-  compile:
+  compile pdf & html & md:
     runs-on: ubuntu-24.04
     steps:
     - name: Setup Noto & Pandoc & ghostscript
@@ -31,13 +31,13 @@ jobs:
       uses: actions/checkout@v3
     - name: Compile
       run:  |
-        sudo apt-get install -y imagemagick # cannot cahced
+        # sudo apt-get install -y imagemagick # cannot cahced
         # sudo mkdir /usr/share/ghostscript/9.55.0/iccprofiles
         # sudo cp ./icc/* /usr/share/ghostscript/9.55.0/iccprofiles/
         # sudo cp ./icc/* /usr/share/color/icc/ghostscript/
-        sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
+        # sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
         lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs '000.tex'
-        convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
+        # convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
         echo '/^\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\centerline{\\huge/, "\\section{"); gsub(/\\begin{multicols}\{2\}/, ""); gsub(/\\end{multicols}/, ""); print; }' > pat
         awk -f pat 000.tex > tmp.tex
         pandoc tmp.tex -s -o ./html/latest.md
@@ -49,12 +49,27 @@ jobs:
         rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
         dtm=$(TZ=Asia/Urumqi date '+%F')
         cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
-        cp ./imgs/latest.png ./imgs/$dtm.png
+        # cp ./imgs/latest.png ./imgs/$dtm.png
         cp ./html/latest.html ./html/$dtm.html
     - name: Pushback
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
-        git commit -m "compile docs"
+        git commit -m "compile imgs"
+        git push
+  compile image:
+    runs-on: ubuntu-22.04
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Compile
+      run:  |
+        convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
+        cp ./imgs/latest.png ./imgs/$dtm.png
+    - name: Pushback
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "compile img"
         git push
