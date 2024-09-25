@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
   <meta charset="utf-8" />
@@ -193,30 +194,6 @@ id="toc-ii剧-观众招募如果你也在此刻">II剧
 </ul></li>
 </ul>
 </nav>
-<ul>
-<li><a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
-<ul>
-<li><a href="#编辑部招聘人才"
-id="toc-编辑部招聘人才">编辑部招聘人才</a></li>
-<li><a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
-Ongoing</a></li>
-<li><a href="#讲座" id="toc-讲座">讲座</a></li>
-<li><a href="#国庆节图书馆开放时间"
-id="toc-国庆节图书馆开放时间">国庆节图书馆开放时间</a></li>
-<li><a href="#秋悦读经典导读班助教课程qq群信息"
-id="toc-秋悦读经典导读班助教课程qq群信息">24秋悦读经典导读班助教、课程QQ群信息</a></li>
-<li><a href="#部分课程增加名额的通知"
-id="toc-部分课程增加名额的通知">部分课程增加名额的通知</a></li>
-<li><a href="#大学生创新训练计划项目申报"
-id="toc-大学生创新训练计划项目申报">大学生创新训练计划项目申报</a></li>
-<li><a href="#图协服务台" id="toc-图协服务台">图协服务台</a></li>
-<li><a href="#历史学院宣传技能培训之推送"
-id="toc-历史学院宣传技能培训之推送">历史学院宣传技能培训之推送</a></li>
-<li><a href="#ii剧-观众招募如果你也在此刻"
-id="toc-ii剧-观众招募如果你也在此刻">II剧
-观众招募|如果你也在此刻</a></li>
-</ul></li>
-</ul>
 <h1 id="活动预告"><strong>活动预告</strong></h1>
 <h2 id="编辑部招聘人才">编辑部招聘人才</h2>
 <p>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
