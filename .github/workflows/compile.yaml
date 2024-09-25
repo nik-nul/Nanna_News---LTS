@@ -42,7 +42,8 @@ jobs:
         awk -f pat 000.tex > tmp.tex
         pandoc tmp.tex -s -o ./html/latest.md
         pandoc --toc ./html/latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css pandoc.css --self-contained -o ./html/latest.html
-        cp ./html/latest.html ./README.md
+        pandoc ./html/latest.html --to 'markdown_strict+pipe_tables' -o ./README,md
+        # cp ./html/latest.html ./README.md
         # tail ./html/latest.html -n +2 > ./README.md
         # cp ./html/latest.html ./README.md
         rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
