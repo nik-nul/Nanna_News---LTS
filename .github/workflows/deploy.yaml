@@ -26,7 +26,7 @@ jobs:
         cp ./html/* ./pages/news/
         cp ./pdfs/* ./pages/news/pdfs
         cp ./imgs/* ./pages/news/imgs
-        cd /pages/news
+        cd ./pages/news
         tree -H . --filesfirst -t -r -o ./index.html  
     
     - name: Push
