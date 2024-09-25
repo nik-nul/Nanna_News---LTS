@@ -3,7 +3,7 @@ name: compile
 on: [push, workflow_dispatch]
 
 jobs: 
-  compile pdf & html & md:
+  compile_pdf_html_md:
     runs-on: ubuntu-24.04
     steps:
     - name: Setup Noto & Pandoc & ghostscript
@@ -59,7 +59,7 @@ jobs:
         git commit -m "compile imgs"
         git push
   
-  compile image:
+  compile_image:
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout
