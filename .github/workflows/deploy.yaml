@@ -1,4 +1,4 @@
-name: compile
+name: deploy
 
 on:
   workflow_run:
