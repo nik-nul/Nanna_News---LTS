@@ -32,7 +32,7 @@ jobs:
       env:
         SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
       with:
-        source-directory: 'news'
+        source-directory: './news'
         destination-github-username: 'nik-nul'
         destination-repository-name: 'nik-nul.github.io'
         user-email: 231220103@smail.nju.edu.cn
