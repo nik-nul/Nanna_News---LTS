@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
     - name: Setup Noto & Pandoc & ghostscript & ImageMagick
-      uses: daaku/gh-action-apt-install@v4
+      uses: awalsh128/cache-apt-pkgs-action@latest
       with:
         packages: fonts-noto-cjk pandoc ghostscript imagemagick
     - name: Setup TeXLive
