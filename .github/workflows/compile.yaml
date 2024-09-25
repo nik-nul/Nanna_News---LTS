@@ -41,12 +41,11 @@ jobs:
         echo '/^\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\centerline{\\huge/, "\\section{"); gsub(/\\begin{multicols}\{2\}/, ""); gsub(/\\end{multicols}/, ""); print; }' > pat
         awk -f pat 000.tex > tmp.tex
         pandoc tmp.tex -s -o ./html/latest.md
-        pandoc --toc ./html/latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css pandoc.css -o ./html/latest.html
-        pandoc ./html/latest.html -s -o ./README.md
-        rm ./html/latest.md
+        pandoc --toc ./html/latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css pandoc.css --self-contained -o ./html/latest.html
+        cp ./html/latest.html ./README.md
         # tail ./html/latest.html -n +2 > ./README.md
         # cp ./html/latest.html ./README.md
-        rm tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
+        rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux
         dtm=$(TZ=Asia/Urumqi date '+%F')
         cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
         cp ./imgs/latest.png ./imgs/$dtm.png
