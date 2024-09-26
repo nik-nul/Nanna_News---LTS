@@ -15,7 +15,9 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Send
-      run: python3 ./mail.py
+      run:  |
+        bash ./mail_prepare.sh
+        python3 ./mail.py
       env:
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         MAILING_LIST: ${{ secrets.MAILING_LIST }}
