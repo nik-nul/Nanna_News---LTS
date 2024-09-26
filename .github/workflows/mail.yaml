@@ -5,7 +5,7 @@ on:
 
 jobs: 
   mail-test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - name: Setup Pandoc
       uses: awalsh128/cache-apt-pkgs-action@latest
