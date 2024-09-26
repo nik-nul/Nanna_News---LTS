@@ -7,6 +7,10 @@ jobs:
   mail-test:
     runs-on: ubuntu-latest
     steps:
+    - name: Setup Pandoc
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: pandoc
     - name: Checkout
       uses: actions/checkout@v4
 
