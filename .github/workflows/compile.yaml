@@ -73,6 +73,7 @@ jobs:
     - name: Compile
       run:  |
         git pull
+        dtm=$(TZ=Asia/Urumqi date '+%F')
         sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
         convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
         cp ./imgs/latest.png ./imgs/$dtm.png
