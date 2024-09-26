@@ -14,7 +14,7 @@ mailing_list = os.environ.get("MAILING_LIST")
 today = os.popen("TZ=Asia/Urumqi date '+%F'").read()[:-1]
 
 
-import email
+import email.message
 
 msg = email.message.EmailMessage()
 msg["Subject"] = f"南哪消息 {today}"
