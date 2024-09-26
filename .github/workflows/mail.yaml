@@ -1,0 +1,17 @@
+name: mail
+
+on:
+  workflow_dispatch:
+
+jobs: 
+  mail-test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Send
+      run: python3 ./mail.py
+      env:
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        MAILING_LIST: ${{ secrets.MAILING_LIST }}
