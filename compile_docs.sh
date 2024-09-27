@@ -12,13 +12,13 @@ cat header.html <(echo '<style>#textbox {display: flex;justify-content: space-be
 pandoc tmp.tex -s -o ./html/latest.md
 pandoc --toc ./html/latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css pandoc.css -H h --embed-resources -o ./html/latest.html
 pandoc ./html/latest.html --to 'markdown_strict+pipe_tables' -o ./README.md
-cp ./README.md ./md/$dtm.md
-cp ./README.md ./md/latest.md
 # cp ./html/latest.html ./README.md
 # tail ./html/latest.html -n +2 > ./README.md
 # cp ./html/latest.html ./README.md
 rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux ./h
 dtm=$(TZ=Asia/Urumqi date '+%F')
+cp ./README.md ./md/$dtm.md
+cp ./README.md ./md/latest.md
 cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
 # cp ./imgs/latest.png ./imgs/$dtm.png
 cp ./html/latest.html ./html/$dtm.html
