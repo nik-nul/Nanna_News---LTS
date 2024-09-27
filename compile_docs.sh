@@ -20,6 +20,7 @@ rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.au
 dtm=$(TZ=Asia/Urumqi date '+%F')
 cp ./README.md ./md/$dtm.md
 cp ./README.md ./md/latest.md
+cat status.md ./md/latest.md > ./README.md
 cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
 # cp ./imgs/latest.png ./imgs/$dtm.png
 cp ./html/latest.html ./html/$dtm.html
