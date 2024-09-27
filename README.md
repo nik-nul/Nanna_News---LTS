@@ -1,4 +1,4 @@
-# 南哪消息 2024-09-26
+# 南哪消息 2024-09-27
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
