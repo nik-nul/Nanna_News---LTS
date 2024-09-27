@@ -1,0 +1,17 @@
+name: rien
+
+on:
+  workflow_dispatch:
+
+jobs: 
+  mail:
+    runs-on: ubuntu-24.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Send
+      run:  python3 ./rien.py
+      env:
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        MAILING_LIST: ${{ secrets.MAILING_LIST }}
