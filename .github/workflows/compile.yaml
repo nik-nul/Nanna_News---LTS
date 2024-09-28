@@ -9,7 +9,13 @@ jobs:
     - name: Setup Noto & Pandoc & beautifulsoup
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: fonts-noto-cjk pandoc python3-bs4 python3-feedgen
+        packages: fonts-noto-cjk pandoc python3-bs4
+    - name: Setup feedgen
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.1'
+        cache: 'pip'
+    - run: pip install feedgen
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
