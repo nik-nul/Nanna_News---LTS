@@ -2,3 +2,4 @@ echo '/^\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print 
 awk -f pat ./tex/000.tex > tmp.tex
 pandoc tmp.tex -s -o ./latest.md
 pandoc --toc ./latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css pandoc.css -H mailhead.html --embed-resources -o ./tmp.html
+python3 ./link.py ./tmp.html
