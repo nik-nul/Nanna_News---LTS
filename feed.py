@@ -36,8 +36,8 @@ fg.author({"name": "南哪小报编辑部", "email": "231220103@smail.nju.edu.cn
 fg.pubDate(datetime.datetime.now(tz=zoneinfo.ZoneInfo("Asia/Shanghai")))
 fg.copyright("TO BE DETERMINED")
 fg.skipHours(list(range(1, 22)))
-fg.webMaster("231220103@smail.nju.edu.cn")
-fg.managingEditor("231508004@smail.nju.edu.cn")
+fg.webMaster("231220103@smail.nju.edu.cn (nik_nul)")
+fg.managingEditor("231508004@smail.nju.edu.cn (sakiko)")
 fg.language("zh")
 fg.ttl(1300)
 
