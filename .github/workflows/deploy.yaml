@@ -29,7 +29,7 @@ jobs:
         cp ./feed/* ./pages/news/
         cd ./pages/news
         tree -H . --filesfirst -t -r -o ./index.html
-        cd ../pdfs
+        cd ./pdfs
         tree -H . --filesfirst -t -r -o ./index.html
         cd ../imgs
         tree -H . --filesfirst -t -r -o ./index.html
