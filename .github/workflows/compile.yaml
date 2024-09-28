@@ -6,12 +6,12 @@ jobs:
   compile_pdf_html_md_rss:
     runs-on: ubuntu-24.04
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
     - name: Setup Noto & Pandoc & beautifulsoup
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
         packages: fonts-noto-cjk pandoc python3-bs4
+    - name: Checkout
+      uses: actions/checkout@v4
     - name: Setup feedgen
       uses: actions/setup-python@v5
       with:
