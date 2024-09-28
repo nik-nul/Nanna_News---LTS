@@ -9,7 +9,7 @@ jobs:
     - name: Setup Noto & Pandoc & beautifulsoup
       uses: awalsh128/cache-apt-pkgs-action@latest
       with:
-        packages: fonts-noto-cjk pandoc python3-bs4
+        packages: fonts-noto-cjk pandoc python3-bs4 python3-feedgen
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
