@@ -13,7 +13,12 @@ jobs:
         packages: pandoc
     - name: Checkout
       uses: actions/checkout@v4
-
+    - name: Setup bs4
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
     - name: Send
       run:  |
         bash ./mail_prepare.sh
