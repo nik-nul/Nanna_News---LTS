@@ -21,7 +21,7 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2024-09-27
+# 南哪消息 2024-09-28
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
