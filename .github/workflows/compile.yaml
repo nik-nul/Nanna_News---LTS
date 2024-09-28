@@ -35,7 +35,7 @@ jobs:
       run: bash ./pushback.sh
   
   compile_image:
-    needs: compile_pdf_html_md
+    needs: compile_pdf_html_md_rss
     runs-on: ubuntu-22.04
     steps:
     - name: Checkout
