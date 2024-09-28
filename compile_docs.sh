@@ -16,7 +16,8 @@ pandoc ./html/latest.html --to 'markdown_strict+pipe_tables' -o ./README.md
 # cp ./html/latest.html ./README.md
 # tail ./html/latest.html -n +2 > ./README.md
 # cp ./html/latest.html ./README.md
-rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux ./h
+python3 ./feed.py
+rm ./html/latest.md tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux ./h tmp.md
 dtm=$(TZ=Asia/Urumqi date '+%F')
 cp ./README.md ./md/$dtm.md
 cp ./README.md ./md/latest.md
