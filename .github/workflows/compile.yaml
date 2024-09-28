@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: '3.11'
         cache: 'pip'
-    - run: pip install feedgen
+    - run: pip install -r requirements.txt
     - name: Setup TeXLive
       uses: teatimeguest/setup-texlive-action@v3
       with:
