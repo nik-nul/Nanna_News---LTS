@@ -27,3 +27,4 @@ cat status.md ./md/latest.md > ./README.md
 cp ./pdfs/latest.pdf ./pdfs/$dtm.pdf
 # cp ./imgs/latest.png ./imgs/$dtm.png
 cp ./html/latest.html ./html/$dtm.html
+cp ./tex/000.tex ./tex/$dtm.tex
