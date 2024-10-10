@@ -5,7 +5,7 @@
 # sudo cp ./icc/* /usr/share/color/icc/ghostscript/
 # sudo cp ./policy/policy.xml /etc/ImageMagick-6/policy.xml
 cd tex
-lualatex -interaction=nonstopmode -jobname=latest --output-directory=pdfs './000.tex'
+lualatex -interaction=nonstopmode -jobname=latest --output-directory=../pdfs './000.tex'
 cd ..
 # convert -density 300 ./pdfs/latest.pdf -append ./imgs/latest.png
 echo '/^\\begin{document}/ {print; found=1; next} found && /^% HEAD END/ {print "\\title{南哪消息' $(TZ=Asia/Urumqi date "+%F") '}\\maketitle"; print; found=0; next} found {next} {gsub(/section/, "subsection"); gsub(/\\centerline{\\huge/, "\\section{"); gsub(/\\begin{multicols}\{2\}/, ""); gsub(/\\end{multicols}/, ""); print; }' > pat
