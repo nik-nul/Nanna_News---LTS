@@ -14,7 +14,7 @@ cat header.html <(echo '<style>#textbox {display: flex;justify-content: space-be
 cd tex
 awk '{ gsub(/longtable/, "table"); print $0 }' tmp.tex > tmpp.tex
 python3 ../fix_for_pandoc.py
-pandoc tmpp.tex -s -o ../html/latest.md
+pandoc tmp.tex -s -o ../html/latest.md
 pandoc --toc ../html/latest.md -s -V colorlinks=true -V linkcolor=blue -V urlcolor=red -V toccolor=gray --css ../pandoc.css -H h --embed-resources -o ../html/latest.html
 python3 ../link.py ../html/latest.html
 pandoc ../html/latest.html --to 'markdown_strict+pipe_tables' -o ../README.md
