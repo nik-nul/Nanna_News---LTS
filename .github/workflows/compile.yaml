@@ -35,6 +35,7 @@ jobs:
           tex-gyre-bonum
           fandol
           url
+          longtable
     - name: Compile
       run:  bash ./compile_docs.sh
     - name: Pushback
