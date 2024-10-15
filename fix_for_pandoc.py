@@ -1,4 +1,4 @@
-with open('tmpp.tex', 'r') as i:
+with open('tmp.tex', 'r') as i:
     content = i.read()
 
 new = content.replace(
