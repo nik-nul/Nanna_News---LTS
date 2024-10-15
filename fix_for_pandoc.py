@@ -1,7 +1,7 @@
 with open('tmpp.tex', 'r') as i:
     content = i.read()
 
-new = i.replace(
+new = content.replace(
         '\\newsavebox\\colbbox', ''
     ).replace(
         '\\setbox', ''
