@@ -23,7 +23,7 @@ pandoc ../html/latest.html --to 'markdown_strict+pipe_tables' -o ../README.md
 # cp ./html/latest.html ./README.md
 cd ..
 python3 ./feed.py
-rm ./html/latest.md ./tex/tmp.tex ./tex/tmpp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux ./tex/h tmp.md
+rm ./html/latest.md ./tex/tmp.tex ./pdfs/latest.out ./pdfs/latest.log ./pdfs/latest.aux ./tex/h tmp.md
 dtm=$(TZ=Asia/Urumqi date '+%F')
 cp ./README.md ./md/$dtm.md
 cp ./README.md ./md/latest.md
