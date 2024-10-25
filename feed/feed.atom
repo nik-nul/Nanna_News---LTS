@@ -1,73 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-10-24T15:42:39.056965+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-10-24" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-10-24#%E2%80%9CFree%20Hug%E2%80%9D%E4%BA%BA%E5%A3%AB%E7%8E%B0%E8%BA%AB%E6%95%99%E4%B8%80%E8%A5%BF%E5%8D%97%E9%97%A8</id><title>“Free Hug”人士现身教一西南门</title><updated>2024-10-24T15:42:39.057315+00:00</updated><content type="html">本消息编辑部成员发现，今日18：00左右，有一名女生持写有”Free
-Hug”字样的标牌站立教一西南门。本报特别邀请了两位读者发表感想，同时也邀请各位读者发表感想。  
-特约评论员 孔 丘  
-自猎得麒麟，迩来二千多年。今有FreeHug现世，或惑于伪经，谓之不合礼法，此说巨谬。礼乐所以约束者，自己也。施诸他人，去礼而谬之远矣。少正卯尝欲为，乃诛之。嗟嗟！道之不行者，我知之矣。修齐治平之事，尚不能为，而诘他人，谓我为冠带之民，灵秀所踵，孔孟遗教，克明峻德。何也？摇手触禁，万马齐喑，而谓我所遗教，三代以来，未之闻也。我谓天命之谓性，率性之谓道，修道之谓教，故君子常常顾諟天之明命，立而不倚，强哉矫。道者费而隐。所以为礼为乐者，君子之无所适而不自得也，未尝一日顾諟他人言行而诘之以为去道。今后若有如是者，非我徒子徒孙矣。  
-特约评论员 Paul of Tarsus  
-Our Lord in his flesh used to say that  
-Do not judge others  
-So that you do not be judged.  
-And I used to say to the church of Rome, condemning and warning them of
-judging others, for they who judge others, will they not be judged, on
-the day of judgement? And judgement according to law is going to vanish.
-And they who teach others, do they teach themselves? So to judge is not
-my wish. Whereas should I give a comment on NJUQUIDNUNC, I will say that
-I see no transgression against the gospel, of which I am the apostle.
-Jesus uesd to give free hugs, in Jerusalem, in Galilee and in all Judah.
-Whoever he hugs was healed of affliction. So much for the comment, and
-see you next time.</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E7%AF%AE%E7%90%83%E6%98%8E%E6%97%A5%E8%B5%9B%E7%A8%8B</id><title>篮球明日赛程</title><updated>2024-10-24T15:42:39.057308+00:00</updated><content type="html">周五赛程（10.25）  
-男篮院系杯小组赛  
-工程vs文院 12：30-14：00  
-海外vs计科 19：00-20：30  
-地点：一组团篮球场  
-研究生男篮院系杯小组赛  
-建城vs生科 12：30-13:30  
-地点：一组团篮球场
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-10-25T15:35:05.689968+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-10-25" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-10-25#%E4%B8%A5%E5%A4%8D%E3%80%8A%E6%95%91%E4%BA%A1%E5%86%B3%E8%AE%BA%E3%80%8B%EF%BC%88%E4%B8%80%EF%BC%89</id><title>严复《救亡决论》（一）</title><updated>2024-10-25T15:35:05.690220+00:00</updated><content type="html">天下理之最明而势所必至者，如今日中国不变法则必亡是已。然则变将何先？曰：莫亟于废八股。夫八股非自能害国也，害在使天下无人才。其使天下无人才奈何？曰：有大害三：  
+其一害曰：锢智慧。今夫生人之计虑智识，其开也，必由粗以入精，由显以至奥，层累阶级，脚踏实地，而后能机虑通达，审辨是非。方其为学也，必无谬悠影响之谈，而后其应事也，始无颠倒支离之患。何则？其所素习者然也。而八股之学大异是。垂髫童子，目未知菽粟之分，其入学也，必先课之以《学》《庸》《语》《孟》，开宗明义，明德新民，讲之既不能通，诵之乃徒强记。如是数年之后，行将执简操觚，学为经义，先生教之以擒挽之死法，弟子资之于剽窃以成章。一文之成，自问不知何语。迨夫观风使至，群然挟兔册，裹饼饵，逐队唱名，俯首就案，不违功令，皆足求售，谬种流传，羌无一是。如是而博一衿矣，则其荣可以夸乡里；又如是而领乡荐矣，则其效可以觊民社。至于成贡士，入词林，则其号愈荣，而自视也亦愈大。出宰百里，入主曹司，珥笔登朝，公卿跬步，以为通天地人之谓儒。经朝廷之宾兴，蒙皇上之亲策，是朝廷固命我为儒也。千万旅进，人皆铩羽，我独成龙，是冥冥中之鬼神，又许我为儒也。夫朝廷鬼神皆以我为儒，是吾真为儒，且真为通天地人之儒。从此天下事来，吾以半部《论语》治之足矣，又何疑哉！又何难哉！做秀才时无不能做之题，做宰相时自无不能做之事，此亦其所素习者然也。谬妄糊涂，其曷足怪？  
+其二害曰：坏心术。揆皇始创为经义之意，其主于愚民与否，吾不敢知。而天下后世所以乐被其愚者，岂不以圣经贤传，无语非祥，八股法行，将以”忠信廉耻”之说渐摩天下，使之胥出一途，而风俗亦将因之以厚乎？而孰知今日之科举，其事效反于所期，有断非前人所及料者。今姑无论试场大弊，如关节、顶替、倩枪、联号，诸寡廉鲜耻之尤，有力之家，每每为之，而未尝稍以为愧也。请第试言其无弊者，则孔子有言：“知之为知之，不知为不知，是知也”，故言止于所不知，固学者之大戒也。而今日八股之士，乃真无所不知。夫无所不知，非人之所能也。顾上既如是求之，下自当以是应之。应之奈何？剿说是已。夫取他人之文词，腆然自命为己出，此其人耻心所存，固已寡矣。苟缘是而侥幸，则他日掠美作伪之事愈忍为之，而不自知其为可耻。然此犹其临场然耳。至其平日用功之顷，则人手一编，号曰揣摩风气。即有一二聪颖子弟，明知时尚之日非，然去取所关，苟欲求售，势必俯就而后可。夫所贵于为士，与国家养士之深心，岂不以矫然自守，各具特立不诡随之风，而后他日登朝，乃有不苟得不苟免之概耶！乃今者，当其做秀才之日，务必使之习为剿窃诡随之事，致令羞恶是非之心，旦暮梏亡，所存濯濯。又何怪委贽通籍之后，以巧宦为宗风，以趋时为秘诀。否塞晦盲，真若一丘之貉。苟利一身而已矣，遑恤民生国计也哉！且其害不止此。每逢春秋两闱，其闱内外所张文告，使不习者观之，未有不欲股弁者。逮亲见其实事，乃不徒大谬不然，抑且变本加厉。此奚翅当士子出身之日，先教以赫赫王言，实等诸济窍飘风，不关人事，又何怪他日者身为官吏，刑在前而不栗，议在后而不惊。何则？凡此又皆所素习者然也。是故今日科举之事，其害不止于锢智慧，坏心术，其势且使国宪王章渐同粪土，而知其害者，果谁也哉？  
+其三害曰：滋游手。扬子云有言：“言，心声也；书，心画也。”故知言语文字二事，系生人必具之能。人不知书，其去禽兽也，仅及半耳。中国以文字一门专属之士，而西国与东洋则所谓四民之众，降而至于妇女走卒之伦，原无不识字知书之人类。且四民并重，从未尝以士为独尊，独我华人，始翘然以知书自异耳。至于西洋理财之家，且谓农工商贾皆能开天地自然之利，自养之外，有以养人，独士枵然，开口待哺。是故士者，固民之蠹也。唯其蠹民，故其选士也，必务精，而最忌广；广则无所事事，而为游手之民，其弊也，为乱为贫为弱。而中国则后车十乘，从者百人，孟子已肇厉阶。至于今日之士，则尚志不闻，素餐等消。十年之间，正恩累举，朝廷既无以相待，士子且无以自存。棫朴丛生，人文盛极。然若以孙文台杀荆州太守坐无所知者例之，则与当涂公卿，皆不容于尧舜之世者也。况夫益之以保举，加之以捐班，决疣溃痈，靡知所届。中国一大豕也，群虱总总，处其奎蹄曲隈，必有一日焉，屠人操刀，具汤沐以相待，至是而始相吊焉，固已晚矣。悲夫！</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#%E5%A5%8B%E8%BF%9B%E8%B7%91</id><title>奋进跑</title><updated>2024-10-25T15:35:05.690209+00:00</updated><content type="html">活动时间：  
+10月25日——10月27日  
+周五 21:30-22:10  
+周末 19:30-21:00  
+（如遇雨水天气或其他特殊情况暂停）  
+活动地点：  
+仙林校区炜华体育场  
+手环领取处：  
+仙林校区炜华体育场北侧入口  
+（手环数量限量100个，先到先得哦！）  
 
 ------------------------------------------------------------------------
 
-# **参考消息**</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E6%AF%93%E7%90%87%E4%B9%A6%E9%99%A2%EF%BC%9A%E2%80%9C%E6%9C%8B%E8%BE%88%E8%96%AA%E7%81%AB%E2%80%9D%E5%AD%A6%E4%B8%9A%E8%AE%B2%E5%B8%88%E5%9B%A2%E5%BC%80%E8%AF%BE%E5%95%A6%EF%BC%81</id><title>毓琇书院：“朋辈薪火”学业讲师团开课啦！</title><updated>2024-10-24T15:42:39.057298+00:00</updated><content type="html">“周末课堂”计划  
-开设的科目概览:  
-1.微积分一层次、二层次:常见题型讲解，经验方法分享，知识点梳理串联  
-2.C语言：基础语法夯实，编程思路开拓，思路拓展  
-3.Python：学习基础语法和数据结构，握编程逻辑  
-4.普通物理学：探索力、热、光、电等自然现象背后的物理原理，以及物理原理背后的数学方法  
-5.电路分析：了解电子元件性质，分析理解基本电路  
-6.大学化学：走进微观世界，探索物质变化的奥秘  
-7.英语：提升英语听说读写能力，讲解四六级、网测等应试题型与技巧  
-时间安排：  
-10月26日（周六）：14:00-16:00:C程序设计（一层次）（授课讲师：唐玺骋）常见考点回顾+编程实战  
-14:00-16:00：Python（授课讲师：袁翊硕）基础语法和数据结构+编程逻辑  
-14:00-16:00：普通物理（授课讲师：于小舒）核心概念总结+解题技巧  
-16:00-18:00：电路分析（授课讲师： 袁翊硕）关键公式讲解+实例分析  
-10月27日（周日）：14:00-16:00：微积分I（一层次）（授课讲师：柯昌纬）真题回顾与讲解+知识点梳理  
-16:00-18:00：微积分I（二层次）（授课讲师：熊徐琢）真题回顾与讲解+知识点梳理  
-（有真题回顾哦！）  
-各课程具体地点请关注书院官方通知，我们期待着每一位热爱学习的你的加入！</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E4%BF%A1%E4%BB%B6%E7%9B%B2%E7%9B%92%E7%AC%AC%E4%B8%80%E6%9C%9F</id><title>信件盲盒第一期</title><updated>2024-10-24T15:42:39.057291+00:00</updated><content type="html">活动流程：本次书信采取盲盒的方式，报名参加的同学领取信封后，可以自己选择信纸，选择感兴趣的小主题，进行投递，一至两周后将截止收信，打乱后在次日再随机发给报名同学。同学们可以进行回信，在下一次主题收信时与新写的信件一起投递，一共投递两封信。  
-第一期主题：“薄荷时刻”，“时空隧道”，“不说永远，在每个瞬间”，“世界疏离而繁杂，谢谢你赋予我关于爱的想象”。  
-参与方式：有意愿参加的同学在10月25日-10月26日仙林大学生活动中心或鼓楼南青格庐填写报名表单，登记笔名，加入微信群，领取信封。  
-微信群聊详见推文&lt;https://mp.weixin.qq.com/s/ksyoOgnn1Fxp9xljTjUo2Q&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E5%BF%83%E7%90%86%E5%AD%A6%E5%B0%8F%E5%9C%86%E6%A1%8C</id><title>心理学小圆桌</title><updated>2024-10-24T15:42:39.057284+00:00</updated><content type="html">时间：10月26日13:30  
-地点：仙林校区敬文大学生活动中心9楼  
-讨论书目：《我们内心的冲突》  
-讨论话题：  
-1、内心冲突的来源  
-2、冲突与人际关系和人格的相互影响  
-3、内心冲突外化的表现  
-4、内心理想化形象的功能  
-报名方式：详见推文&lt;https://mp.weixin.qq.com/s/MF58axnYQsOteFBz2r-Qog&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E6%8E%92%E5%8D%8F%E9%99%A2%E7%B3%BB%E6%9D%AF%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A</id><title>排协院系杯赛程预告</title><updated>2024-10-24T15:42:39.057270+00:00</updated><content type="html">男排小组赛：地科-人文  
-时间：10月25日20:30  
-地点：方肇周副馆</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#2024%E5%8D%97%E4%BA%AC%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BF%97%E6%84%BF%E8%80%85%E6%8B%9B%E5%8B%9F%E5%90%AF%E5%8A%A8</id><title>2024南京马拉松志愿者招募启动</title><updated>2024-10-24T15:42:39.057257+00:00</updated><content type="html">2024南京马拉松将于11月17日上午7:30鸣枪起跑。  
-志愿者招募信息：
-活动地点：南京马拉松赛道9公里补给点（近中山南路与白下路十字路口）。  
-志愿招募对象：115名南京大学在读学生（鼓楼校区优先）。  
-培训时间：2024年11月初，具体时间待定，非特殊情况必须参加。  
-报名链接：&lt;https://table.nju.edu.cn/dtable/forms/6c68c833-ec64-488b-8c20-7fffa3b377df/&gt;  
-具体事项请阅读原文&lt;https://mp.weixin.qq.com/s/um1feivhvwd-SYcci-Nu6Q&gt;  
-报名截止时间：10月26日12：00</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%8C%AE%E8%A1%80%E5%91%A8%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5</id><title>南京大学献血周即将到来</title><updated>2024-10-24T15:42:39.057244+00:00</updated><content type="html">活动安排：  
-鼓楼校区：10月31日 9:00-16:00 逸夫馆报告厅  
-仙林校区：10月31日-11月1日 9:00-16:00 敬文活动中心多功能厅</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E7%8E%84%E6%AD%A6%E5%8C%BA%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%85%9A%E5%BB%BA%E2%80%9D%E9%9D%92%E6%9F%A0%E5%8A%A9%E7%90%86%E2%80%9D%E5%B2%97%E4%BD%8D%E6%8B%9B%E5%8B%9F</id><title>玄武区产业链党建”青柠助理”岗位招募</title><updated>2024-10-24T15:42:39.057219+00:00</updated><content type="html">玄武团区委开展第二期玄武区产业链党建”青柠助理”选派行动，计划招募选派优秀硕（博）士研究生，担任玄武区产业链党建党务助理、产业实习助理。  
-招募条件、见习时间、岗位职责、管理保障、岗位需求、录用程序等请点击链接&lt;https://mp.weixin.qq.com/s/hN8YupOfzb3qdHj1TaGbww&gt;查看。</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%AB%98%E6%A0%A1%E6%99%BA%E7%9B%9F%E5%8D%A1%E6%8E%A8%E5%87%BA</id><title>江苏省高校智盟卡推出</title><updated>2024-10-24T15:42:39.057204+00:00</updated><content type="html">申办江苏省高校数字图书馆联盟（JALIS）推出的高校智盟卡，可前往联盟高校图书馆借阅对外开放的图书，目前已经有东南大学、南京师范大学等多所学校加入。  
-具体申请指南和服务内容请关注南京大学图书馆推文&lt;https://mp.weixin.qq.com/s/_DKYPPnYqSWEMRflTa0ihw&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-10-24T15:42:39.057194+00:00</updated><content type="html">&lt;table&gt;
+# **参考消息**</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#%E7%89%A9%E9%99%A2%E5%A5%8B%E8%BF%9B%E4%BD%93%E8%83%BD%E8%90%A5</id><title>物院奋进体能营</title><updated>2024-10-25T15:35:05.690198+00:00</updated><content type="html">活动时间：2024年10月28日 - 2024年12月8日  
+活动对象：物理学院全体师生  
+打卡项目：跑步、游泳、球类、健身、徒步  
+打卡方式：加入活动群，使用腾讯文档进行”运动打卡”  
+打卡群、具体打卡方式、奖励等见原文：&lt;https://mp.weixin.qq.com/s/HPX6UFKlSoiVdRumUo0OyA&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#%E9%BB%91%E5%8C%A3%E5%AD%90%20%7C%20%E9%87%8D%E5%86%99%E5%89%A7%E5%9C%BA%E5%8F%B2%C2%B7%E5%8D%97%E4%BA%AC</id><title>黑匣子 | 重写剧场史·南京</title><updated>2024-10-25T15:35:05.690181+00:00</updated><content type="html">是庆祝南京大学文学院建院110周年系列活动之一  
+中国当代表演艺术文献开放展  
+附:南京大学艺术硕士剧团回顾展  
+展览时间：2024.10.28-12.28  
+开幕：2024年10月28日15:00  
+地点：南京大学博物馆(星云楼一楼)  
+主办：南京大学文学院戏剧影视艺术系  
+协办：南京大学博物馆  
+展览具体内容详见&lt;https://mp.weixin.qq.com/s/xCA2Qe7wDlXd2XnfmgniQA&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-10-25T15:35:05.690173+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;往期讲座&lt;/th&gt;
@@ -77,64 +37,28 @@ see you next time.</content></entry><entry><id>https://nik-nul.github.io/news/20
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《聚合物的研发与...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-03"&gt;10.3&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;《电池及电化学能...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.24&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-03"&gt;10.3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;《专利查新与规避...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.19&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-03"&gt;10.3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;《与&amp;lt;自然&amp;gt;编辑对...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.30&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-16"&gt;10.16&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《语言能力与前近...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-18"&gt;10.18&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《国家图书馆的古...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-18"&gt;10.18&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;图书馆系列讲座&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《大众视角与历史...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-21"&gt;10.21&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《近代中国女性史...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《量子非互易性》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;《志工人力资源的...》&lt;/td&gt;
@@ -155,44 +79,8 @@ href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《Animal Liberation...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;《元明时代的中心...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《唐代青藏高原主...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《The Token-Effort...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《Complexity of...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《Non-convergence ...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《基础Python……》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -208,22 +96,31 @@ href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;《下一代信任网络...》&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;《大模型技术的发...》&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10.31&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-25"&gt;10.25&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-1.2024诺奖解读系列报告会——“物理与智能的碰撞：从诺奖看AI在科学中的崛起”  
-讲座时间：10.26（周六）上午9点  
-讲座地点：鼓楼校区 逸夫馆1-407  
-主讲人：卢毅，现任南京大学物理学院教授。2010年于北京大学获得物理学学士学位，2017年于德国马克思普朗克固体研究所获得博士学位，随后在德国海德堡大学理论物理所开展博士后研究工作，并于2021年加入南京大学。研究领域涵盖凝聚态理论与量子多体计算，重点关注强关联电子体系的新奇物相探索，以及基于张量网络和神经网络等手段的关联计算方法开发。
-
-2.行知学堂:下一代信任网络：技术革新、数据流通与系统安全  
-时间：10月27日（周日）下午14:00  
-地点：鼓楼校区新教学楼207  
-主讲人：高承实(安徽栈谷科技有限公司董事长)——分讲座：区块链的发展和未来  
-杨征(北京大学长沙计算与数字经济研究院、科技开发部副部长、研究员)——分讲座：数据要素市场化配置探析  
-孙猛(北京大学数学科学学院信息与计算科学系副主任，教授、博士生导师)——分讲座：胜却人间无数——当区块链与形式化验证相逢  
-主持人：颜嘉麒(南京大学信息管理学院信息管理科学系主任，教授、博士生导师)  
-讲座报名二维码见&lt;https://mp.weixin.qq.com/s/2CxULx2OR1p2bWb9JAp6qQ&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-10-24T15:42:39.057178+00:00</updated><content type="html">&lt;table&gt;
+1.AI for Science 大模型技术的发展、实践及挑战（美团）  
+时间：2024年10月31日（周四） 19:00-20:00  
+地点：仙林校区计算机科学技术楼231教室  
+此次分享的主要内容是结合美团业务场景，介绍大模型关键技术的发展，分享大模型在不同业务场景下的实践经验和新的挑战。  
+讲座流程：  
+1. 技术大咖带你了解美团最新、最前沿的科技场景。  
+2. 校招HR解读美团技术校招的岗位和方向。  
+3. 现场Q&amp;A，与嘉宾一对一交流，尽情提问。  
+参与方式详见链接&lt;https://mp.weixin.qq.com/s/AkQqn7UDnzjXm5kN7PXpaw&gt;  
+到场即可获得精美伴手礼一份，讲座设置有奖问答，礼品多多！</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-10-25T15:35:05.690158+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -251,148 +148,124 @@ href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;急救培训活动报名&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-17"&gt;10.17&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;计院迎新晚会征集节目&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-12"&gt;10.12&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;马院主题宣讲报名&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.25&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-05"&gt;10.5&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;织围巾志愿者招募&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;心协DIY活动&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;心协流光影院&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-17"&gt;10.17&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;校园今日说法大赛&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-17"&gt;10.17&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;遵义精神宣讲团遴选&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-10"&gt;10.10&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;青鸟剧场新戏招募&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-14"&gt;10.14&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;体测&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-16"&gt;10.16&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;鼓楼音乐跑&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;普通话考试报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.28&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-14"&gt;10.14&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;仙林校史馆招募讲解员&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.30&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-09-12"&gt;9.12&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;本科生暑期课程评教&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.31&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-09-19"&gt;9.19&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;黑匣招募&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-19"&gt;10.19&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;学位英语考试报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-17"&gt;10.17&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;校运会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.8&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-21"&gt;10.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;后革命鲁迅研究征文&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.10&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-08"&gt;10.8&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;大创训练计划申报&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.18&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-09-24"&gt;9.24&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;招生宣传创意征集大赛&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.18&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-21"&gt;10.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;EBSCO数据库检索大赛&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.20&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-03"&gt;10.3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;文院征稿&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.20&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;乐跑&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.8&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-12"&gt;10.12&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;大创课题成员招募&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;国际访学计划申报&lt;/td&gt;
@@ -401,20 +274,8 @@ href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;校园涂鸦快闪&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;毓琇书院宿舍评比&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.31&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;物院原子弹爆炸活动&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.24&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -445,6 +306,5 @@ href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-24#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-10-24T15:42:39.057109+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
-客服小祥  
+------------------------------------------------------------------------</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-25#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-10-25T15:35:05.690113+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951 客服小祥  
 想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content></entry></feed>
