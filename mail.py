@@ -17,7 +17,7 @@ today = os.popen("TZ=Asia/Urumqi date '+%F'").read()[:-1]
 import email.message
 
 msg = email.message.EmailMessage()
-msg["Subject"] = f"南哪消息第 100 期！ {today}"
+msg["Subject"] = f"南哪消息 {today}"
 msg["From"] = "南哪小报编辑部 <231220103@smail.nju.edu.cn>"
 # msg["Bcc"] = "231220103@smail.nju.edu.cn, 2486227356@qq.com"
 msg["Bcc"] = mailing_list
