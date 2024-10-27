@@ -1,79 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-10-26T15:17:49.360359+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-10-26" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-10-26#%E4%B8%A5%E5%A4%8D%E3%80%8A%E6%95%91%E4%BA%A1%E5%86%B3%E8%AE%BA%E3%80%8B%EF%BC%88%E4%BA%8C%EF%BC%89</id><title>严复《救亡决论》（二）</title><updated>2024-10-26T15:17:49.360682+00:00</updated><content type="html">夫数八股之三害，有一于此，则其国鲜不弱而亡，况夫兼之者耶！今论者将谓八股取士，固未尝诚负于国家，彼自明以来用之矣，其所收之贤哲巨公，指不胜屈，宋苏轼尝论之矣。果循名责实之道行，则八股亦何负于天下？此说固也，然不知利禄之格既悬，则无论操何道以求人，将皆有聪明才智之俦入其彀。设国家以饭牛取士，亦将得宁戚、百里大夫；以牧豕取士，亦将得卜式、公孙丞相。假当日见其得人，遂以此为科举之恒法，则诸公以为何如？夫科举之事，为国求才也，劝人为学也。求才为学二者，皆必以有用为宗。而有用之效，征之富强；富强之基，本诸格致。不本格致，将无所往而不荒虚，所谓”蒸砂千载，成饭无期”者矣。彼苏氏之论，取快一时，盖方与温公、介甫立异抵，又何可视为笃论耶！总之，八股取士，使天下消磨岁月于无用之地，堕坏志节于冥昧之中，长人虚骄，昏人神智，上不足以辅国家，下不足以资事畜。破坏人才，国随贫弱。此之不除，徒补苴罅漏，张皇幽渺，无益也，虽练军实、讲通商，亦无益也。何则？无人才，则之数事者，虽举亦废故也。舐糠及米，终致危亡而已。然则救之之道当何如？曰：痛除八股而大讲西学，则庶乎其有鸠耳。东海可以回流，吾言必不可易也。  
-难者曰：夫八股锢智慧，坏心术，滋游手，积将千年之弊，流失败坏，一旦外患凭陵，使国家一无可恃。欲战则忧速亡，忍耻求和，则恐寖微寖灭。当是之时，其宜改弦更张，不待议矣。顾惟是处存亡危急之秋，待学问以图功，将何殊播谷饲蚕，俟获成献功，以救当境饥寒之患。道则是矣，于涂无乃迂乎？今先生论救亡而以西学格致为不可易，夫格致何必西学，固吾道《大学》之始基也，独其效若甚赊，其事若甚琐。朱晦翁《补传》一篇，大为后贤所聚讼。同时陆氏兄弟，已有逐物破道之讥。前明姚江王伯安，儒者之最有功业者也，格窗前一竿竹，七日病生。其说谓”格”字当以孟子格君心之非，及今律格杀勿论诸”格”字为训，谓当格除外物，而后有以见良知之用，本体之明。此尤事功无待格致之明证，而先生谓富强以格致为先务，蒙窃惑之。其说得详闻欤？  
-应之曰：不亦善乎，客问之也。夫中土学术政教，自南渡以降，所以愈无可言者，孰非此陆王之学阶之厉乎！以国朝圣祖之圣，为禹、文以后仅见之人君，亦不过挽之一时，旋复衰歇。盖学术末流之大患，在于徇高论而远事情，尚气矜而忘实祸。夫八股之害，前论言之详矣。而推而论之，则中国宜屏弃弗图者，尚不止此。自有制科来，士之舍干进梯荣，则不知焉所事学者，不足道矣。超俗之士，厌制艺则治古文词，恶试律则为古今体；鄙折卷者，则争碑版篆隶之上游；薄讲章者，则标汉学考据之赤帜。于是此追秦汉，彼尚八家，归、方、刘、姚，恽、魏、方、龚；唐祖李、杜，宋檷苏、黄；七子优孟，六家鼓吹。魏碑晋帖，南北派分，东汉刻石，北齐写经。戴、阮、秦、王，直闯许、郑，深衣几幅，明堂两个。钟鼎校铭，圭琮著考，秦权汉日，穰穰满家。诸如此伦，不可殚述。然吾得一言以蔽之，曰：无用。非真无用也，凡此皆富强而后物阜民康，以为怡情遣日之用，而非今日救弱救贫之切用也。其又高者曰：否否，此皆不足为学。学者学所以修己治人之方，以佐国家化民成俗而已。于是侈陈礼乐，广说性理。周、程、张、朱，关、闽、濂、洛。学案几部，语录百篇。《学蔀通辨》，《晚年定论》。关学刻苦，永嘉经制。深宁、东发，继者顾、黄，《明夷待访》、《日知》着录。褒衣大袖，尧行舜趋。</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E7%AF%AE%E5%8D%8F%E9%99%A2%E7%B3%BB%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B</id><title>篮协院系杯小组赛</title><updated>2024-10-26T15:17:49.360676+00:00</updated><content type="html">日期：10月27日  
-地点：一组团篮球场  
-男篮：匡院vs地科 12：30-14：00  
-软院vs文院 14：00-15：30  
-外院vs物理 15：30-17：00  
-商院vs材料 17：00-18：30  
-软院vs数学 18：30-20：00  
-女篮：外院vs生科 18：00-19：30  
-新传vs地海 18：30-20：00  
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-10-27T16:32:54.178940+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-10-27" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-10-27#%E3%80%8A%E5%8D%97%E5%93%AA%E6%B6%88%E6%81%AF%E3%80%8B%E4%B8%80%E7%99%BE%E6%9C%9F%E7%A5%9D%E8%BE%9E</id><title>《南哪消息》一百期祝辞</title><updated>2024-10-27T16:32:54.179228+00:00</updated><content type="html">消息编辑 小喇叭  
+  
+可喜可贺，今天是南哪消息运行的第一百期。从五月到十月，从寥寥数位编辑和联络员到三十五位编辑，从部分院系的公众号消息到南哪大专的一切院系、部门、社团、非社团组织的公众号、网站、群聊，这份消息汇编已经太多地出乎我的预期。我们经历了很多挫折：参考消息版面常常为人诟病，然而主编究竟没有删除，一方面是主编的个人喜好；另一方面，我也想知道它的存在能否引入更多的舆论声音。亦有多位编辑离开南哪消息，仍能记得共事的时刻。无论如何，南哪消息终于是活到了第一百期，我们还是应当庆祝；虽然第一百期在报界并不吉利——不必提起《清议报》旧事。然而我还是要用梁公的祝辞结束我的祝辞：“校报章之良否，其率何如？一曰宗旨定而高，二曰思想新而正，三曰材料富而当，四曰报事确而速。”“报兮报兮，君之生涯，亘两周兮；君之声尘，遍五洲兮；君之责任，重且遒兮，君其自爱，罔俾羞兮。祝君永年，与国民同体兮。”  
+客服小祥注：南哪消息是由南京大学各年级本科生、研究生用爱发电建设的集约化信息载体，主要汇总和发布活动预告，旨在破除信息壁垒、增进同学福祉，并非任何形式的报刊。</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#10.27-10.29%EF%BC%88%E5%91%A8%E6%97%A5%C2%A0%E5%91%A8%E4%BA%8C%EF%BC%89%E5%AD%A6%E6%9C%AF%E6%96%87%E5%8C%96%E6%B4%BB%E5%8A%A8%E6%A6%82%E8%A7%88</id><title>10.27-10.29（周日 周二）学术文化活动概览</title><updated>2024-10-27T16:32:54.179213+00:00</updated><content type="html">南京大学学生会学术创新部与SRTP学社现联合整理讲座信息如下：  
+&lt;https://mp.weixin.qq.com/s/9gEy_U13_p5Hu7qEGnZRtw&gt;  
 
 ------------------------------------------------------------------------
 
-# **参考消息**</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AC%AC9%E8%87%B311%E5%91%A8%E6%96%B0%E7%94%9F%E5%AD%A6%E9%99%A2%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC%E5%AE%89%E6%8E%92</id><title>2024年秋季学期第9至11周新生学院学业辅导安排</title><updated>2024-10-26T15:17:49.360663+00:00</updated><content type="html">新生学院学业辅导第七期启动，本期内容包括：新生学院驻院银发导师微积分/线性代数订制课堂，学业辅导志愿者线上线下辅导答疑。  
-一、微积分/线性代数订制课堂（以书院为单位订制）  
-新生学院新生学业发展与支持中心邀请驻院银发导师、数学学院退休教授黄卫华老师和孔敏老师为大家开设微积分和线性代数订制课堂。两位老师多次被学生评为”我最喜爱的老师”。  
-二、线上线下学业辅导答疑  
-新生学院招募了成绩优秀、认真负责、热情耐心、有一定经验的志愿者朋辈学长，为大家辅导答疑。  
-辅导答疑科目：微积分I（第一层次、第二层次）、线性代数（第一层次）、简明微积分、C程序设计（层次I、层次II）、C语言程序设计基础、Python程序设计等。  
-三、其他辅导
-同学们如有其他学业辅导需求（包括其他科目、其他辅导类型，如团体辅导/小班辅导/一对一辅导/答疑等），欢迎点击链接或扫码填写”2024秋季学期学业辅导答疑需求信息收集”&lt;https://table.nju.edu.cn/dtable/forms/0c2561b8-b96a-49d9-848f-1a8290d0cc3c/&gt;  
-原文详见&lt;https://mp.weixin.qq.com/s/wGhq5Dq19S2ua1jRY24Z0g&gt;  
-  
-小报也预祝同学们期中考试顺利！</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E2%80%9C%E5%90%AB%E8%8B%B1%E5%92%80%E5%8D%8E%EF%BC%8C%E9%98%85%E4%BA%AB%E5%8D%88%E6%97%B6%E2%80%9D%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%BC%80%E6%94%BE%E6%97%81%E5%90%AC%E6%8A%A5%E5%90%8D</id><title>“含英咀华，阅享午时”新生午餐读书会第一场开放旁听报名</title><updated>2024-10-26T15:17:49.360648+00:00</updated><content type="html">一、时间地点  
-1、本场活动时间为2024年10月30日（周三）中午12:15-13:40，地点在鼓楼校区南大出版社三楼党建活动室。  
-2、读书会流程为两位同学发言各15分钟，提问讨论25分钟，老师评论导读30分钟。  
-3、本次活动向参加读书会活动的全体老师同学提供午餐。  
-二、阅读书目  
-1.乔治·巴塔耶：《吉尔·德·莱斯案：蓝胡子事件》，南京大学出版社，2018年版  
-2.娜塔莉·泽蒙·戴维斯：《马丁·盖尔归来》，北京大学出版社，2015年版  
-三、旁听报名  
-本活动每次向全校同学开放20个旁听名额，对本主题感兴趣的同学可报名参加讨论。本期报名抽签将于10月27日12：00开始，报名方式详见链接&lt;https://mp.weixin.qq.com/s/-CszH9Qc8W0I7AqESEfq_A&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E5%8D%97%E6%96%B0%E8%AF%BB%E4%B9%A6%E4%BC%9A%7C%E4%B8%8B%E5%91%A8%E9%A2%84%E5%91%8A</id><title>南新读书会|下周预告</title><updated>2024-10-26T15:17:49.360633+00:00</updated><content type="html">本期南新读书会将于10月30日19：00在新闻传播学院311室举办，23硕蒋艺瑶将分享Sarah
-Sharma / Rianka Singh《Re-Understanding Media: Feminist Extensions of
-Marshall Mcluhan》，23硕黄麒霖将分享段义孚《空间与地方：经验的视角》。</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E5%8D%97%E5%A4%A7%E8%BE%A9%E8%AE%BA%E6%96%B0%E7%94%9F%E6%9D%AF%E7%AC%AC%E4%BA%8C%E8%BD%AE%E5%B0%8F%E7%BB%84%E8%B5%9B</id><title>南大辩论新生杯第二轮小组赛</title><updated>2024-10-26T15:17:49.360619+00:00</updated><content type="html">日期：10月27日  
-一、对阵: 化生辩论队vs软件学院辩论队  
-时间: 14:00——15:30  
-地点：鼓楼新教502  
-辩题: 大数据时代，我们活得更自由/不自由  
-二、对阵: 电子信息类辩论队vs社会科学试验班辩论队  
-时间: 14:00——15:30  
-地点：鼓楼新教503  
-辩题: 大数据时代，我们活得更自由/不自由  
-三、对阵：经济管理试验班辩论队vs工科试验班辩论队  
-时间：18：30——20：00  
-地点：鼓楼新教503  
-辩题：网络文学是文学的堕落／新生  
-四、对阵：社会科学试验班辩论队vs人文科学试验班辩论队  
-时间：18：30——20：00  
-地点：鼓楼新教502  
-辩题：大数据时代，我们活得更自由/不自由  
-五、对阵：数理科学类辩论队vs地理科学与环境资源类辩论队  
-时间：18：30——20：00  
-地点：鼓楼新教202  
-辩题：网络文学是文学的堕落／新生  
-六、对阵：地理科学与环境资源类辩论队vs外国语言文学类辩论队  
-时间：18：30——20:00  
-地点：鼓楼新教204  
-辩题：网络文学是文学的堕落／新生  
-详见&lt;https://mp.weixin.qq.com/s/YRnQwldQbAIuxDvhOLOUVA&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98</id><title>百团大战</title><updated>2024-10-26T15:17:49.360609+00:00</updated><content type="html">时间：十一月的第一个周末  
-地点：鼓楼校区苏浙体育场  
-内容：  
-游园会集章：同学们可以领取”社团藏宝图”，并到每个社团摊位通过参与游戏来得到该社团在该点位的盖章，最终可到社管展台进行兑奖。已经兑奖的”藏宝图”会在其上进行特殊标注，防止重复兑奖。  
-风采展演：晚会分为三个篇章：“青春逐光”“文采融辉”“南雍聚梦”。各个社团将通过舞台表演的三个篇章展现风采。  
-详见&lt;https://mp.weixin.qq.com/s/loMt8gVUvvwhmXHCVPOdYw&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E8%8B%B1%E8%AF%AD%E4%BF%B1%E4%B9%90%E9%83%A8</id><title>英语俱乐部</title><updated>2024-10-26T15:17:49.360597+00:00</updated><content type="html">主题：Guochao, Social media platforms, AI, Shopping  
-时间：10月27日晚七点到八点半  
-地点：鼓楼校区新教学楼 -301  
-报名链接和详情见原文：&lt;https://mp.weixin.qq.com/s/I_ONcrB12LcjTRx4YhYAWg&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E9%AB%98%E7%A0%94%E9%99%A2%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E4%BC%9A%E7%AC%AC42%E5%9C%BA</id><title>高研院新生午餐会第42场</title><updated>2024-10-26T15:17:49.360581+00:00</updated><content type="html">题目：如何通过纪实影像理解社会  
-谈话人：邱月 南京大学社会学院准聘助理教授 南京大学高研院2024年驻院学者  
-主持人：吴维忆 南京大学艺术学院准聘副教授  
-时间：2024年10月30日（周三）12:20-13:20  
-地点：鼓楼校区 逸夫馆9楼高研院报告厅  
-抽签开始时间：10.28 12：30  
-抽签结束时间:10.29 12:30  
-具体链接：&lt;https://mp.weixin.qq.com/s/zeTiryO1_H-j_qIjIDmNUg&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-10-26T15:17:49.360572+00:00</updated><content type="html">&lt;table&gt;
+# **参考消息**</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#%E5%8D%97%E9%9D%92%E6%A0%BC%E5%BA%90%20x%20Passion%E5%85%AC%E5%BC%80%E8%AF%BE%20%7C%20Waacking</id><title>南青格庐 x Passion公开课 | Waacking</title><updated>2024-10-27T16:32:54.179198+00:00</updated><content type="html">来自南大passion街舞社  
+时间：10.29 周二 19:30-21:00  
+地点：鼓楼校区南园，南青格庐舞蹈房  
+舞种：Waacking  
+详情请查看：&lt;https://mp.weixin.qq.com/s/B_gmop8DaG-NTIhlX3i1Lg&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#%E7%AC%AC%E4%BA%94%E5%B1%8A%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E5%AE%A3%E8%AE%B2%E5%92%A8%E8%AF%A2%E6%B4%BB%E5%8A%A8%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%B8%93%E5%9C%BA</id><title>第五届联合国机构宣讲咨询活动南京大学专场</title><updated>2024-10-27T16:32:54.179177+00:00</updated><content type="html">活动介绍：为深化国际组织人才培养、大力向国际组织输送优秀人才，满足国家的全球治理人才需求及全球发展战略需要，国家留学基金管理委员会将在南京举办第五届联合国机构宣讲咨询（UN
+Job
+Fair）活动，让有志于国际事务的人才能够近距离接触和了解联合国及其相关机构的工作。  
+活动内容：来自联合国教科文组织、国际统一私法协会、联合国儿童基金会、联合国妇女署等4家国际组织的7位人力资源官员将来到南京大学开展国际组织政策宣讲及交流。届时将会有联合国官员与同学们进行现场互动交流，并有南京大学国际组织工作介绍与优秀南大学子国际组织实习经验分享等环节。  
+活动时间：2024年10月30日9:30-11:30  
+活动地点：南京大学学生就业指导中心303报告厅  
+报名和微信群二维码详见：&lt;https://mp.weixin.qq.com/s/SFtehUrLY4lX4YTpeQOd-A&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#%E4%BB%99%E6%9E%97%E8%8D%89%E5%9C%B0%E9%9F%B3%E4%B9%90%E8%8A%82</id><title>仙林草地音乐节</title><updated>2024-10-27T16:32:54.179161+00:00</updated><content type="html">活动时间：2024年11月3日（周日）18:00
+
+活动地点：南京大学仙林校区炜华体育场
+
+活动主题：奋进航线
+
+参与对象：南京大学全体师生
+
+主办方：共青团南京大学委员会学生组织与文体活动部
+
+转发其推送到朋友圈集满38个赞即可参与抽奖：&lt;https://mp.weixin.qq.com/s/VkJusNoRomVweiowTyvc_Q&gt;</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-10-27T16:32:54.179136+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;往期讲座&lt;/th&gt;
@@ -125,18 +79,6 @@ href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《元明时代的中心...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.26&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-23"&gt;10.23&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《行知学堂……》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;《大模型技术的发...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.31&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
@@ -160,28 +102,21 @@ href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;《作为社会互动的...》&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10.30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-27"&gt;10.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-1.从华盛顿看台湾问题  
-主讲人；赵全胜，美利坚大学国际关系学院教授  
-主持：刘相平，南京大学历史学院教授，台湾研究所所长  
-时间：10.30（周三）10：10  
-地点：仙1-410  
-2.拓扑材料和交变磁体中出现的多体相互作用  
-江苏省青年物理学家论坛  
-主讲人：钱天，中国科学院物理研究所研究员  
-报告时间：10月29日（周二）中午12点  
-报告地点：南京大学鼓楼校区唐仲英楼B501  
-原文：&lt;https://mp.weixin.qq.com/s/skQR36dogg4yDpunwnDe9A&gt;  
-3、毓秀教育经济学青年学者讲座第8期  
-题目：教育机会与子女随迁：来自异地高考的证据 Educational opportunity and
-children’s migration: Evidence from China’s Gaokao reform for children
-of migrant families  
-主讲人：李雪莹，讲师  
-主持人：康乐，特任副研究员  
-时间： 2024年10月28日（周一）13:30-15:30  
-地点：南京大学仙林校区潘琦楼B座103会议室</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-10-26T15:17:49.360557+00:00</updated><content type="html">&lt;table&gt;
+1.作为社会互动的论证  
+主讲人：鞠实儿（中山大学哲学系教授）  
+主持人：张建军（南京大学哲学学院教授）  
+时间：10月30日（周三）19：00-21：00  
+地点：哲学学院401报告厅  
+摘要：作为社会互动的论证，是隶属于一个或多个社会文化群体的个体成员，在相应社会文化背景和即时情景下，为了劝使其他成员对某事或某观点采取某种态度，依据所属社会文化群体规范生成的话语序列。</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-10-27T16:32:54.179121+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -195,30 +130,6 @@ of migrant families
 &lt;td style="text-align: center;"&gt;12.15&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;遵义精神宣讲团遴选&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-10"&gt;10.10&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;青鸟剧场新戏招募&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-14"&gt;10.14&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;体测&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-16"&gt;10.16&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;鼓楼音乐跑&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;普通话考试报名&lt;/td&gt;
@@ -317,26 +228,38 @@ href="https://nik-nul.github.io/news/2024-10-24"&gt;10.24&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;口语角&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;10.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;百团大战&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;南新读书会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;10.30&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;联合国南大宣讲&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10.30&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-27"&gt;10.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;Passion公开课&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;10.29&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-27"&gt;10.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;仙林草地音乐节&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-10-27"&gt;10.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-26#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-10-26T15:17:49.360514+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+------------------------------------------------------------------------</content></entry><entry><id>https://nik-nul.github.io/news/2024-10-27#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-10-27T16:32:54.179077+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 客服小祥  
 想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content></entry></feed>
