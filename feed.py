@@ -22,7 +22,7 @@ result = {}
 for match in matches:
     title = match.group(1).strip()
     content = match.group(2).strip()
-    if "讲座" not in title and "ogoing" not in title:
+    if title != "讲座" and "ngoing" not in title:
         content = content.replace("<", "").replace(">", "").replace("\n", "\n<br>")
     result[title] = content
 
