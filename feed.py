@@ -23,7 +23,7 @@ for match in matches:
     title = match.group(1).strip()
     content = match.group(2).strip()
     if "讲座" not in title and "ogoing" not in title:
-        content = content.replace("\n", "\n<br>").repalce("<", "").replace(">", "")
+        content = content.replace("\n", "\n<br>").replace("<", "").replace(">", "")
     result[title] = content
 
 url = f"https://nik-nul.github.io/news/{today}"
