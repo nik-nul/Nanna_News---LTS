@@ -22,6 +22,8 @@ result = {}
 for match in matches:
     title = match.group(1).strip()
     content = match.group(2).strip()
+    if "讲座" not in title and "ogoing" not in title:
+        content = content.replace("\n", "\n<br>").repalce("<", "").replace(">", "")
     result[title] = content
 
 url = f"https://nik-nul.github.io/news/{today}"
@@ -46,6 +48,7 @@ for k, v in result.items():
     fe.title(k)
     fe.content(v, type="html")
     fe.guid(url + "#" + urllib.parse.quote(k), permalink=True)
+    fe.link({"href": url + "#" + urllib.parse.quote(k), "rel": "self"})
 
 fg.link([{"href": "https://nik-nul.github.io/news/rss.xml", "rel": "self"}, {"href": url, "rel":"alternate"}])
 fg.rss_file("./feed/rss.xml")
