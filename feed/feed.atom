@@ -1,80 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-10-31T15:38:56.784751+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-10-31" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-10-31#2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BC%98%E8%B4%A8%E8%AF%BE%E7%A8%8B%E5%85%AC%E5%BC%80%E8%A7%82%E6%91%A9%E4%BF%A1%E6%81%AF%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89</id><title>2024年秋季学期优质课程公开观摩信息（实时更新）</title><updated>2024-10-31T15:38:56.785262+00:00</updated><content type="html">具体链接：https://jw.nju.edu.cn/00/04/c26263a720900/page.psp</content><link href="https://nik-nul.github.io/news/2024-10-31#2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BC%98%E8%B4%A8%E8%AF%BE%E7%A8%8B%E5%85%AC%E5%BC%80%E8%A7%82%E6%91%A9%E4%BF%A1%E6%81%AF%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E8%B5%B0%E8%BF%91%E5%90%8D%E4%BC%81%E7%AC%AC%E4%B9%9D%E5%BC%B9</id><title>走近名企第九弹</title><updated>2024-10-31T15:38:56.785244+00:00</updated><content type="html">南大SCDA发布  
-&lt;br&gt;公司：江苏景枫投资控股集团有限公司  
-&lt;br&gt;参访时间：2024年11月5日(周二)下午14：00  
-&lt;br&gt;参访地点:景枫中心(江苏省南京市江宁区双龙大道1698号)  
-&lt;br&gt;名额共三十五人  
-&lt;br&gt;活动流程:  
-&lt;br&gt;统一乘坐大巴前往，起始校区将根据学生报名情况决定。  
-&lt;br&gt;14:00-14:40 领导致辞 14:40-15:30 企业介绍  
-&lt;br&gt;15:40-16:20 场景体验 16:20-17:00 座谈交流  
-&lt;br&gt;17:10 晚餐  
-&lt;br&gt;报名方式：扫码报名。报名详情请查看https://mp.weixin.qq.com/s/OGYpx2H600fwxEkskKeGlQ  
-&lt;br&gt;报名截止时间:2024年11月4日（周一）中午12：00  
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2024-11-01T16:16:13.132661+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2024-11-01" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>TO BE DETERMINED</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2024-11-01#%E9%AB%98%E7%A0%94%E9%99%A2%E2%80%9D%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E4%BC%9A%E2%80%9D%20%E7%AC%AC43%E5%9C%BA</id><title>高研院”新生午餐会” 第43场</title><updated>2024-11-01T16:16:13.133015+00:00</updated><content type="html">题目：在江南水师-陆师学堂与鲁迅相遇  
+&lt;br&gt;谈话人：沈卫威 南京大学文学院教授  
+&lt;br&gt;主持人：郭芳洁 艺术学硕士 南京大学高研院学术秘书  
+&lt;br&gt;时间：2024年11月6日12:20-13:20  
+&lt;br&gt;地点：鼓楼校区逸夫馆9楼高研院报告厅  
+&lt;br&gt;抽签开始时间：11月4日中午12:30  
+&lt;br&gt;抽签结束时间：11月5日中午12：30  
+&lt;br&gt;人数限额为30人，先到先得。  
+&lt;br&gt;具体链接：https://mp.weixin.qq.com/s/TJrlDWZVemJuuJfa_fSarA</content><link href="https://nik-nul.github.io/news/2024-11-01#%E9%AB%98%E7%A0%94%E9%99%A2%E2%80%9D%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E4%BC%9A%E2%80%9D%20%E7%AC%AC43%E5%9C%BA"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#%E2%80%9C%E9%87%8D%E5%86%99%E5%89%A7%E5%9C%BA%E5%8F%B2%C2%B7%E5%8D%97%E4%BA%AC%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E6%96%87%E7%8C%AE%E5%BC%80%E6%94%BE%E5%B1%95</id><title>“重写剧场史·南京”中国当代表演艺术文献开放展</title><updated>2024-11-01T16:16:13.132985+00:00</updated><content type="html">展出开放时间  
+&lt;br&gt;2024年10月28日至12月28日，每周一至周五，10:00-17:00（16:30停止入场）  
+&lt;br&gt;展出地点  
+&lt;br&gt;南京大学星云楼一楼展厅  
+&lt;br&gt;观展预约方式详见https://mp.weixin.qq.com/s/izZ5trO78E8ceMHe1gKN-Q</content><link href="https://nik-nul.github.io/news/2024-11-01#%E2%80%9C%E9%87%8D%E5%86%99%E5%89%A7%E5%9C%BA%E5%8F%B2%C2%B7%E5%8D%97%E4%BA%AC%E2%80%9D%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E6%96%87%E7%8C%AE%E5%BC%80%E6%94%BE%E5%B1%95"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E6%97%81%E5%90%AC%E6%8A%A5%E5%90%8D</id><title>午餐读书会旁听报名</title><updated>2024-11-01T16:16:13.132966+00:00</updated><content type="html">活动时间：2024年11月6日（周三）中午12:15-13:40  
+&lt;br&gt;地点:鼓楼校区南大出版社党建活动室  
+&lt;br&gt;流程:两位同学发言各15分钟，提问讨论25分钟，老师评论导读30分钟(本次活动向参加读书会活动的全体老师同学提供午餐)  
+&lt;br&gt;阅读书目:
 &lt;br&gt;
-&lt;br&gt;------------------------------------------------------------------------
-&lt;br&gt;
-&lt;br&gt;# **附录**</content><link href="https://nik-nul.github.io/news/2024-10-31#%E8%B5%B0%E8%BF%91%E5%90%8D%E4%BC%81%E7%AC%AC%E4%B9%9D%E5%BC%B9"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E6%B5%B7%E5%B2%9B%E6%94%BE%E6%98%A0%20%7C%20%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA</id><title>海岛放映 | 乱世佳人</title><updated>2024-10-31T15:38:56.785150+00:00</updated><content type="html">放映时间：11月2日(周六) 19:00  
-&lt;br&gt;放映地点：  
-&lt;br&gt;鼓楼校区/东大楼208  
-&lt;br&gt;浦口校区/艺术楼B10</content><link href="https://nik-nul.github.io/news/2024-10-31#%E6%B5%B7%E5%B2%9B%E6%94%BE%E6%98%A0%20%7C%20%E4%B9%B1%E4%B8%96%E4%BD%B3%E4%BA%BA"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E6%8E%92%E5%8D%8F%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A</id><title>排协赛程预告</title><updated>2024-10-31T15:38:56.785139+00:00</updated><content type="html">新生杯 11月2日：  
-&lt;br&gt;10:00-11:15 秉文书院队—行知书院队  
-&lt;br&gt;11:30-12:45 安邦队—地虎开甲队  
-&lt;br&gt;13:00-14:15 来都来了队—输赢都去开派队  
-&lt;br&gt;14:30-15:45 炎龙开甲队—无论输赢学长都要请吃饭队  
-&lt;br&gt;地点：鼓楼校区三号排球场  
-&lt;br&gt;院系杯：  
-&lt;br&gt;11.1 16:30 男排预赛 材料-数学  
-&lt;br&gt;11.2 11:30 女排预赛 商院-地科  
-&lt;br&gt;11.2 13:00男排预赛 地科-数学  
-&lt;br&gt;11.2 14:30 男排预赛 电子-外院  
-&lt;br&gt;11.1 19:30 女排预赛 商院-大气</content><link href="https://nik-nul.github.io/news/2024-10-31#%E6%8E%92%E5%8D%8F%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E7%89%A9%E7%90%86%E5%AD%A6%E9%99%A2%E9%A3%9E%E7%9B%98%E6%B4%BB%E5%8A%A8</id><title>物理学院飞盘活动</title><updated>2024-10-31T15:38:56.785124+00:00</updated><content type="html">活动时间：2024年11月3日9:00-12:00  
-&lt;br&gt;活动对象：物理学院24级研究生以及各位感兴趣的同学  
-&lt;br&gt;活动地点：鼓楼校区苏浙运动场  
-&lt;br&gt;活动环节：设置”教学时间”以及”萌芽赛道”、“角逐赛道”两个赛道。  
-&lt;br&gt;报名方式：扫描推文中的二维码或者点击报名链接https://table.nju.edu.cn/dtable/forms/b2bc51db-74e7-4ff1-9dea-2f9ff8956687/，填写提交报名表即可。QQ群：965610010。  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/RQUd6ZHi2bcg45IRHTkujA</content><link href="https://nik-nul.github.io/news/2024-10-31#%E7%89%A9%E7%90%86%E5%AD%A6%E9%99%A2%E9%A3%9E%E7%9B%98%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E5%BF%83%E5%8D%8F%E4%B9%90%E8%B7%91%E6%B4%BB%E5%8A%A8</id><title>心协乐跑活动</title><updated>2024-10-31T15:38:56.785110+00:00</updated><content type="html">主办单位：南京大学学生心理协会，南京大学心理健康教育与研究中心  
-&lt;br&gt;活动时间:2024年11月3日至12月2日  
-&lt;br&gt;南大全体在校学生均可参与  
-&lt;br&gt;活动内容：总时长为30天，参与者需完成至少21天健康跑打卡和心理知识问答打卡
-&lt;br&gt;活动共设置单人跑步、双人跑步、四人跑步三个赛道，分开排名，设置不同奖品。对于大一新生设置”书院最高分”的个人奖。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/2cKXb7r3OFmgHjbxJAhWiQ  
-&lt;br&gt;女生跑步打卡的时间额外增加7天，即女生跑步打卡在12月8号截止</content><link href="https://nik-nul.github.io/news/2024-10-31#%E5%BF%83%E5%8D%8F%E4%B9%90%E8%B7%91%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E7%A7%89%E6%96%87%E4%B9%A6%E9%99%A2%3A%E6%9C%8B%E8%BE%88%E5%AF%BC%E5%B8%88%E5%88%86%E4%BA%AB%E4%BC%9A</id><title>秉文书院:朋辈导师分享会</title><updated>2024-10-31T15:38:56.785090+00:00</updated><content type="html">活动内容：邀请五位优秀的朋辈导师围绕学习方法、学术科创、团学工作、交流交换内容进行分享  
-&lt;br&gt;活动时间：2024年11月3日下午3：00-5：00  
-&lt;br&gt;活动地点：教学楼101  
-&lt;br&gt;活动嘉宾:董文璐 马克思主义学院23级本科生——学习方法  
-&lt;br&gt;曾曼睿 新闻传播学院22级本科生——学习方法  
-&lt;br&gt;刘明瑞 哲学学院21级本科生——学术科创  
-&lt;br&gt;刘双伊 外国语学院22级本科生——团学工作、交流交换  
-&lt;br&gt;姚星宇 文学院22级本科生——学习方法  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/TtkqRgdVuBGJdEKF_RfQEQ</content><link href="https://nik-nul.github.io/news/2024-10-31#%E7%A7%89%E6%96%87%E4%B9%A6%E9%99%A2%3A%E6%9C%8B%E8%BE%88%E5%AF%BC%E5%B8%88%E5%88%86%E4%BA%AB%E4%BC%9A"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%A4%E5%A4%A9%28%E5%86%85%E5%90%AB%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96%29</id><title>百团大战倒计时两天(内含转发抽奖)</title><updated>2024-10-31T15:38:56.785067+00:00</updated><content type="html">南大社团发布  
-&lt;br&gt;包含本次百团大战的活动规则、舞台演出和转发抽奖等讯息  
-&lt;br&gt;详情请查看https://mp.weixin.qq.com/s/n2JhHElZ35gbCtFzHPaPzA</content><link href="https://nik-nul.github.io/news/2024-10-31#%E7%99%BE%E5%9B%A2%E5%A4%A7%E6%88%98%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%A4%E5%A4%A9%28%E5%86%85%E5%90%AB%E8%BD%AC%E5%8F%91%E6%8A%BD%E5%A5%96%29"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E7%AF%AE%E5%8D%8F%E6%98%8E%E6%97%A5%E8%B5%9B%E7%A8%8B</id><title>篮协明日赛程</title><updated>2024-10-31T15:38:56.785051+00:00</updated><content type="html">日期：11月1日  
-&lt;br&gt;地点：仙林校区一组团篮球场  
-&lt;br&gt;男篮院系杯小组赛：  
-&lt;br&gt;匡院vs政管 18：30-20：00  
-&lt;br&gt;女篮院系杯小组赛：  
-&lt;br&gt;外院vs软院 20：30-22：00  
-&lt;br&gt;研究生男篮:  
-&lt;br&gt;化学vs计科 16:00-17:00  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/kp380UAePcjnYWlb7G3XUQ</content><link href="https://nik-nul.github.io/news/2024-10-31#%E7%AF%AE%E5%8D%8F%E6%98%8E%E6%97%A5%E8%B5%9B%E7%A8%8B"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#2024%E7%A7%91%E5%88%9B%E9%9B%86%E5%B8%82</id><title>2024科创集市</title><updated>2024-10-31T15:38:56.785033+00:00</updated><content type="html">时间：11月2日14:00  
-&lt;br&gt;地点：南京大学鼓楼校区苏浙体育场  
-&lt;br&gt;具体链接：https://mp.weixin.qq.com/s/ZHK6B1H70TQUswv9nn9DOA  
-&lt;br&gt;今年，校团委学创部将以百团大战为契机，携手南京大学科创类社团，特别设置”科创集市”展台，推出”科创秘宝大挑战”活动，诚邀各位小南鲸认识科创、走近科创、爱上科创。在这里，你可以接触最新的科创动态、感受浓厚的科创氛围；在这里，你可以收获宝贵的”挑战杯”竞赛信息，也可以对明年南大承办”挑战杯”竞赛提出你的创意想法。</content><link href="https://nik-nul.github.io/news/2024-10-31#2024%E7%A7%91%E5%88%9B%E9%9B%86%E5%B8%82"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E3%80%8A%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F%E3%80%8B%E8%A7%82%E5%BD%B1%E4%BC%9A%E9%A2%84%E5%91%8A</id><title>《美丽人生》观影会预告</title><updated>2024-10-31T15:38:56.785001+00:00</updated><content type="html">时间：2024年11月1日 18:30-21:00
-&lt;br&gt;
-&lt;br&gt;地点：南京大学鼓楼校区新教501
-&lt;br&gt;
-&lt;br&gt;嘉宾：陆远，历史学学士、硕士，南京大学-日本名古屋大学联合培养社会学博士。
-&lt;br&gt;
-&lt;br&gt;报名详见：https://mp.weixin.qq.com/s/rWCbGdbPMMviqBc7yKjqTg
-&lt;br&gt;
-&lt;br&gt;QQ群：965609785
-&lt;br&gt;
-&lt;br&gt;主办：南京大学学生会
-&lt;br&gt;
-&lt;br&gt;承办：南大社院学生会、南大射雕社
-&lt;br&gt;
-&lt;br&gt;本期观影会，由南京大学学生会主办，南京大学社会学院学生会、南京大学社会调查协会承办，以观看和评析电影《美丽人生》的形式，邀请老师和同学们共同欣赏影片，在温馨的氛围中赏人间百态、悟人生哲理，提升文艺审美水平、丰富课余生活、培养健全人格。</content><link href="https://nik-nul.github.io/news/2024-10-31#%E3%80%8A%E7%BE%8E%E4%B8%BD%E4%BA%BA%E7%94%9F%E3%80%8B%E8%A7%82%E5%BD%B1%E4%BC%9A%E9%A2%84%E5%91%8A"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-10-31T15:38:56.784984+00:00</updated><content type="html">&lt;table&gt;
+&lt;br&gt;1.福柯《规训与惩罚》  
+&lt;br&gt;2.西蒙东《技术物的存在模式》  
+&lt;br&gt;指导老师：蓝江 哲学学院  
+&lt;br&gt;说明：本活动只面向南大校内师生开放，未报名者不得参与，活动当日需签到。
+&lt;br&gt;20个名额抽签制，旁听报名见https://mp.weixin.qq.com/s/YerEVagjOpjI60gCMxCKlA</content><link href="https://nik-nul.github.io/news/2024-11-01#%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E6%97%81%E5%90%AC%E6%8A%A5%E5%90%8D"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#2024%E5%8D%97%E5%A4%A7%E6%BC%94%E8%AF%B4%E5%AE%B6</id><title>2024南大演说家</title><updated>2024-11-01T16:16:13.132949+00:00</updated><content type="html">南京大学党委学生工作部主办，商学院、行知书院、苏州校区党群团工作办公室承办”立报国强国大志向，做挺膺担当奋斗者”2024年南大演说家主题演讲比赛。  
+&lt;br&gt;比赛形式：设置”科技自强”与”文化自信”主题，分为仙林赛区、鼓楼赛区、苏州赛区三个赛区，决赛在仙林校区统一举办。三个赛区独立评审，采取相同的赛制与评分标准。  
+&lt;br&gt;报名对象：南京大学全体全日制在校生  
+&lt;br&gt;报名方式：选手可通过院系推荐（每个院系、书院推荐2名）或个人报名的方式参与，并通过线上方式提交稿件及个人演讲视频。报名视频截止时间为2024年11月9日24：00  
+&lt;br&gt;详情见：https://mp.weixin.qq.com/s/LdcGQP_1ZopIiH_WVQ3Q1Q  
+&lt;br&gt;报名链接：https://table.nju.edu.cn/dtable/forms/41e3e14a-3ded-403d-980b-b61328f1026f/</content><link href="https://nik-nul.github.io/news/2024-11-01#2024%E5%8D%97%E5%A4%A7%E6%BC%94%E8%AF%B4%E5%AE%B6"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#SIECA%20Welcome%20Party</id><title>SIECA Welcome Party</title><updated>2024-11-01T16:16:13.132928+00:00</updated><content type="html">南大学生国际交流与合作协会（NJUSIECA）发布  
+&lt;br&gt;2024年度迎新party公告  
+&lt;br&gt;活动时间：2024年11月3日  
+&lt;br&gt;活动地点：敬文学生活动中心多功能厅  
+&lt;br&gt;参加活动或可领取礼品  
+&lt;br&gt;详情请查看https://mp.weixin.qq.com/s/_ecAjTKV5utiZSmNUxnUJA</content><link href="https://nik-nul.github.io/news/2024-11-01#SIECA%20Welcome%20Party"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#2025%E5%B9%B4%E5%8D%97%E5%A4%A7%E4%BC%9A%E5%BE%81%E5%8B%9F%E4%BC%9A%E8%AE%BE</id><title>2025年南大会征募会设</title><updated>2024-11-01T16:16:13.132898+00:00</updated><content type="html">南京大学学生模拟联合国协会现通知会设征募事宜，目前待定2个中文常规委员会和1个英文常规委员会。  
+&lt;br&gt;申请截止时间：2024年11月15日23:59  
+&lt;br&gt;详见https://mp.weixin.qq.com/s/1LUXhyToYfG-lQCNmDe6Pw</content><link href="https://nik-nul.github.io/news/2024-11-01#2025%E5%B9%B4%E5%8D%97%E5%A4%A7%E4%BC%9A%E5%BE%81%E5%8B%9F%E4%BC%9A%E8%AE%BE"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2024-11-01T16:16:13.132881+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;往期讲座&lt;/th&gt;
@@ -126,20 +84,8 @@ href="https://nik-nul.github.io/news/2024-10-28"&gt;10.28&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-29"&gt;10.29&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《志愿服务大讲堂...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-30"&gt;10.30&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;《组织动员如何影...》&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.6&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-30"&gt;10.30&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《展览，游戏，还...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-30"&gt;10.30&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -149,27 +95,26 @@ href="https://nik-nul.github.io/news/2024-10-30"&gt;10.30&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;《Python绘图与建...》&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-1.毓琇讲坛27期:从”三星堆文明”到通用人工智能AGI
-——漫话信息和现代信息技术  
-主讲人：祝世宁 院士  
-时间:2024年11月06日 16：00  
-地点：南京大学鼓楼校区大礼堂  
-报名二维码见&lt;https://mp.weixin.qq.com/s/OVZ4j9NgCsWuf0OIcAnfKA&gt;
-
-2.开甲惟学沙龙丨绘图与建模–Python 工具包应用  
-主讲人:李尚敖(2022级计算机学院本科生，曾获2022-2023学年南京大学优秀学生。现为江苏省人工智能学会南京大学支会会员、南京大学人工智能协会社长)  
-时间:2024年11月1日（周五）18:30  
-地点:南京大学鼓楼校区南园综合楼509  
-报名二维码&lt;https://mp.weixin.qq.com/s/-06NHL8fthV8vg7cKAnhIw&gt;</content><link href="https://nik-nul.github.io/news/2024-10-31#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-10-31T15:38:56.784959+00:00</updated><content type="html">&lt;table&gt;
+1.地院||“面向新质生产力的关键矿产资源研究”学术创新论坛  
+时间：11月2日 9:00-16:30  
+地点:朱共山楼125；205  
+2.管理科学论坛  
+题目：如何成功运用质性研究方法  
+主讲人：Giorgio Locatelli 米兰理工大学  
+时间：11月8日 14:00-15:30  
+地点：协鑫楼108  
+详情见&lt;https://mp.weixin.qq.com/s/MIGPKOZTICSLU3vAvcj9YA&gt;  
+3.数学学院本科生论坛（教师系列第86讲）  
+题目: 关于partly smoothness研究介绍  
+报告人：陶敏  
+时间：11月06日(星期三)16:00-17:30  
+地点：戊己庚四楼北  
+腾讯会议：870-7007-3326  
+摘要:
+本讲座将深入浅出介绍一类非凸稀疏优化问题，从问题的研究背景、算法设计、收敛性分析、以及如何挖掘算法的变分性质、进而设计更高效的算法等角度展开介绍。</content><link href="https://nik-nul.github.io/news/2024-11-01#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2024-11-01T16:16:13.132856+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -185,82 +130,70 @@ href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;黑匣招募&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-19"&gt;10.19&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;学位英语考试报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-17"&gt;10.17&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;校运会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.8&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-21"&gt;10.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;后革命鲁迅研究征文&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.10&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-08"&gt;10.8&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;大创训练计划申报&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.18&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-09-24"&gt;9.24&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;招生宣传创意征集大赛&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.18&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-21"&gt;10.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;EBSCO数据库检索大赛&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.20&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-03"&gt;10.3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;文院征稿&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.20&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-20"&gt;10.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;乐跑&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.6&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-12"&gt;10.12&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;国际访学计划申报&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.22&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-22"&gt;10.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;百团大战&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.2&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-26"&gt;10.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;仙林草地音乐节&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-27"&gt;10.27&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;南大网球排位赛报名&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-28"&gt;10.28&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;普通话测试网络报名&lt;/td&gt;
@@ -323,38 +256,50 @@ href="https://nik-nul.github.io/news/2024-10-30"&gt;10.30&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;《美丽人生》观影会&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;11.1&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;科创集市&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.2&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;《乱世佳人》放映会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.2&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;物院飞盘活动&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;心协乐跑&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;11.3&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-10-31"&gt;10.31&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;读书午餐会报名&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;11.6&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-11-01"&gt;11.1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;南大会征募会设&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;11.15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-11-01"&gt;11.1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;新生午餐会报名&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;11.4&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-11-01"&gt;11.1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</content><link href="https://nik-nul.github.io/news/2024-10-31#Deadline%20Ongoing"/></entry><entry><id>https://nik-nul.github.io/news/2024-10-31#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-10-31T15:38:56.784903+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+------------------------------------------------------------------------</content><link href="https://nik-nul.github.io/news/2024-11-01#Deadline%20Ongoing"/></entry><entry><id>https://nik-nul.github.io/news/2024-11-01#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2024-11-01T16:16:13.132798+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小祥  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content><link href="https://nik-nul.github.io/news/2024-10-31#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content><link href="https://nik-nul.github.io/news/2024-11-01#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
