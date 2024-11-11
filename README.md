@@ -21,7 +21,7 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2024-11-09
+# 南哪消息 2024-11-11
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#订阅方式和加入编辑部"
@@ -29,19 +29,23 @@
     -   <a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
         Ongoing</a>
     -   <a href="#讲座" id="toc-讲座">讲座</a>
-    -   <a href="#新生午餐读书会第三场"
-        id="toc-新生午餐读书会第三场">新生午餐读书会第三场</a>
-    -   <a href="#计院掼蛋比赛" id="toc-计院掼蛋比赛">计院掼蛋比赛</a>
-    -   <a href="#计院满帮集团开放日"
-        id="toc-计院满帮集团开放日">计院满帮集团开放日</a>
-    -   <a href="#ncqm-2024-call-for-registration"
-        id="toc-ncqm-2024-call-for-registration">NCQM 2024 Call for
-        registration</a>
-    -   <a href="#鼓楼口语角" id="toc-鼓楼口语角">鼓楼口语角</a>
-    -   <a href="#区域国别研究院第1期博洽书会报名"
-        id="toc-区域国别研究院第1期博洽书会报名">区域国别研究院第1期”博洽书会”报名</a>
-    -   <a href="#srtp整理11.10-11.12学术文化活动"
-        id="toc-srtp整理11.10-11.12学术文化活动">&lt;SRTP整理&gt;11.10-11.12学术文化活动</a>
+    -   <a href="#南新读书会下周预告"
+        id="toc-南新读书会下周预告">南新读书会|下周预告</a>
+    -   <a href="#辩论表演赛预告" id="toc-辩论表演赛预告">辩论表演赛预告</a>
+    -   <a href="#同学小文栏目征稿启事"
+        id="toc-同学小文栏目征稿启事">“同学小文”栏目征稿启事</a>
+    -   <a href="#台湾青年大学生文化研习营"
+        id="toc-台湾青年大学生文化研习营">台湾青年大学生文化研习营</a>
+    -   <a href="#nca线下分享会" id="toc-nca线下分享会">NCA线下分享会</a>
+    -   <a href="#走近名企第十弹麦当劳"
+        id="toc-走近名企第十弹麦当劳">走近名企第十弹：麦当劳</a>
+    -   <a href="#马理论论坛刊物征文"
+        id="toc-马理论论坛刊物征文">马理论论坛、刊物征文</a>
+    -   <a href="#开展2024级普通全日制本科生学信网学籍信息自查的通知"
+        id="toc-开展2024级普通全日制本科生学信网学籍信息自查的通知">开展2024级普通全日制本科生学信网学籍信息自查的通知</a>
+    -   <a href="#srtp整理11.13-16学术文化活动概览"
+        id="toc-srtp整理11.13-16学术文化活动概览">&lt;SRTP整理&gt;11.13-16学术文化活动概览</a>
+    -   <a href="#鼓楼奋进跑" id="toc-鼓楼奋进跑">鼓楼奋进跑</a>
 
 # **活动预告**
 
@@ -56,7 +60,6 @@
 | 消息(未见ddl的，不刊) | 截止日期 |                      刊载日期                      |
 |:---------------------:|:--------:|:--------------------------------------------------:|
 |     紫藤学刊征稿      |  12.15   | [10.22](https://nik-nul.github.io/news/2024-10-22) |
-|  后革命鲁迅研究征文   |  11.10   | [10.8](https://nik-nul.github.io/news/2024-10-08)  |
 |   大创训练计划申报    |  11.18   | [9.24](https://nik-nul.github.io/news/2024-09-24)  |
 | 招生宣传创意征集大赛  |  11.18   | [10.21](https://nik-nul.github.io/news/2024-10-21) |
 |  EBSCO数据库检索大赛  |  11.20   | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
@@ -65,145 +68,182 @@
 |   国际访学计划申报    |  11.22   | [10.22](https://nik-nul.github.io/news/2024-10-22) |
 |  普通话测试网络报名   |  11.12   | [10.29](https://nik-nul.github.io/news/2024-10-29) |
 |    南大会征募会设     |  11.15   | [11.1](https://nik-nul.github.io/news/2024-11-01)  |
-|    心协十一月征稿     |  11.10   | [11.2](https://nik-nul.github.io/news/2024-11-02)  |
 |    秉文心理短视频     |  11.25   | [11.3](https://nik-nul.github.io/news/2024-11-03)  |
-|     法学主题参会      |  11.11   | [11.4](https://nik-nul.github.io/news/2024-11-04)  |
-|     心协香囊活动      |  11.10   | [11.4](https://nik-nul.github.io/news/2024-11-04)  |
-|   高校联合徒步报名    |  11.10   | [11.5](https://nik-nul.github.io/news/2024-11-05)  |
 |    天文台车赛报名     |  11.12   | [11.5](https://nik-nul.github.io/news/2024-11-05)  |
-|  南大模联校内会报名   |  11.11   | [11.5](https://nik-nul.github.io/news/2024-11-05)  |
 |  公务员面试大赛报名   |  11.12   | [11.6](https://nik-nul.github.io/news/2024-11-06)  |
-|  炜华音乐会(地海院)   |  11.10   | [11.6](https://nik-nul.github.io/news/2024-11-06)  |
 |       简历大赛        |  11.17   | [11.7](https://nik-nul.github.io/news/2024-11-07)  |
-|     林下诗社讲座      |  11.10   | [11.8](https://nik-nul.github.io/news/2024-11-08)  |
 |    黑匣工作坊招募     |  11.12   | [11.8](https://nik-nul.github.io/news/2024-11-08)  |
-|    新生午餐会报名     |  11.11   | [11.8](https://nik-nul.github.io/news/2024-11-08)  |
 |      医保补参保       |  11.17   | [11.8](https://nik-nul.github.io/news/2024-11-08)  |
-|    新生午餐会报名     |  11.10   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
 |     NCQM2024报名      |  11.15   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
-|      鼓楼口语角       |  11.10   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
 |       博洽书会        |  11.15   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
+|      南新读书会       |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|   AI爱情主题辩论赛    |  11.16   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|       NCA分享会       |  11.17   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|    走进名企麦当劳     |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
 
 ------------------------------------------------------------------------
 
 ## 讲座
 
-|        往期讲座        | 开展日期 |                      刊载日期                      |
-|:----------------------:|:--------:|:--------------------------------------------------:|
-| 《电池及电化学能...》  |  11.24   | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
-| 《专利查新与规避...》  |  12.19   | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
-|     图书馆系列讲座     |   12.3   | [10.20](https://nik-nul.github.io/news/2024-10-20) |
-| 《卢卡奇遗产中的...》  |  11.10   | [11.4](https://nik-nul.github.io/news/2024-11-04)  |
-| 《从微观数据到宏...》  |  11.11   | [11.5](https://nik-nul.github.io/news/2024-11-05)  |
-| 《教室性别结构对...》  |  11.14   | [11.7](https://nik-nul.github.io/news/2024-11-07)  |
-|  《Learning from AI》  |  11.13   | [11.7](https://nik-nul.github.io/news/2024-11-07)  |
-| 《humanism in the...》 |  11.11   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
-| 《基于无人机的移...》  |  11.12   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
-|      《回到万隆》      |  11.11   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
+|          往期讲座          | 开展日期 |                      刊载日期                      |
+|:--------------------------:|:--------:|:--------------------------------------------------:|
+|   《电池及电化学能...》    |  11.24   | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
+|   《专利查新与规避...》    |  12.19   | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
+|       图书馆系列讲座       |   12.3   | [10.20](https://nik-nul.github.io/news/2024-10-20) |
+|   《教室性别结构对...》    |  11.14   | [11.7](https://nik-nul.github.io/news/2024-11-07)  |
+|    《Learning from AI》    |  11.13   | [11.7](https://nik-nul.github.io/news/2024-11-07)  |
+|   《基于无人机的移...》    |  11.12   | [11.9](https://nik-nul.github.io/news/2024-11-09)  |
+|      《超克民族主义》      |  11.12   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|    《米洛·劳的真实...》    |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|  《Decouple electron...》  |  11.14   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+| 《A meta-mathematical...》 |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|   《Nakai-Moishezon...》   |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|   《我们是天生的赛...》    |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
+|   《都市男人社交与...》    |  11.13   | [11.11](https://nik-nul.github.io/news/2024-11-11) |
 
-1.Humanism in the Age of AI  
-主讲人：William Schweiker；Edward L. Ryerson Distinguished Service
-Professor of Theological Ethics, University of Chicago  
-与谈人：Iddo Dickmann（狄一多） 南京大学哲学学院副教授  
-主持人：孟振华 南京大学哲学学院教授  
-时间：2024年11月11日（周一）18:30  
-地点：南京大学哲学学院401报告厅  
-详情见<https://mp.weixin.qq.com/s/ytQvfshvwe9zTxpL5_OnSg>  
-2.江苏省青年物理学家论坛——基于无人机的移动式光量子网络
-
-报告时间：11月12日（周二）中午12点  
-报告地点：南京大学鼓楼校区唐仲英楼B501  
-报告人：谢臻达，南京大学电子科学与工程学院教授  
-直播链接：https://www.koushare.com/live/details/38421  
-详情与报名请查看<https://mp.weixin.qq.com/s/hw-xWKpBlYpEXZxdRyMoOg>  
-3.回到万隆：第三世界国际主义七十年
-
+1.超克民族主义：印度作为方法  
 主讲人：陈光兴 台湾交通大学社会与文化研究所荣誉教授  
-主持人：胡大平 南京大学哲学学院教授  
-时间：2024年11月11日（周一）19:00-21:00  
-地点：鼓楼校区逸夫馆9楼高研院报告厅  
-具体链接：<https://mp.weixin.qq.com/s/EGnSpYdSiKGfT1Yg4s8cVQ>  
+主持人：张亮 南京大学哲学学院教授  
+时间：2024年11月12日（周二）19:00-21:00  
+地点：新闻传播学院456会议室  
+具体链接：<https://mp.weixin.qq.com/s/wAj0SqvnmFqGg7PmdPpIJg>  
+2.米洛·劳的”真实剧场”  
+主讲人：Piet Defraeye，剧场导演，加拿大阿尔伯塔大学戏剧系教授  
+时间：2024年11月13日（周三）16:00-18:00  
+地点：南京大学仙林校区 文学院二楼活水轩  
+语言：英文（无翻译）  
+报名及其他详情请查看<https://mp.weixin.qq.com/s/_4QAoeZlmbkah7I_DW3XEg>  
+3.物理学院学术报告会(第40期)  
+题 目:Decouple electron and phonon transport for high-performance
+thermoelectrics  
+报告人:Jiaqing He,SUSTech  
+时 间:2024年11月14日(周四)15:30  
+地点:鼓楼校区唐仲英楼B501  
+<https://mp.weixin.qq.com/s/kWn760P5pR-G9BKQLHudOA>  
+4.A Meta-mathematical Perspective on Hausdorff Dimension  
+时间:2024年11月13日17:00  
+地点:鼓楼校区西大楼308  
+<https://mp.weixin.qq.com/s/RaueYcCeTtGnGXYgYUKoag>  
+5.Nakai-Moishezon criteria in Kahler geometry  
+主讲人:马 飙 BIAO MA, Peking University  
+现场报告时间:北京时间2024年11月12日(周二)下午4:30-5:30  
+现场报告地点:西大楼108报告厅  
+腾讯会议:287-824-509  
+会议密码:1112  
+<https://mp.weixin.qq.com/s/pyBlWS8f4zfbCeeoujjnwQ>  
+6.结构、生命形式与赛博格：我们是天生的赛博格吗？  
+主讲人：Dorothea Olkowski（UCCS”杰出教授”，南京大学国际访问学者）  
+主持人：Iddo Dickmann（南京大学副教授）  
+时间：2024年11月13日16-18点  
+地点：哲学学院401  
+摘要：<https://mp.weixin.qq.com/s/l38_vIYLDf496PwAc3UOkg>。  
+7.都市男人社交与媒介化家庭沟通之困境
 
-## 新生午餐读书会第三场
+主讲人：曹晋 复旦大学新闻学院教授哈佛燕京学者富布莱特学者  
+主持人：宗益祥 南京大学新闻传播学院副教授   
+时间：2024年11月13日（周三）19:00-20:30  
+地点：南京大学仙林校区国际学院C308高研院报告厅  
+具体链接：<https://mp.weixin.qq.com/s/7Y0104Qz2tW2ZjbkIa9Tmw>  
 
-1、本场活动时间为2024年11月13日（周三）中午12:15-13:40，地点在鼓楼校区南大出版社党建活动室。  
-2、读书会流程为两位同学发言各15分钟，提问讨论25分钟，老师评论导读30分钟。  
-3、本次活动向参加读书会活动的全体老师同学提供午餐。  
-旁听报名:本活动每次向全体新生开放20个旁听名额，对本主题感兴趣的同学可报名参加讨论。  
-本期报名抽签将于11月10日12：00开始
-详情见<https://mp.weixin.qq.com/s/ITF6Gs2VoBWjKwHcILYu_g>
+## 南新读书会\|下周预告
 
-## 计院掼蛋比赛
+下周的南新读书会将于11月13日19:00在新闻传播学院311室举办，24博文湘龙将分享韩晓强《走向媒介本体论》，24博伍栋阳将分享库尔特·勒温《拓扑心理学原理》。
 
-活动对象：  
-南京大学计算机学院全体研究生  
-时间地点：  
-时间：2024年11月14日（周四）14:00-16:00  
-地点：计算机科学技术楼221会议室（全员线下参赛）  
-报名方式：  
-以队伍为单位，成功填写报名表即视为报名成功。限额30队（60人），先到先得  
-奖品包括小蓝鲸搪瓷杯、莫斯利安酸奶等  
-活动规则、报名表等详见<https://mp.weixin.qq.com/s/56w5uIw6zSF0QcHF0GkN6w>  
+## 辩论表演赛预告
 
-## 计院满帮集团开放日
+主题：爱上人工智能算不算爱情？  
+活动时间：11月16日—17日  
+表演赛时间：11月16日10:00  
+活动地点：南京大学鼓楼校区新教学楼501  
+报名规则：每支队伍限4-6人，报名截止时间11月11日17:00  
+报名及其他详情请查看<https://mp.weixin.qq.com/s/36TjFXEBb9sSjiEKMJEkqA>  
 
+## “同学小文”栏目征稿启事
+
+紫藤学社 发布  
+征文要求：主题不限，投稿时间自由，格式请遵循学术规范，被收录的稿件将在”紫藤学社”微信公众号发表。优秀投稿者将有机会获得丰厚奖品，且稿件有机会被录入《紫藤学刊》杂志。  
+投稿方式：请以【同学小文-姓名-学号-学院】为主题,将稿件发送至<a href="zitengxueshe@126.com" class="uri">zitengxueshe@126.com</a>。  
+“同学小文”栏目介绍与其他详情请查看<https://mp.weixin.qq.com/s/zWNl9QIGZdtxG2_grm0LBQ>  
+
+## 台湾青年大学生文化研习营
+
+主题：“两岸一家亲·共赏金陵景”  
 活动时间  
-2024年11月12日（周二）下午  
+11 月16 日（星期六）8：00—17：00  
+报名对象  
+南京大学在校台湾青年10名  
+详见<https://mp.weixin.qq.com/s/aKFvFMpTxuUPyPjbHJPEyA>
+
+## NCA线下分享会
+
+主题：揭秘Top买方&外资投行的职业发展之路  
+活动时间  
+2024年11月17日（周日）19:00  
 活动地点  
-万博科技园A栋运满满（车辆往返接送）  
-参与对象  
-南京大学计算机学院学生  
-企业介绍与报名方式见<https://mp.weixin.qq.com/s/Yqs2lPE2JUkrtQzL8nNvZQ>  
+南京大学仙林校区（具体地点届时邮件告知）  
+内容概览  
+Top买方&外资投行申请技巧与面试经验分享  
+一级市场工作的真实体验与职业规划  
+从IBD到董助，再到消费品品牌的转型之路  
+报名二维码见原文附录  
+详见<https://mp.weixin.qq.com/s/Je1rXOQrdxFnaB_CYLsAag>
 
-## NCQM 2024 Call for registration
+## 走近名企第十弹：麦当劳
 
-The Nanjing Conference on Quantum Materials (NCQM) is an annual
-conference series that provides a high-level forum for addressing a wide
-range of highly relevant and frontier topics in condensed matter
-physics, as well as Atomic, Molecular and Optical Physics.  
-Conference Website Link
-<https://physics.nju.edu.cn/NCQM/home/index.html>  
-Registraion  
-Please scan the QR code in the link below to register for the conference
-by November 15th (free of registration fee).  
-Dates  
-November 22nd - 25th , 2024  
-Registration on 22nd , full-day meetings on 23rd - 24th , and morning
-meeting on 25th .  
-Venue  
-The Purple Palace  
-Address  
-No.18 Huanling Road, Xuanwu District, Nanjing, Jiangsu  
-For more information, please visit
-<https://mp.weixin.qq.com/s/_-8ls0OeO1USEr3YsFPqfw>
+活动信息  
+1.参访时间：  
+2024年11月13日（周三）下午  
+2.参访地点：  
+江苏省南京市玄武区徐庄软件园环园西路百家汇创新社区38栋  
+3.参访人数：  
+35人  
+4.活动流程：  
+统一乘坐大巴前往，起始校区将根据学生报名情况决定。  
+14:00-14:20 麦当劳中国介绍  
+14:20-15:00 麦当劳数字化转型及南研介绍  
+15:00-16:00 悟空项目介绍及学生互动体验  
+16:00-16:30 Office Tour及茶歇  
+16:00-17:00 校企互动交流  
+详见<https://mp.weixin.qq.com/s/3A_JZBRh_wDsCp93bFo4fQ>  
 
-## 鼓楼口语角
+## 马理论论坛、刊物征文
 
-NJU英语俱乐部 发布  
-主题：Childbirth, Memorable ending, Hometown, Self-study  
-本周鼓楼校区口语角将于本周日（11月10日）晚7:00-8:30进行，地点位于新教-202。  
-其他详情与报名请查看<https://mp.weixin.qq.com/s/fd99lThJu-rdWYKa04jyWQ>  
+马院公众号整理了一批论坛、刊物的征文活动，截止日期集中在今年12月，详阅：<https://mp.weixin.qq.com/s/WhTu6Y0lxuxBZTfs7lGBow>。
 
-## 区域国别研究院第1期”博洽书会”报名
+## 开展2024级普通全日制本科生学信网学籍信息自查的通知
 
-主题：“德国人的西藏幻象”  
-主讲嘉宾：赵光锐（南京大学国际关系学院副教授，国际政治系主任）  
-时间：2024年11月15日（周五）19:00-20:30  
-地点：南京大学区域国别研究院会议室（暂定）  
-活动简介：“博洽书会”每期围绕一本相关专著展开，以书著主题为当期讨论主题，时长约为1.5-2小时。每期由一名从事区域国别研究的教师（研究人员）担任主讲嘉宾，围绕个人近期作品进行30-40分钟的导读发言，分享研究心得，其余时间由同学们轮流发言讨论。每期活动邀请15人左右参加，为每位与会同学提供交流的机会。  
-详情与报名请查看<https://mp.weixin.qq.com/s/MRezFQ7ey68gSNbTdq7BEA>  
+我校学信网新生学籍注册已完成，请同学们登录学信网实名注册并核对本人身份信息和学籍注册信息  
+具体链接：<https://jw.nju.edu.cn/0a/cd/c26263a723661/page.htm>  
 
-## &lt;SRTP整理&gt;11.10-11.12学术文化活动
+## &lt;SRTP整理&gt;11.13-16学术文化活动概览
 
-周日（11.10）  
-1.卢卡奇遗产中的文档、手稿、书信与照片  
-2.美术电影中的视与听——从《哪吒闹海》到《宝莲灯》  
-周二（11.12）  
-认知与情感：哲学、精神分析与神经科学  
-周日（11.10）  
-数学学院”三室一厅”专项活动微积分I（第一层次）专场  
-周一（11.11）  
-如何与期刊编辑打”交道”  
-周二（11.12）  
-机器人学习简介  
-详情请查看<https://mp.weixin.qq.com/s/vlp0xqxP1V1dI8-ZtQezng>
+11.13-11.16（周三 周六）学术文化活动概览  
+周三（11.13）  
+Learning from AI: Imagining AI’s Future, Facing AI’s Realities in
+Education  
+主讲人：詹姆斯·E·卡茨（美国波士顿大学新兴媒体研究菲尔德名誉教授）  
+时间：11月13日 16:00-17:30  
+地点：南京大学鼓楼校区逸夫馆9楼高研院报告厅  
+周四（11.14）  
+专利信息的检索利用及科研成果的专利化  
+主讲人：赵心茹（北京合享智慧科技有限公司咨询师  
+时间：11月14日 18:30-19:30  
+地点：南京大学仙林校区杜厦图书馆校友之家小报告厅  
+周六（11.16）  
+新质生产力助力企业数字化转型  
+主讲人：武爱斌（武汉理工大学、南京航空航天大学、南京工业大学兼职教授）  
+时间：11月16日 18:30起  
+地点：南京大学鼓楼校区商学院安中楼210报告厅  
+详见<https://mp.weixin.qq.com/s/-tpOqt-NJyVDtFuqkRZ7QQ>  
+
+## 鼓楼奋进跑
+
+活动时间
+2024年11月11日 2024年11月17日周一至周五：21：30 22：10周末：19：30 21：00（如遇雨水天气或其他特殊情况暂停）
+活动地点 苏浙体育场入口处（所有打卡认定和奖品领取都在这里哦！） 活动方式
+开跑前，大家可以去往苏浙体育场入口活动展台处领取荧光手环（每天限量100个）。
+跑步过程中，大家可以选择个人跑，也可以自由组队进行夜跑。若为组队跑打卡，每次运动由组长填写打卡问卷即可。
+·礼品1——奶龙捏捏乐、卡皮巴拉小玩偶、卡皮巴拉木鱼摆件、煤球猫挂件获得条件：男生跑步平均配速不超过4’50"（打卡里程数不少于2.4公里），女生跑步平均配速不超过5’50"（打卡里程数不少于2公里）
+·礼品2——diy种植盆栽、奶龙钥匙扣、线条小狗钥匙扣、熊猫钥匙扣获得条件：男生跑步平均配速超过4’50"（打卡里程数不少于2.4公里），女生跑步平均配速超过5’50"（打卡里程数不少于2公里）
+·符合礼品1获得条件的同学也可以选择拿走礼品2；礼品数量有限，先到先得哦！
+报名表和歌单详见<https://mp.weixin.qq.com/s/JEdA2RsTFmFKPzvVqHom-Q>
