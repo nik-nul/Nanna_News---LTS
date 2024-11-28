@@ -11,10 +11,13 @@ def getdate(s):
     today = datetime.datetime.today()
     month = today.month
     year = today.year
-    if float(s) > 6 and month < 6:
-        year -= 1
-    [month, day] = s.split(".")
-    return datetime.datetime(year, int(month), int(day)).strftime("%F")
+    try:
+        if float(s) > 6 and month < 6:
+            year -= 1
+        [month, day] = s.split(".")
+        return datetime.datetime(year, int(month), int(day)).strftime("%F")
+    except:
+        return ""
 
 
 with open(filename, 'r', encoding='utf-8') as file:
