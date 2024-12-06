@@ -35,8 +35,7 @@ for table in tables:
         cells = row.find_all(['td'])
         if len(cells) >= 3:
             cell_content = cells[2].string
-            if cell_content:
-                date = getdate(cell_content)
+            if cell_content and (date := getdate(cell_content)):
                 url = "https://nik-nul.github.io/news/" + date
                 new_a = cooked.new_tag('a', href=url)
                 new_a.string = cell_content
