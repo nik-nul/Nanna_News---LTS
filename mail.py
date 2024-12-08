@@ -11,7 +11,7 @@ smtp_server = "smtp.exmail.qq.com"
 smtp_port = 465
 # mailing_list = ast.literal_eval(sys.argv[2])
 mailing_list = os.environ.get("MAILING_LIST")
-today = os.popen("TZ=Asia/Urumqi date '+%F'").read()[:-1]
+today = os.popen("TZ=Etc/UTC date '+%F'").read()[:-1]
 
 
 import email.message
