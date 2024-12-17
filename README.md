@@ -101,24 +101,24 @@
 
 ## 讲座
 
-| 名称                       | 时间  | 地点                                               |
-|:---------------------------|:------|:---------------------------------------------------|
-| 《中国马克思主义...》      | 12.17 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 《杨万里对苏轼诗...》      | 12.27 | [12.14](https://nik-nul.github.io/news/2024-12-14) |
-| 《现代化进程中的...》      | 12.17 | [12.11](https://nik-nul.github.io/news/2024-12-11) |
-| 《专利查新与规避...》      | 12.19 | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
-| 《前向推理的一阶...》      | 12.18 | [12.10](https://nik-nul.github.io/news/2024-12-10) |
-| 《非平衡任意子边...》      | 12.17 | [12.13](https://nik-nul.github.io/news/2024-12-13) |
-| 《Microlocal...》          | 12.17 | [12.15](https://nik-nul.github.io/news/2024-12-15) |
-| 《计算复杂性下界...》      | 12.19 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 《二维半导体中的...》      | 12.19 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 《On global...》           | 12.18 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 《Designing...》           | 12.19 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 《Mechanism...》           | 12.17 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 物院学术交流会             | 12.21 | [12.16](https://nik-nul.github.io/news/2024-12-16) |
-| 人工智能的社会影响         | 12.18 | [12.17](https://nik-nul.github.io/news/2024-12-17) |
-| 世界藏学的回顾与批评       | 12.18 | [12.17](https://nik-nul.github.io/news/2024-12-17) |
-| 大城市基层治理的特点与趋势 | 12.20 | [12.17](https://nik-nul.github.io/news/2024-12-17) |
+| 讲座名称                   | 开展时间 | 刊登时间                                           |
+|:---------------------------|:---------|:---------------------------------------------------|
+| 《中国马克思主义...》      | 12.17    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 《杨万里对苏轼诗...》      | 12.27    | [12.14](https://nik-nul.github.io/news/2024-12-14) |
+| 《现代化进程中的...》      | 12.17    | [12.11](https://nik-nul.github.io/news/2024-12-11) |
+| 《专利查新与规避...》      | 12.19    | [10.3](https://nik-nul.github.io/news/2024-10-03)  |
+| 《前向推理的一阶...》      | 12.18    | [12.10](https://nik-nul.github.io/news/2024-12-10) |
+| 《非平衡任意子边...》      | 12.17    | [12.13](https://nik-nul.github.io/news/2024-12-13) |
+| 《Microlocal...》          | 12.17    | [12.15](https://nik-nul.github.io/news/2024-12-15) |
+| 《计算复杂性下界...》      | 12.19    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 《二维半导体中的...》      | 12.19    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 《On global...》           | 12.18    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 《Designing...》           | 12.19    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 《Mechanism...》           | 12.17    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 物院学术交流会             | 12.21    | [12.16](https://nik-nul.github.io/news/2024-12-16) |
+| 人工智能的社会影响         | 12.18    | [12.17](https://nik-nul.github.io/news/2024-12-17) |
+| 世界藏学的回顾与批评       | 12.18    | [12.17](https://nik-nul.github.io/news/2024-12-17) |
+| 大城市基层治理的特点与趋势 | 12.20    | [12.17](https://nik-nul.github.io/news/2024-12-17) |
 
 1.孙本文社会学论坛第292期  
 讲座题目：人工智能（AI）的社会影响  
