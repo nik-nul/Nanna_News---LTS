@@ -21,21 +21,25 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2024-12-23
+# 南哪消息 2024-12-24
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#订阅方式和加入编辑部"
         id="toc-订阅方式和加入编辑部">订阅方式和加入编辑部</a>
     -   <a href="#deadline-ongoing" id="toc-deadline-ongoing">Deadline
         Ongoing</a>
-    -   <a href="#期末周更新频率降低"
-        id="toc-期末周更新频率降低">期末周更新频率降低</a>
     -   <a href="#讲座" id="toc-讲座">讲座</a>
-    -   <a href="#南哪年度评选活动"
-        id="toc-南哪年度评选活动">南哪年度评选活动</a>
-    -   <a href="#南悦志愿招募" id="toc-南悦志愿招募">南悦志愿招募</a>
-    -   <a href="#关于启动南京大学2025届本科毕业论文设计工作的通知"
-        id="toc-关于启动南京大学2025届本科毕业论文设计工作的通知">关于启动南京大学2025届本科毕业论文（设计）工作的通知</a>
+    -   <a href="#nec暖冬观影会" id="toc-nec暖冬观影会">NEC暖冬观影会</a>
+    -   <a href="#计算机学院元旦亲子活动日报名"
+        id="toc-计算机学院元旦亲子活动日报名">计算机学院元旦亲子活动日报名</a>
+    -   <a href="#篮协赛程" id="toc-篮协赛程">篮协赛程</a>
+    -   <a href="#三只猴的舞台汇报小剧场"
+        id="toc-三只猴的舞台汇报小剧场">《三只猴的舞台汇报》小剧场</a>
+    -   <a href="#观众招募-你将成为眼泪循环小站的第__位顾客"
+        id="toc-观众招募-你将成为眼泪循环小站的第__位顾客">观众招募 |
+        你将成为眼泪循环小站的第__位顾客</a>
+    -   <a href="#第12届南京大学诚耀青年学者论坛计算机学院分论坛"
+        id="toc-第12届南京大学诚耀青年学者论坛计算机学院分论坛">第12届南京大学诚耀青年学者论坛计算机学院分论坛</a>
 
 # **活动预告**
 
@@ -56,90 +60,109 @@
 |      花旗杯报名       |   1.3    | [12.6](https://nik-nul.github.io/news/2024-12-06)  |
 |   西安史学论坛征稿    |   3.20   | [12.9](https://nik-nul.github.io/news/2024-12-09)  |
 |    叶嘉莹纪念征稿     |  12.25   | [12.10](https://nik-nul.github.io/news/2024-12-10) |
-|    普通话测试报名     |  12.24   | [12.12](https://nik-nul.github.io/news/2024-12-12) |
 |       本科评教        |   1.12   | [12.13](https://nik-nul.github.io/news/2024-12-13) |
 |      排协雪球杯       |  12.28   | [12.13](https://nik-nul.github.io/news/2024-12-13) |
 |    12306学生优惠票    |   2.12   | [12.13](https://nik-nul.github.io/news/2024-12-13) |
 |     期末考试安排      |   1.12   | [12.17](https://nik-nul.github.io/news/2024-12-17) |
 |    南大博物馆展览     |   6.16   | [12.17](https://nik-nul.github.io/news/2024-12-17) |
-|   辅导员满意度测评    |  12.24   | [12.19](https://nik-nul.github.io/news/2024-12-19) |
 |  南悦支教团队长报名   |  12.29   | [12.19](https://nik-nul.github.io/news/2024-12-19) |
 |      外院包饺子       |  12.27   | [12.20](https://nik-nul.github.io/news/2024-12-20) |
 |       可一读书        |  12.28   | [12.22](https://nik-nul.github.io/news/2024-12-22) |
-|      物院包饺子       |  12.24   | [12.22](https://nik-nul.github.io/news/2024-12-22) |
-|   南哪助手年度评选    |  12.24   | [12.23](https://nik-nul.github.io/news/2024-12-23) |
+|       NEC观影会       |  12.28   | [12.24](https://nik-nul.github.io/news/2024-12-24) |
 
 ------------------------------------------------------------------------
 
-## 期末周更新频率降低
-
-进入期末周，各类活动趋于减少。如某日无活动预告，南哪消息将不会更新。如某日活动预告较少且时效性不强，南哪消息将会延后合并发布。寒假期间，南哪消息更新频率将更低。如有特殊需要，可联系客服小祥
-QQ1329527951
-
 ## 讲座
 
-| 讲座                                                                    | 开展时间 | 刊载时间                                           |
-|:------------------------------------------------------------------------|:---------|:---------------------------------------------------|
-| 《杨万里对苏轼诗...》                                                   | 12.27    | [12.14](https://nik-nul.github.io/news/2024-12-14) |
-| Positivity, sum of squares and decision problems in quantum information | 12.24    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
-| 二维材料精准原位缺陷工程与器件应用研究                                  | 12.24    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
-| 全国大学生数学竞赛发展与探索                                            | 12.25    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
-| 全光量子信息体系的实验构筑                                              | 12.26    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
-| 从侦破伦敦霍乱引出的地理学故事                                          | 12.25    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
+| 讲座                                                                              | 开展时间 | 刊载时间                                           |
+|:----------------------------------------------------------------------------------|:---------|:---------------------------------------------------|
+| 卡车司机的组织化及其意义                                                          | 12.27    | [12.24](https://nik-nul.github.io/news/2024-12-24) |
+| 《杨万里对苏轼诗...》                                                             | 12.27    | [12.14](https://nik-nul.github.io/news/2024-12-14) |
+| 全国大学生数学竞赛发展与探索                                                      | 12.25    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
+| 全光量子信息体系的实验构筑                                                        | 12.26    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
+| 从侦破伦敦霍乱引出的地理学故事                                                    | 12.25    | [12.23](https://nik-nul.github.io/news/2024-12-23) |
+| 第12届南京大学诚耀青年学者论坛数学学院分论坛                                      | 12.26    | [12.24](https://nik-nul.github.io/news/2024-12-24) |
+| Asymptotic behaviors for Inferences and Predictions: Crossed Random Effect Models | 12.27    | [12.24](https://nik-nul.github.io/news/2024-12-24) |
 
-1.数学学院青年学者论坛  
-题目：Positivity, sum of squares, and decision problems in quantum
-information  
-主讲：赵雨鸣 YUMING ZHAO , University of Copenhagen  
-现场报告时间：北京时间2024年12月24日(周二)下午4:30-5:30  
+1.第12届南京大学诚耀青年学者论坛数学学院分论坛  
+2024.12.26 蒙民伟楼1105报告厅  
+报告一：Kuznetsov components of Fano varieties and application.  
+报告人：张诗卓 SHIZHUO ZHANG,IBS Center for Geometry and Physics  
+时 间：2024年12月26日 下午2:00-2:40  
+报告二：Diophantine approximation and the Riemann zeta function  
+报告人：杨道道 DAODAO YANG，Universite de Montreal  
+时 间：2024年12月26日 下午2:40-3:20  
+报告三：Domains of discontinuity in higher rank character varieties  
+报告人：王天琦 TIANQI WANG，Yale University  
+时 间：2024年12月26日 下午3:40-4:20  
+报告四：Mirror Sym’metry for log Calabi-Yau surfaces  
+报告人：周雁 YAN ZHOU，Northeastern University  
+时 间：2024年12月26日下午4:20-5:00  
+各报告摘要见原文<https://mp.weixin.qq.com/s/qpiX5bNnL78NSPwybTSfWg>  
+2.孙本文社会学论坛第295期  
+讲座题目：打造团结：卡车司机的组织化及其意义  
+主讲人：沈原 清华大学社会学系教授  
+讲座摘要：作为个体生产者的卡车司机为何要组织起来？其组织起来的现实和理论意义如何？本报告将立足于长期的田野调查报告，尝试对之加以解答。  
+时间：12月27日14:30-16:30  
+地点：仙林社会学院河仁楼401室  
+3.数学学院青年学者论坛  
+题目：Asymptotic behaviors for Inferences and Predictions: Crossed
+Random Effect Models  
+主讲人：吕梓阳Ziyang Lyu, The University of New South Wales  
+现场报告时间：北京时间2024年12月27日(周五)下午4:30-5:30  
 现场报告地点：西大楼108报告厅  
-腾讯会议：750-166-077  
-会议密码：1224  
-讲座摘要见原文<https://mp.weixin.qq.com/s/Y06RoMdRvriFCaFMq9ab-A>  
-2.江苏省青年物理学家论坛  
-主题：二维材料精准原位缺陷工程与器件应用研究  
-报告人：方涵彦 准聘副教授 南京大学  
-报告时间：12月24日（周二）中午12点  
-报告地点：南京大学鼓楼校区唐仲英楼B501  
-线上直播链接：<https://www.koushare.com/live/details/39870>  
-讲座摘要等见原文<https://mp.weixin.qq.com/s/nyGgBvxTge16w9Btaf-PWw>  
-3.数学学院本科生论坛（教师系列第92期）  
-题目:全国大学生数学竞赛发展与探索  
-报告人：佘志坤 中国数学会理事兼全国大学生数学竞赛工作组组长  
-时间：12月25日(星期三) 16:30  
-地点：田家炳楼多功能厅  
-摘要等见原文<https://mp.weixin.qq.com/s/Kr_M83sJAGJ4DkTpsjrORA>  
-4.物理学院学术报告会(第46期)  
-题 目：全光量子信息体系的实验构筑  
-报告人：荆杰泰，华东师范大学  
-时 间：2024年12月26日（周四）15:30  
-地 点：鼓楼校区唐仲英楼B501  
-摘要见原文<https://mp.weixin.qq.com/s/CoYY2FXAECE47h2voaMrjA>  
-5.科学故事会：从侦破”伦敦霍乱”引出的地理学故事  
-时间：12月25日下午16:10  
-地点：馆1-103  
-分享人：居阳，南京大学地理与海洋科学学院助理教授、特聘研究员  
+腾讯会议：771-592-692  
+讲座摘要见原文<https://mp.weixin.qq.com/s/DpQ6zx6yYLZvdts8Ah_HpQ>  
 
-## 南哪年度评选活动
+## NEC暖冬观影会
 
-2024
-年”小破手"杯南哪年度评选活动开始啦！现在面向全体南哪人征集提名名单！本次提名将于2024年12月24日23:59截止。  
-让我们共同期待咱们南哪人自己心目中的年度汉字、年度人物、年度事件、年度流行语/流行梗的诞生吧！  
-欢迎大家转发、传播本次评选提名，让结果更有代表性一些   
-提名详见<https://mp.weixin.qq.com/s/-qbTN0ad4dSroew3C2UudA>
+放映：《LA LA LAND》  
+仙林校区  
+时间 ：12月28日（周六）19:00-21:30  
+地点：仙林校区逸A - 322  
+鼓楼校区  
+时间：12月28日（周六）19:00-21:30  
+地点：鼓楼校区费B - 201  
+报名方式：扫码报名，详见<https://mp.weixin.qq.com/s/eLoH1YIugQBmq6Vg7E_CKg>
 
-## 南悦志愿招募
+## 计算机学院元旦亲子活动日报名
 
-医学院团委指导南悦青年公益社组织开展守护”忆中人”——老年认知障碍科普及阿尔兹海默病患友关爱服务项目  
-活动内容：  
-（1）系列赋能培训：对志愿者进行阿尔兹海默症科普，项目活动组织管理等系列赋能培训，提升志愿者专项能力。  
-（2）南京专场活动：组织志愿者进高校周边社区养老服务站等，使用科普PPT、记忆迷宫游戏、Ai筛查测试等为老年人群开展认知障碍及阿尔兹海默病科普。  
-（3）社会实践活动：依托校团委寒假社会实践，围绕阿兹海默症等开展系列科普调研，并依托各家乡地区开展科普志愿活动。  
-（4）长期志愿服务：组建志愿者队伍，开展常态化的科普和阿尔兹海默症患友关爱服务。  
-报名方式：加入志愿者咨询群，并填写报名链接<https://docs.qq.com/form/page/DTkdpR1pSS2JKdHpU>  
-详见<https://mp.weixin.qq.com/s/L34EXhb_hwYNMkQlIM7MAw>
+活动时间：2025年1月1号（元旦）14：00～16：30  
+活动地点：南京大学计算机科学技术楼 231、233会议室  
+活动对象：南京大学计算机学院教师及教师子女  
+进入原文扫码报名<https://mp.weixin.qq.com/s/a3lg02esYkfXyXXkDikcCQ>  
 
-## 关于启动南京大学2025届本科毕业论文（设计）工作的通知
+## 篮协赛程
 
-2025届论文开题时间为：2024年12月23日-2024年3月7日  
-具体链接：<https://jw.nju.edu.cn/2c/31/c26263a732209/page.htm>  
+明日（12.24）  
+研究生男篮半决赛  
+地科vs计算机  
+11:00-13:00  
+地点：方肇周体育馆
+
+## 《三只猴的舞台汇报》小剧场
+
+(黑匣子)  
+演出时间：  
+12.27 19:30  
+12.28 19:30  
+12.29 14:30  
+演出时长：约120分钟  
+票价20元  
+详见原文：<https://mp.weixin.qq.com/s/Lh0CmDzcOPS6oXESb-WP8g>
+
+## 观众招募 \| 你将成为眼泪循环小站的第\_\_位顾客
+
+演出时间：  
+2025年1月3日19:30  
+演出地点：  
+南京大学仙林校区敬文活动中心三楼  
+黑匣子剧场  
+报名见原文：<https://mp.weixin.qq.com/s/NWjSD-mVQXaS3d67tN-hJQ>
+
+## 第12届南京大学诚耀青年学者论坛计算机学院分论坛
+
+第12届南京大学诚耀青年学者论坛计算机学院分论坛将于2024年12月26日（星期四）
+13:30-18:00 于计算机科学技术楼230室举行。
+
+共有 14 场报告，详见<https://mp.weixin.qq.com/s/xY89oFvYNIIAnli3ahr1pQ>
