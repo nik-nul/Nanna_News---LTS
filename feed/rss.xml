@@ -1,51 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>南哪消息 ./tmp</title><link>https://nik-nul.github.io/news/2024-12-26</link><description>南哪大专集约化信息发布</description><atom:link href="https://nik-nul.github.io/news/rss.xml" rel="self"/><copyright>CC0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh</language><lastBuildDate>Thu, 26 Dec 2024 15:51:51 +0000</lastBuildDate><managingEditor>231508004@smail.nju.edu.cn (sakiko)</managingEditor><pubDate>Thu, 26 Dec 2024 23:51:51 +0800</pubDate><skipHours><hour>1</hour><hour>2</hour><hour>3</hour><hour>4</hour><hour>5</hour><hour>6</hour><hour>7</hour><hour>8</hour><hour>9</hour><hour>10</hour><hour>11</hour><hour>12</hour><hour>13</hour><hour>14</hour><hour>15</hour><hour>16</hour><hour>17</hour><hour>18</hour><hour>19</hour><hour>20</hour><hour>21</hour></skipHours><ttl>1300</ttl><webMaster>231220103@smail.nju.edu.cn (nik_nul)</webMaster><item><title>黑匣子|阿克猴来舞</title><description>演出时间：2024/12/31 19:30  
-&lt;br&gt;2025/01/04 19:30  
-&lt;br&gt;2025/01/05 19:30  
-&lt;br&gt;演出地点：仙林校区敬文活动中心三楼黑匣子剧场  
-&lt;br&gt;票价：20元  
-&lt;br&gt;转发推送至朋友圈集9赞即可参与小程序抽奖，详见https://mp.weixin.qq.com/s/9LpjEbzbMmA2jnoGzc9_CA</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E9%BB%91%E5%8C%A3%E5%AD%90%7C%E9%98%BF%E5%85%8B%E7%8C%B4%E6%9D%A5%E8%88%9E</guid></item><item><title>跨年电子音乐快闪</title><description>地点：鼓楼校区苏浙体育场  
-&lt;br&gt;时间：12月31日晚19:00-22:00  
-&lt;br&gt;预计的lineup：  
-&lt;br&gt;19:00-19:30 格勒盒：Trance  
-&lt;br&gt;19:30-20:00 AeotyrPony：ambient, dubstep  
-&lt;br&gt;20:05-20:40 W1LLOX：house, dubstep, dnb  
-&lt;br&gt;20:45-21:20 noshrimp：hyperflip, neo trance  
-&lt;br&gt;21:25-21:55 Aritx音唯 b2b C.R.Inifnity Limit："WELCOME TO FUSION" colour
-&lt;br&gt;bass, melodic dubstep</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E8%B7%A8%E5%B9%B4%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E5%BF%AB%E9%97%AA</guid></item><item><title>IT侠暂缓接单</title><description>由于考试周将近，IT侠将暂缓接单  
-&lt;br&gt;仙林分部  
-&lt;br&gt;期末结束后可能会有空闲成员处理滞留的预约单，可在预约信息填写考试后有空来维修的时间  
-&lt;br&gt;鼓楼分部  
-&lt;br&gt;到下学期开学前，将停止每周两次的固定维修安排  
-&lt;br&gt;苏州分部  
-&lt;br&gt;在12月30日后到下学期开学前，停止维修安排  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/jS-TLSf85sjvOL2nYUQbbg</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#IT%E4%BE%A0%E6%9A%82%E7%BC%93%E6%8E%A5%E5%8D%95</guid></item><item><title>昆曲研习社2024-2025新年曲会</title><description>时间：2024年12月29日（周日）19:00  
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>南哪消息 ./tmp</title><link>https://nik-nul.github.io/news/2024-12-27</link><description>南哪大专集约化信息发布</description><atom:link href="https://nik-nul.github.io/news/rss.xml" rel="self"/><copyright>CC0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh</language><lastBuildDate>Fri, 27 Dec 2024 15:32:35 +0000</lastBuildDate><managingEditor>231508004@smail.nju.edu.cn (sakiko)</managingEditor><pubDate>Fri, 27 Dec 2024 23:32:35 +0800</pubDate><skipHours><hour>1</hour><hour>2</hour><hour>3</hour><hour>4</hour><hour>5</hour><hour>6</hour><hour>7</hour><hour>8</hour><hour>9</hour><hour>10</hour><hour>11</hour><hour>12</hour><hour>13</hour><hour>14</hour><hour>15</hour><hour>16</hour><hour>17</hour><hour>18</hour><hour>19</hour><hour>20</hour><hour>21</hour></skipHours><ttl>1300</ttl><webMaster>231220103@smail.nju.edu.cn (nik_nul)</webMaster><item><title>可一跨年演讲</title><description>时间：2024年12月31日（周二） 下午15:30  
+&lt;br&gt;主讲人：杜骏飞  
+&lt;br&gt;题目：让教育回到常识  
+&lt;br&gt;地点：可一书店·仙林艺术中心 负二层 可一实验剧场  
+&lt;br&gt;当日还有其他活动，详情以及报名见原文：https://mp.weixin.qq.com/s/J4OaMpBt26l1qTI_e8au9w</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E5%8F%AF%E4%B8%80%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2</guid></item><item><title>“早期科研能力启蒙计划”项目</title><description>项目对象及人数:南京大学行知书院2024级新生10人左右  
+&lt;br&gt;开展形式:（1）本学期结束前，将以线上线下相结合形式组织调研启动会，明确假期任务和分工等准备工作。  
+&lt;br&gt;（2）2025年春季学期开始，每隔2-3周的周三下午前往青岛路社区实地调研，共计调研8次左右。  
+&lt;br&gt;（3）同时，召开调研讨论交流会，就调研方法、调研发现等进行交流讨论。最终形成一份符合学术规范的调研报告。  
+&lt;br&gt;https://mp.weixin.qq.com/s/vvr614LCJNxUiZJg_maT3Q</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E2%80%9C%E6%97%A9%E6%9C%9F%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B%E5%90%AF%E8%92%99%E8%AE%A1%E5%88%92%E2%80%9D%E9%A1%B9%E7%9B%AE</guid></item><item><title>“形象哲学”青年学术工作坊</title><description>1.工作坊时间：2024年12月29日 9:00-17:00  
+&lt;br&gt;2. 工作坊地点：南京大学艺术学院 东大楼106  
+&lt;br&gt;详情见https://mp.weixin.qq.com/s/wMEpmb2d0NxDxoT8d6AENA</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E2%80%9C%E5%BD%A2%E8%B1%A1%E5%93%B2%E5%AD%A6%E2%80%9D%E9%9D%92%E5%B9%B4%E5%AD%A6%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A</guid></item><item><title>篮协赛程</title><description>明日（12.28）：  
+&lt;br&gt;本科生男篮总决赛  
+&lt;br&gt;软院vs化生  
+&lt;br&gt;19：30-21：30  
+&lt;br&gt;地点：四组团体育馆</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E7%AF%AE%E5%8D%8F%E8%B5%9B%E7%A8%8B</guid></item><item><title>南大昆曲研习社新年曲会</title><description>时间：2024年12月29日（周日）晚7:00  
 &lt;br&gt;地点：仙林校区文学院二楼活水轩报告厅  
-&lt;br&gt;无需报名和票据，到场参加即可  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/pZ3ALE6XlWMtoORQuT0_YA</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E6%98%86%E6%9B%B2%E7%A0%94%E4%B9%A0%E7%A4%BE2024-2025%E6%96%B0%E5%B9%B4%E6%9B%B2%E4%BC%9A</guid></item><item><title>模联会议时间调整</title><description>因原会期（2025.3.28-30）与重大考试存在冲突，大会组委会决定将其调整至2025.4.18-20  
-&lt;br&gt;详见https://mp.weixin.qq.com/s/qJmAdjF9lRL-O4cLQ4ZT_Q</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E6%A8%A1%E8%81%94%E4%BC%9A%E8%AE%AE%E6%97%B6%E9%97%B4%E8%B0%83%E6%95%B4</guid></item><item><title>计算机学院元旦娱乐会</title><description>活动对象：南京大学计算机学院全体研究生  
-&lt;br&gt;时间：2025年1月1日14：00 - 16：30  
-&lt;br&gt;地点：计算机科学技术楼221会议室  
-&lt;br&gt;活动内容：趣味桌游、冰箱贴制作</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%E5%85%83%E6%97%A6%E5%A8%B1%E4%B9%90%E4%BC%9A</guid></item><item><title>鼓楼校区公共教室节能化管理公告</title><description>一、关闭部分教室。逸夫馆、费彝民楼、新教学楼除满足日常教学、借用外，不再作为自习区域，无课时间将进行锁闭。
-&lt;br&gt;
-&lt;br&gt;二、设立专用自习教室:
-&lt;br&gt;
-&lt;br&gt;教学楼(教室56间、座位数4292)
-&lt;br&gt;
-&lt;br&gt;南教学楼(教室4间、座位数 483)。
-&lt;br&gt;
-&lt;br&gt;三、发布公共教室节能减排倡议:
-&lt;br&gt;
-&lt;br&gt;1、教室内空调根据国家规定开启,夏季当日最高气温达到
-&lt;br&gt;28”以上，冬季当日最低气温达到
-&lt;br&gt;10°下，才能开启空调，空调温度夏季室内不得低于 26°，冬季室内不得高于
-&lt;br&gt;20°。
-&lt;br&gt;
-&lt;br&gt;2、"节约用电，从我做起”，当教室空调开启时，请尽量保持教室门窗关闭，减少能源消耗;最后离开教室的您，请关闭电源和照明、空调设施。
-&lt;br&gt;
-&lt;br&gt;3、为了高效使用教室，减少能源消耗;当教室座位使用率小于20%时，将会与相邻的教室合并。
-&lt;br&gt;
-&lt;br&gt;后勤服务集团物业管理中心 2024年12月25日</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E9%BC%93%E6%A5%BC%E6%A0%A1%E5%8C%BA%E5%85%AC%E5%85%B1%E6%95%99%E5%AE%A4%E8%8A%82%E8%83%BD%E5%8C%96%E7%AE%A1%E7%90%86%E5%85%AC%E5%91%8A</guid></item><item><title>讲座</title><description>&lt;table&gt;
+&lt;br&gt;无需报名和票据，到场参加即可。以曲会友，欢迎广大师生到场。  
+&lt;br&gt;详情：https://mp.weixin.qq.com/s/x4_1-II5DFPpy6IzSNq-zQ</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E5%8D%97%E5%A4%A7%E6%98%86%E6%9B%B2%E7%A0%94%E4%B9%A0%E7%A4%BE%E6%96%B0%E5%B9%B4%E6%9B%B2%E4%BC%9A</guid></item><item><title>排协雪球杯</title><description>请通过以下链接加入微信群：https://mp.weixin.qq.com/s/EuMQcLvk54PnWQCY6jgSPw</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E6%8E%92%E5%8D%8F%E9%9B%AA%E7%90%83%E6%9D%AF</guid></item><item><title>南星十载·小红书创作燃计划活动</title><description>参与方式：1月6日起，至2月6日24:00，以个人小红书账号为发布阵地，包括但不限于图文笔记、视频笔记等，关注”南大招生小蓝鲸”官方小红书账号，使用指定话题标签”2025南星梦想计划”发布相关笔记并@小蓝鲸官号，即视作参与活动。  
+&lt;br&gt;招办全媒体中心将对参评笔记进行审核打分。经过评分后，招办全媒体中心将结合实际情况及综合分数，认定至多30篇笔记为”优秀笔记”，获评”优秀笔记”的南星团队及创作个体将获得活动专项奖励。包括：1.文创奖品：优秀笔记创作者（个人）将获得南大精美文创奖品。2.获得优秀笔记认定的南星团队将在最终评优答辩中获得额外分数：一篇优秀笔记获得1分，两篇优秀笔记获得1.5分，三篇及以上优秀笔记获得2分。  
+&lt;br&gt;活动细节见原文：https://mp.weixin.qq.com/s/XfR7qmWQQxPqvAEPEtLnOQ</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E5%8D%97%E6%98%9F%E5%8D%81%E8%BD%BD%C2%B7%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%88%9B%E4%BD%9C%E7%87%83%E8%AE%A1%E5%88%92%E6%B4%BB%E5%8A%A8</guid></item><item><title>讲座</title><description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: left;"&gt;讲座&lt;/th&gt;
@@ -55,44 +28,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;卡车司机的组织化及其意义&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-24"&gt;12.24&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: left;"&gt;《杨万里对苏轼诗...》&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-14"&gt;12.14&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;Asymptotic behaviors for Inferences and
-Predictions: Crossed Random Effect Models&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-24"&gt;12.24&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: left;"&gt;论周易古经的解读方法&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-25"&gt;12.25&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;青藏高原地气能量交换卫星遥感估算研究&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-25"&gt;12.25&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: left;"&gt;汉学家与蒙田&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-25"&gt;12.25&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;无&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;/&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;/&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E8%AE%B2%E5%BA%A7</guid></item><item><title>Deadline Ongoing</title><description>&lt;table&gt;
+&lt;/table&gt;</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E8%AE%B2%E5%BA%A7</guid></item><item><title>Deadline Ongoing</title><description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -174,50 +115,56 @@ href="https://nik-nul.github.io/news/2024-12-17"&gt;12.17&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2024-12-19"&gt;12.19&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;外院包饺子&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;12.27&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-20"&gt;12.20&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;可一读书&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.28&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-22"&gt;12.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;NEC观影会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.28&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-24"&gt;12.24&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;雄狮少年影映&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.28&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-25"&gt;12.25&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;排超志愿者招募&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;1.16&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-25"&gt;12.25&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;昆曲社曲会&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.29&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-26"&gt;12.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;跨年电子音乐快闪&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;12.31&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-26"&gt;12.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;南星小红书创作&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2.6&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-12-27"&gt;12.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;形象哲学工作坊&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;12.29&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2024-12-27"&gt;12.27&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#Deadline%20Ongoing</guid></item><item><title>订阅方式和加入编辑部</title><description>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+------------------------------------------------------------------------</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#Deadline%20Ongoing</guid></item><item><title>订阅方式和加入编辑部</title><description>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小祥  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-26#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</guid></item></channel></rss>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</description><guid isPermaLink="true">https://nik-nul.github.io/news/2024-12-27#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</guid></item></channel></rss>
