@@ -1,38 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>南哪消息 ./tmp</title><link>https://nik-nul.github.io/news/2025-01-09</link><description>南哪大专集约化信息发布</description><atom:link href="https://nik-nul.github.io/news/rss.xml" rel="self"/><copyright>CC0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh</language><lastBuildDate>Thu, 09 Jan 2025 15:33:23 +0000</lastBuildDate><managingEditor>231508004@smail.nju.edu.cn (sakiko)</managingEditor><pubDate>Thu, 09 Jan 2025 23:33:23 +0800</pubDate><skipHours><hour>1</hour><hour>2</hour><hour>3</hour><hour>4</hour><hour>5</hour><hour>6</hour><hour>7</hour><hour>8</hour><hour>9</hour><hour>10</hour><hour>11</hour><hour>12</hour><hour>13</hour><hour>14</hour><hour>15</hour><hour>16</hour><hour>17</hour><hour>18</hour><hour>19</hour><hour>20</hour><hour>21</hour></skipHours><ttl>1300</ttl><webMaster>231220103@smail.nju.edu.cn (nik_nul)</webMaster><item><title>排超赛程预告 | 1月12日排超季后赛</title><description>南京广电猫猫VS广东台山和力  
-&lt;br&gt;时间：1月12日19:30  
-&lt;br&gt;地点：南京大学方肇周体育馆</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#%E6%8E%92%E8%B6%85%E8%B5%9B%E7%A8%8B%E9%A2%84%E5%91%8A%20%7C%201%E6%9C%8812%E6%97%A5%E6%8E%92%E8%B6%85%E5%AD%A3%E5%90%8E%E8%B5%9B</guid></item><item><title>Lean4 工作坊</title><description>北京国际数学研究中心 AI4MATH 课题组的徐天一老师将于
-&lt;br&gt;1月14日至1月17日每日上午9:00-12:00于鼓楼校区西大楼308举行 AI4Math 工作坊
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>南哪消息 ./tmp</title><link>https://nik-nul.github.io/news/2025-01-10</link><description>南哪大专集约化信息发布</description><atom:link href="https://nik-nul.github.io/news/rss.xml" rel="self"/><copyright>CC0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh</language><lastBuildDate>Fri, 10 Jan 2025 15:29:18 +0000</lastBuildDate><managingEditor>231508004@smail.nju.edu.cn (sakiko)</managingEditor><pubDate>Fri, 10 Jan 2025 23:29:18 +0800</pubDate><skipHours><hour>1</hour><hour>2</hour><hour>3</hour><hour>4</hour><hour>5</hour><hour>6</hour><hour>7</hour><hour>8</hour><hour>9</hour><hour>10</hour><hour>11</hour><hour>12</hour><hour>13</hour><hour>14</hour><hour>15</hour><hour>16</hour><hour>17</hour><hour>18</hour><hour>19</hour><hour>20</hour><hour>21</hour></skipHours><ttl>1300</ttl><webMaster>231220103@smail.nju.edu.cn (nik_nul)</webMaster><item><title>2025年”挑战杯”校赛期间仙林校区部分教室封闭的公告</title><description>2025年1月12日8:00—1月13日18:00仙林校区逸夫楼二楼、三楼将作为2025年”挑战杯”全国大学生课外学术科技作品竞赛南京大学选拔赛答辩、等候和观摩场地，封闭管理。
 &lt;br&gt;
-&lt;br&gt;内容包括 Lean 简介，类型论入门和进阶，以及 AI for formalized math 等话题
-&lt;br&gt;
-&lt;br&gt;报名将于1月10日12:00截止。报名链接：https://wenjuan.nju.edu.cn/vm/wWck4v1.aspx
-&lt;br&gt;
-&lt;br&gt;http://jw.nju.edu.cn/3a/5b/c26263a735835/page.htm</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#Lean4%20%E5%B7%A5%E4%BD%9C%E5%9D%8A</guid></item><item><title>PL读书会</title><description>从25年春季学期开始，PLaX研究组（https://plax-lab.github.io/）将举办面向大二、大三本科生的PL读书会，欢迎对PL理论感兴趣的同学报名。具体计划如下：
-&lt;br&gt;
-&lt;br&gt;计划读的第一本书：Robert Harper’s PFPL (Practical Foundations of
-&lt;br&gt;Programming Languages)
-&lt;br&gt;
-&lt;br&gt;读书形式：每周线下聚会（1至2小时），同学们轮流讲解书中章节，自由讨论书中内容
-&lt;br&gt;
-&lt;br&gt;举办条件：报名不少于5人
-&lt;br&gt;
-&lt;br&gt;报名要求：二、三年级本科生，在仙林，对PL理论感兴趣
-&lt;br&gt;
-&lt;br&gt;退出机制：除了有讲解任务的同学外，其他同学可以随时自由退出
-&lt;br&gt;
-&lt;br&gt;报名方式：实名加入QQ群1006577416
-&lt;br&gt;
-&lt;br&gt;报名截止日期：2月12日
-&lt;br&gt;
-&lt;br&gt;本读书会无学分，也无任何世俗奖励。
-&lt;br&gt;
-&lt;br&gt;有疑问请联系梁红瑾老师，邮箱：
-&lt;br&gt;
-&lt;br&gt;hongjin@nju.edu.cn</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#PL%E8%AF%BB%E4%B9%A6%E4%BC%9A</guid></item><item><title>关于组织开展2025年寒假学生社会实践活动的通知</title><description>2025年寒假社会实践通知已经发布在南大青年官网（https://tuanwei.nju.edu.cn/36/3d/c24691a734781/page.htm），有意向参加寒假社会实践的同学可加入25寒假社会实践咨询群（QQ群号：1012412263）。</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#%E5%85%B3%E4%BA%8E%E7%BB%84%E7%BB%87%E5%BC%80%E5%B1%952025%E5%B9%B4%E5%AF%92%E5%81%87%E5%AD%A6%E7%94%9F%E7%A4%BE%E4%BC%9A%E5%AE%9E%E8%B7%B5%E6%B4%BB%E5%8A%A8%E7%9A%84%E9%80%9A%E7%9F%A5</guid></item><item><title>2025年春季学期本科课程选课通知</title><description>1.春季学期课程选课时间：1月20日10:00-2月7日23:00开通选课，抽签结果将于2月14日发布。  
-&lt;br&gt; 2.2025年1月17日公布2024-2025学年第二学期课表。  
-&lt;br&gt; 3.春季学期的本科课程测评正在进行，请同学们在1月12日前完成测评，测评完成后才能进行选课。  
-&lt;br&gt;选课范围、注意事项详见原文。</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#2025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%9C%AC%E7%A7%91%E8%AF%BE%E7%A8%8B%E9%80%89%E8%AF%BE%E9%80%9A%E7%9F%A5</guid></item><item><title>讲座</title><description>&lt;table&gt;
+&lt;br&gt;------------------------------------------------------------------------</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#2025%E5%B9%B4%E2%80%9D%E6%8C%91%E6%88%98%E6%9D%AF%E2%80%9D%E6%A0%A1%E8%B5%9B%E6%9C%9F%E9%97%B4%E4%BB%99%E6%9E%97%E6%A0%A1%E5%8C%BA%E9%83%A8%E5%88%86%E6%95%99%E5%AE%A4%E5%B0%81%E9%97%AD%E7%9A%84%E5%85%AC%E5%91%8A</guid></item><item><title>《青春》杂志征稿</title><description>(由NJU传灯社转发)  
+&lt;br&gt;1.艺文志·征稿|寻找2024年《青春》杂志最动人短评  
+&lt;br&gt;稿件要求：以”2024我最爱的《青春》作品”为主题的短评，字数在500字以内。  
+&lt;br&gt;征稿时间：即日起至2025年1月20日12:00  
+&lt;br&gt;投稿方式：青春文学网https://www.qcwxw123.com  
+&lt;br&gt;请在投稿标题处注明”艺文志+2024《青春》短评征集+作者名”  
+&lt;br&gt;稿酬待遇：入选作品稿酬为300元/篇，并寄送作者样刊1本。  
+&lt;br&gt;作品将在《青春》杂志上发表，并有机会被推荐至其他平台。  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/PSgA4WKXvKW9JlymUuX-vQ  
+&lt;br&gt;2.《青春》2025年专题征稿  
+&lt;br&gt;包含部分月份的主题，具体内容&amp;投稿方式等详见原文：https://mp.weixin.qq.com/s/nxyTvKHvf7uqlRjpaSBpOw</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E3%80%8A%E9%9D%92%E6%98%A5%E3%80%8B%E6%9D%82%E5%BF%97%E5%BE%81%E7%A8%BF</guid></item><item><title>关于寒假期间公共教室开放安排的通知</title><description>本科生院今日发布了寒假期间（2025年1月13日—2月16日），鼓楼、仙林和苏州三个校区自习教室开放安排的统治。  
+&lt;br&gt;开放时间为每日6：30-23：00。  
+&lt;br&gt;开放地点：  
+&lt;br&gt;鼓楼校区：教学楼（郑钢楼）一楼的公共教室  
+&lt;br&gt;仙林校区：思源楼（仙II）、逸夫楼（A、B、C区）一楼的公共教室  
+&lt;br&gt;苏州校区：南雍楼的西108、西115、西116、西122四间教室  
+&lt;br&gt;物业值班电话等信息详见https://jw.nju.edu.cn/3b/60/c26263a736096/page.htm</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E5%85%B3%E4%BA%8E%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E5%85%AC%E5%85%B1%E6%95%99%E5%AE%A4%E5%BC%80%E6%94%BE%E5%AE%89%E6%8E%92%E7%9A%84%E9%80%9A%E7%9F%A5</guid></item><item><title>黑匣推荐 | 2025原创剧本联合孵化计划</title><description>GOAT构特别 X 声嚣  
+&lt;br&gt;该计划由YOUNG剧场总经理王洁担任监制，GOAT构特别艺术总监包含和声嚣艺术总监陈思安担任联合艺术总监，并在新年伊始发起公开招募。  
+&lt;br&gt;后续两轮专业评选后，我们将于5月开展线下工作坊并进一步筹备，预计在8月举行”SHOWCASE展示”最终面向观众。  
+&lt;br&gt;招募对象：华语剧本创作者，不限地域、国籍；40周岁以下的青年创作者（1985年1月1日后出生）。  
+&lt;br&gt;报名截止日期：2025年3月20日  
+&lt;br&gt;详细信息见原文：https://mp.weixin.qq.com/s/vk1IggQrpfWxSFAYU-rf0Q</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E9%BB%91%E5%8C%A3%E6%8E%A8%E8%8D%90%20%7C%202025%E5%8E%9F%E5%88%9B%E5%89%A7%E6%9C%AC%E8%81%94%E5%90%88%E5%AD%B5%E5%8C%96%E8%AE%A1%E5%88%92</guid></item><item><title>中国出版集团第二届大学生阅读分享活动征稿</title><description>中国出版集团于2025年1月9日正式启动第二届大学生阅读分享活动  
+&lt;br&gt;征集时间：1月9日-3月7日  
+&lt;br&gt;作品形式：限文字作品。文章格式统一为WORD版本，文章标题用华文中宋2号字体，正文用3号仿宋字体，行间距为26磅。体裁包括读后感、阅读故事、读书小品等，字数为2000～4000字。每篇文章的作者人数不可超过2人。  
+&lt;br&gt;版权要求：投稿作品均须原创，不允许使用AI素材。坚决杜绝抄袭，如发现抄袭、剽窃或模仿等行为，相关法律责任由投稿人自行承担。  
+&lt;br&gt;内容要求：各类投稿作品均为原创性作品，不得含有色情、暴力等内容，均须遵守国家有关法律、行政法规的规定，符合民族文化传统、公共道德价值、行业规范等要求。  
+&lt;br&gt;本次征集有若干有奖金的奖项。  
+&lt;br&gt;投稿方式和具体注意事项详见：https://mp.weixin.qq.com/s/MRHtmVKsJkizE2Mm4iDrOw</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2%E7%AC%AC%E4%BA%8C%E5%B1%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%98%85%E8%AF%BB%E5%88%86%E4%BA%AB%E6%B4%BB%E5%8A%A8%E5%BE%81%E7%A8%BF</guid></item><item><title>寒假异地就医指南</title><description>南京大学医院发布了寒假期间异地就医使用医保的教程，详见https://mp.weixin.qq.com/s/3OXNSioOpWtnpMEirbidwQ</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E5%AF%92%E5%81%87%E5%BC%82%E5%9C%B0%E5%B0%B1%E5%8C%BB%E6%8C%87%E5%8D%97</guid></item><item><title>讲座</title><description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: left;"&gt;讲座&lt;/th&gt;
@@ -42,13 +38,40 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;《移动计算与社会治理》&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;移动计算与社会治理&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;1.15&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-06"&gt;1.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: left;"&gt;演化及具生智能：从理论研究到实际应用&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1.12&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: left;"&gt;Learning Deep SPD Visual Representation
+for Image Classification&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;1.13&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#%E8%AE%B2%E5%BA%A7</guid></item><item><title>Deadline Ongoing</title><description>&lt;table&gt;
+&lt;/table&gt;
+
+### When Riemannian Geometry Meets Visual Representation — Learning Deep SPD Visual Representation for Image Classification
+
+主讲人：王雷  
+时间：2025年1月13日（星期一） 10:00  
+地点：计算机科学技术楼222室  
+详见&lt;https://mp.weixin.qq.com/s/ZQIYo0zN8FvekC9ATbEpfw&gt;
+
+### 演化及具生智能：从理论研究到实际应用
+
+主讲人：谢悦  
+时间：1月12日10:30  
+地点：仙林校区逸夫楼A410  
+详见&lt;https://keysoftlab.nju.edu.cn/3c/c3/c1578a736451/page.htm&gt;</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E8%AE%B2%E5%BA%A7</guid></item><item><title>Deadline Ongoing</title><description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -159,9 +182,27 @@ href="https://nik-nul.github.io/news/2025-01-09"&gt;1.9&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-09"&gt;1.9&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;原创剧本联合孵化报名&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;3.20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;阅读分享活动征稿&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;3.7&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;青春杂志征稿&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;1.20&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#Deadline%20Ongoing</guid></item><item><title>订阅方式和加入编辑部</title><description>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+------------------------------------------------------------------------</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#Deadline%20Ongoing</guid></item><item><title>订阅方式和加入编辑部</title><description>编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小祥  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-09#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</guid></item></channel></rss>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</description><guid isPermaLink="true">https://nik-nul.github.io/news/2025-01-10#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</guid></item></channel></rss>
