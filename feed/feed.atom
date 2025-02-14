@@ -1,50 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-02-06T20:02:43.082292+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-02-07" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-02-07#%E6%95%B0%E5%AD%A6%E5%AD%A6%E9%99%A2%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8</id><title>数学学院新年活动</title><updated>2025-02-06T20:02:43.082672+00:00</updated><content type="html">含新春祝福征集、猜灯谜、新春民俗征集活动。  
-&lt;br&gt;https://mp.weixin.qq.com/s/Hx6zOg4p64X-HJOUB6iJrQ</content><link href="https://nik-nul.github.io/news/2025-02-07#%E6%95%B0%E5%AD%A6%E5%AD%A6%E9%99%A2%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E4%BA%8C%E5%89%A7%E5%B8%AE%E6%8E%A8%20%E6%96%B0%E6%98%A5%E8%AE%B2%E5%BA%A7%E9%A2%84%E5%91%8A</id><title>二剧帮推 新春讲座预告</title><updated>2025-02-06T20:02:43.082660+00:00</updated><content type="html">主题：学戏剧到底能吃上饭吗？  
-&lt;br&gt;2/4至2/7共有四场，均为晚上八点  
-&lt;br&gt;具体讲座内容及嘉宾等见原文：https://mp.weixin.qq.com/s/il5QNwcgKtXwQ9PDgumNlQ</content><link href="https://nik-nul.github.io/news/2025-02-07#%E4%BA%8C%E5%89%A7%E5%B8%AE%E6%8E%A8%20%E6%96%B0%E6%98%A5%E8%AE%B2%E5%BA%A7%E9%A2%84%E5%91%8A"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E7%94%9F%E7%A7%91%E9%99%A2%E7%A7%89%E5%BF%97%E7%A7%91%E5%AD%A6%E6%B2%99%E9%BE%99%E5%88%9D%E8%B5%9B</id><title>生科院秉志科学沙龙初赛</title><updated>2025-02-06T20:02:43.082643+00:00</updated><content type="html">赛道主题：“创新与实践”  
-&lt;br&gt;参赛者可自由组成1 4人的团队，参赛团队需根据自己的实验过程及结果完成论文，要求结论必须有实验支撑。  
-&lt;br&gt;初赛阶段参赛队伍需要提交一篇论文，评委老师将根据论文质量选出优秀作品进入复赛。  
-&lt;br&gt;初赛论文提交截止时间：2月22日24:00  
-&lt;br&gt;详细内容见原文https://mp.weixin.qq.com/s/-NokUMG2-5GIGXzVocwAWg</content><link href="https://nik-nul.github.io/news/2025-02-07#%E7%94%9F%E7%A7%91%E9%99%A2%E7%A7%89%E5%BF%97%E7%A7%91%E5%AD%A6%E6%B2%99%E9%BE%99%E5%88%9D%E8%B5%9B"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E2%80%9C%E5%94%A4%E9%86%92%E6%B2%89%E7%9D%A1%E7%9A%84%E4%B9%A6%E7%B1%8D%EF%BC%8C%E4%BC%A0%E9%80%92%E6%B8%A9%E6%9A%96%E7%9A%84%E6%83%85%E8%B0%8A%E2%80%9D%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%90%91%E6%B8%A1%E6%B1%9F%E5%88%9D%E4%B8%AD%E6%8D%90%E4%B9%A6%E7%9A%84%E5%80%A1%E8%AE%AE</id><title>“唤醒沉睡的书籍，传递温暖的情谊”——关于向渡江初中捐书的倡议</title><updated>2025-02-06T20:02:43.082616+00:00</updated><content type="html">时值寒假，南京大学数学学院拟启动第二批捐书活动，所捐书籍可由您所在地直接寄往渡江初中。若您家中有适合七-九年级孩子的闲置读物，欢迎捐赠，新旧不论。  
-&lt;br&gt;活动时间：即日起至2月16日  
-&lt;br&gt;活动QQ群号：747331847  
-&lt;br&gt;具体捐书安排  
-&lt;br&gt;1.书籍捐赠  
-&lt;br&gt;捐赠对象：江西省赣州市龙南市渡江镇渡江初级中学图书资料室，阅读对象为七至九年级学生。  
-&lt;br&gt;捐赠书目：不限，优先征集小说、科普、人物传记等适合初中生阅读的优质图书。新旧不限，如是旧书，希望较整洁、六成新以上。书目可参考教育部中小学生阅读指导目录的初中段部分(仅参考，不限此清单)http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202004/W020200422556593462993.pdf
-&lt;br&gt;捐赠方式：捐赠者自行邮寄并填写活动问卷（问卷链接在活动QQ群中公布），由数学学院报销邮费并奖励志愿时长。  
-&lt;br&gt;2.书信交流  
-&lt;br&gt;活动内容：捐赠者可为渡江初中的孩子们写一封信，分享个人成长故事或书籍推荐心得，与捐赠书籍一同邮寄给孩子们。  
-&lt;br&gt;活动收获：将书信拍照记录，并填写信息收集问卷（问卷链接在活动QQ群中公布），可获得相应志愿时长奖励。优秀书信有机会在学院微信公众号等平台展示（在征得捐赠者意向的前提下），并奖励额外志愿时长。  
-&lt;br&gt;3.喜迎新春  
-&lt;br&gt;活动内容：捐赠者可为渡江初中的孩子们送上新春贺卡，喜迎蛇年，传递祝福，与捐赠书籍一同邮寄给孩子们。  
-&lt;br&gt;活动收获：将贺卡拍照记录，并填写信息收集问卷（问卷链接在活动QQ群中公布），可获得相应志愿时长。优秀作品有机会在学院微信公众号等平台展示（在征得捐赠者意向的前提下），并奖励额外志愿时长。  
-&lt;br&gt;活动背景及详细内容见推文：https://mp.weixin.qq.com/s/L3hXZGjbyh--lcPapno9sA</content><link href="https://nik-nul.github.io/news/2025-02-07#%E2%80%9C%E5%94%A4%E9%86%92%E6%B2%89%E7%9D%A1%E7%9A%84%E4%B9%A6%E7%B1%8D%EF%BC%8C%E4%BC%A0%E9%80%92%E6%B8%A9%E6%9A%96%E7%9A%84%E6%83%85%E8%B0%8A%E2%80%9D%E2%80%94%E2%80%94%E5%85%B3%E4%BA%8E%E5%90%91%E6%B8%A1%E6%B1%9F%E5%88%9D%E4%B8%AD%E6%8D%90%E4%B9%A6%E7%9A%84%E5%80%A1%E8%AE%AE"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%EF%BD%9C%E2%80%9C%E6%96%B0%E6%98%A5%E5%BD%B1%EF%BC%8C%E6%95%85%E4%B9%A1%E6%83%85%E2%80%9D%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B</id><title>计算机学院｜“新春影，故乡情”摄影大赛</title><updated>2025-02-06T20:02:43.082595+00:00</updated><content type="html">征集时间：2.16晚23:59截止  
-&lt;br&gt;征集对象：南京大学计算机学院全体师生  
-&lt;br&gt;征集范围：包括但不限于家乡春节风俗、年夜饭、春节街景等，内容符合主题、积极健康即可（可以参考朋友圈的分享形式）。  
-&lt;br&gt;图文格式：图片（1-9张，可以是拼接长图）+ 文字说明（可选项）  
-&lt;br&gt;活动详情及参与方式见推文：https://mp.weixin.qq.com/s/5os2m-1oC1EAhiQ-9BYNWw</content><link href="https://nik-nul.github.io/news/2025-02-07#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2%EF%BD%9C%E2%80%9C%E6%96%B0%E6%98%A5%E5%BD%B1%EF%BC%8C%E6%95%85%E4%B9%A1%E6%83%85%E2%80%9D%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E5%BC%80%E7%94%B2%E4%B9%A6%E9%99%A2%E2%80%9DIT%E5%90%AF%E6%98%8E%E6%98%9F%E2%80%9D%E5%BF%97%E6%84%BF%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%AC%AC%E4%BA%94%E6%9C%9F%E5%BC%80%E5%A7%8B%E6%8B%9B%E5%8B%9F</id><title>开甲书院”IT启明星”志愿服务活动第五期开始招募</title><updated>2025-02-06T20:02:43.082565+00:00</updated><content type="html">2025年将与南京大学第26届研究生支教团云南双柏分队合作，在云南省双柏县第一中学和双柏县妥甸中学开展线上教学，把计算机领域的知识带给云南省双柏县的孩子们，助力他们的未来发展。  
-&lt;br&gt;活动内容  
-&lt;br&gt;1.活动形式为线上教学  
-&lt;br&gt;2.主题：与计算机或人工智能领域相关即可，志愿者可自由拟定。  
-&lt;br&gt;志愿者要求  
-&lt;br&gt;1. 招募对象：南京大学在校生，开甲书院、人工智能学院、计算机学院、软件学院等相关学院学生优先；  
-&lt;br&gt;2. 人数需求：拟招募20-30名志愿者；  
-&lt;br&gt;3. 教学内容需生动有趣，符合中学生心理和思维接受能力；  
-&lt;br&gt;4.
-&lt;br&gt;志愿者需自行拟定课堂主题，在正式授课前完成相关内容的准备和课件的制作；  
-&lt;br&gt;5. 直播过程中志愿者需要具备较好的临场应变能力；  
-&lt;br&gt;6. 项目设置课程试讲环节，试讲通过后才可正式授课。  
-&lt;br&gt;报名方式  
-&lt;br&gt;1.扫描二维码加入QQ群  
-&lt;br&gt;2.
-&lt;br&gt;点击下方链接填写报名表格，截止时间为2月10日24:00。https://table.nju.edu.cn/dtable/forms/29397e68-974b-471c-99c3-570cc06421d7/  
-&lt;br&gt;活动详细内容、志愿者招募要求见推文：https://mp.weixin.qq.com/s/nVDMoRNdWcqwOrO_FLoL-A</content><link href="https://nik-nul.github.io/news/2025-02-07#%E5%BC%80%E7%94%B2%E4%B9%A6%E9%99%A2%E2%80%9DIT%E5%90%AF%E6%98%8E%E6%98%9F%E2%80%9D%E5%BF%97%E6%84%BF%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%AC%AC%E4%BA%94%E6%9C%9F%E5%BC%80%E5%A7%8B%E6%8B%9B%E5%8B%9F"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%AF%93%E7%90%87%E4%B9%A6%E9%99%A2%202025%20%E5%B9%B4%E6%96%87%E5%88%9B%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B</id><title>南京大学毓琇书院 2025 年文创设计大赛</title><updated>2025-02-06T20:02:43.082529+00:00</updated><content type="html">参与对象：2024级以及历届毓琇书院学生  
-&lt;br&gt;作品主题：本次文创设计大赛以”灵毓琇意，文创新程”为题，希望参赛作品能够围绕南大文化和新工科特色，展现毓琇学子奋勇争先、敢于进取的奋进精神。  
-&lt;br&gt;作品要求：作品种类不限，鼓励同学们充分发挥想象力。包括但不限于帆布包、钥匙扣、明信片、胸针、书签、冰箱贴、贴纸、笔、文件夹、文化衫、鼠标垫……  
-&lt;br&gt;截止日期：2025年2月20日  
-&lt;br&gt;作品详细要求与提交方式等见推文：https://mp.weixin.qq.com/s/sK5D7leEyIU_pOxQBMFfmQ</content><link href="https://nik-nul.github.io/news/2025-02-07#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%AF%93%E7%90%87%E4%B9%A6%E9%99%A2%202025%20%E5%B9%B4%E6%96%87%E5%88%9B%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-02-06T20:02:43.082512+00:00</updated><content type="html">&lt;table&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-02-14T15:48:02.997527+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-02-14" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-02-14#%E5%81%A5%E9%9B%84%E4%B9%A6%E9%99%A2%20%E2%80%9C%E6%96%B0%E6%98%A5%E6%B0%94%E8%B1%A1%E2%80%9D%20%E6%91%84%E5%BD%B1%E5%BE%81%E9%9B%86</id><title>健雄书院 “新春气象” 摄影征集</title><updated>2025-02-14T15:48:02.997928+00:00</updated><content type="html">征集主题：各地过年的风俗人情和美食装饰  
+&lt;br&gt;征集对象：全体健雄书院老师及同学  
+&lt;br&gt;征集时间：即日起至 2025 年 2 月 15 日  
+&lt;br&gt;要求：拍摄题材各地过年的风俗人情和美食装饰，拍摄时间为 2025
+&lt;br&gt;年寒假，提交作品大小应控制在 10MB 以内，提交照片数量上限为 3
+&lt;br&gt;张，每张照片必须附上命名，并添加相应的文字介绍。  
+&lt;br&gt;投稿方式：在https://box.nju.edu.cn/d/3710203840dc467e92b1/中上传  
+&lt;br&gt;奖励和其他事宜详见原文https://mp.weixin.qq.com/s/ib2AY8WsKKTFM2Bq6CFoIg</content><link href="https://nik-nul.github.io/news/2025-02-14#%E5%81%A5%E9%9B%84%E4%B9%A6%E9%99%A2%20%E2%80%9C%E6%96%B0%E6%98%A5%E6%B0%94%E8%B1%A1%E2%80%9D%20%E6%91%84%E5%BD%B1%E5%BE%81%E9%9B%86"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E9%9D%92%E5%B9%B4%E7%A7%91%E5%85%89%20%7C%E3%80%8A%E6%96%B0%E4%B8%80%E4%BB%A3%E9%9B%86%E6%88%90%E5%85%89%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B%E8%AF%BE%E7%A8%8B%E8%A1%A5%E6%8A%A5%E5%90%8D</id><title>青年科光 |《新一代集成光子技术》课程补报名</title><updated>2025-02-14T15:48:02.997908+00:00</updated><content type="html">【课程名额】10人  
+&lt;br&gt;【选课要求】对集成光子学的前沿研究和产业有浓厚兴趣  
+&lt;br&gt;【选拔形式】提交一份300-500字左右的选课陈述，简述对集成光子领域的认识，以及自己的相关知识储备。  
+&lt;br&gt;【课程周次】第4-11周（周六上午9:30-11:30）  
+&lt;br&gt;有意选修的同学，补报名详见https://mp.weixin.qq.com/s/BTWFDBEe4hhF_oOUt6kPtw！  
+&lt;br&gt;本次报名截止时间为：2月17日24点</content><link href="https://nik-nul.github.io/news/2025-02-14#%E9%9D%92%E5%B9%B4%E7%A7%91%E5%85%89%20%7C%E3%80%8A%E6%96%B0%E4%B8%80%E4%BB%A3%E9%9B%86%E6%88%90%E5%85%89%E5%AD%90%E6%8A%80%E6%9C%AF%E3%80%8B%E8%AF%BE%E7%A8%8B%E8%A1%A5%E6%8A%A5%E5%90%8D"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E6%9A%B4%E9%9C%B2%E5%90%8E%E9%A2%84%E9%98%B2%E5%85%8D%E8%B4%B9%E9%80%9A%E9%81%93%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE</id><title>在校学生暴露后预防免费通道正式开放</title><updated>2025-02-14T15:48:02.997892+00:00</updated><content type="html">为有效降低艾滋病感染风险，即日起南京市疾病预防控制中心联合建邺区都安全门诊部，建立在校学生艾滋病病毒暴露后阻断免费通道，第一时间提供专业和及时的艾滋病病毒暴露后预防服务  
+&lt;br&gt;详情见https://mp.weixin.qq.com/s/Kj8otQtCQCpR2OsXgLX42g</content><link href="https://nik-nul.github.io/news/2025-02-14#%E5%9C%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E6%9A%B4%E9%9C%B2%E5%90%8E%E9%A2%84%E9%98%B2%E5%85%8D%E8%B4%B9%E9%80%9A%E9%81%93%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%94%BE"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E2%80%9C%E5%9C%B0%E2%80%9D%E8%81%8C%E8%B5%8B%E8%83%BD%E8%AE%AD%E7%BB%83%E8%90%A5%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8A%A8%E9%87%8D%E7%A3%85%E5%90%AF%E5%B9%95</id><title>“地”职赋能训练营系列活动重磅启幕</title><updated>2025-02-14T15:48:02.997867+00:00</updated><content type="html">面向对象：地理与海洋科学学院2021、2022级本科生、2023、2024级硕士研究生以及各年级博士研究生（定向委培除外）。  
+&lt;br&gt;报名截止时间：2025年2月21日  
+&lt;br&gt;活动时间：2025年3月-2025年5月  
+&lt;br&gt;报名方式：学生自主报名，填写《报名汇总表》（附件1）加入活动群聊，于2025年2月21日前将报名汇总表发送至njugeo\_job@163.com，邮件和文件均命名为”姓名+训练营报名”。  
+&lt;br&gt;详见https://mp.weixin.qq.com/s/hYSqgMUgQPF87ETQwbvczg</content><link href="https://nik-nul.github.io/news/2025-02-14#%E2%80%9C%E5%9C%B0%E2%80%9D%E8%81%8C%E8%B5%8B%E8%83%BD%E8%AE%AD%E7%BB%83%E8%90%A5%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8A%A8%E9%87%8D%E7%A3%85%E5%90%AF%E5%B9%95"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E3%80%902024%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E3%80%912025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%BE%8E%E8%82%B2%E6%A0%B8%E5%BF%83%E8%AF%BE%E9%80%89%E8%AF%BE%E9%80%9A%E7%9F%A5</id><title>【2024级本科生】2025年春季学期美育核心课选课通知</title><updated>2025-02-14T15:48:02.997843+00:00</updated><content type="html">补选方式：2月17日下午13:30起，登录选课平台→“公共”→“美育”模块进行补选  
+&lt;br&gt;链接：https://jw.nju.edu.cn/56/17/c26263a742935/page.htm</content><link href="https://nik-nul.github.io/news/2025-02-14#%E3%80%902024%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F%E3%80%912025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%BE%8E%E8%82%B2%E6%A0%B8%E5%BF%83%E8%AF%BE%E9%80%89%E8%AF%BE%E9%80%9A%E7%9F%A5"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#2025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E6%8A%A5%E5%90%8D%E9%80%9A%E7%9F%A5</id><title>2025年春季学期补考报名通知</title><updated>2025-02-14T15:48:02.997826+00:00</updated><content type="html">报名时间：本学期补考申请通道于2月14日13：30开通，公共课（数学、英语、计算机、思政）补考申请截止时间为2月19日12:00；其他课程的补考申请截止时间为2月21日17:00。  
+&lt;br&gt;链接：https://jw.nju.edu.cn/56/58/c26263a743000/page.htm</content><link href="https://nik-nul.github.io/news/2025-02-14#2025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E6%8A%A5%E5%90%8D%E9%80%9A%E7%9F%A5"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5%EF%BC%882025%E5%B9%B42%E6%9C%88%EF%BC%89</id><title>南京大学公共体育课程学习须知（2025年2月）</title><updated>2025-02-14T15:48:02.997798+00:00</updated><content type="html">链接：https://jw.nju.edu.cn/56/54/c26263a742996/page.htm</content><link href="https://nik-nul.github.io/news/2025-02-14#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%85%AC%E5%85%B1%E4%BD%93%E8%82%B2%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5%EF%BC%882025%E5%B9%B42%E6%9C%88%EF%BC%89"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#2025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%9C%AC%E7%A7%91%E6%95%99%E5%8A%A1%E4%BA%8B%E9%A1%B9%E9%80%9A%E7%9F%A5</id><title>2025年春季学期本科教务事项通知</title><updated>2025-02-14T15:48:02.997760+00:00</updated><content type="html">\- 返校后办理报到注册（2月17日-23日）
+&lt;br&gt;
+&lt;br&gt;\- 课程补退选时间为2月17日13:30 -
+&lt;br&gt;课程开课第三周的周一上午7:00（除体育课外。请登录”本科选课平台”（https://xk.nju.edu.cn/）。补选采用”直选式”，提交成功后即选中这门课程。
+&lt;br&gt;开课3-8周仍然可以退选，但是成绩单上会有退课记录（开课第二周的周日24:00之后，退课操作都会有记录）。
+&lt;br&gt;
+&lt;br&gt;详见：https://jw.nju.edu.cn/56/ad/c26263a743085/page.htm</content><link href="https://nik-nul.github.io/news/2025-02-14#2025%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%9C%AC%E7%A7%91%E6%95%99%E5%8A%A1%E4%BA%8B%E9%A1%B9%E9%80%9A%E7%9F%A5"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-02-14T15:48:02.997743+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: left;"&gt;讲座&lt;/th&gt;
@@ -54,19 +34,30 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;/&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;/&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;/&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;基于ART的面向对象软件测试方法探讨&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;2.15&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: left;"&gt;適應隨機勝隨機&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;2.16&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-1.”诚计划”第137期:《以新质生产力增强发展新动能》  
-主讲人：沈坤荣教授  
-时间：&lt;s&gt;2025年2月11日（周二）晚19:30 - 21:00&lt;/s&gt;因故暂停，择期再播  
-平台：南京大学”暾学堂”  
-主讲人介绍、内容简介、观看方式见推文：&lt;https://mp.weixin.qq.com/s/e7kieQYghx01Qo9gRZipHw&gt;  
-讲座延期公告：&lt;https://mp.weixin.qq.com/s/s_qODDi-JbxkeXwD28335Q&gt;</content><link href="https://nik-nul.github.io/news/2025-02-07#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2025-02-06T20:02:43.082487+00:00</updated><content type="html">&lt;table&gt;
+1.基于ART的面向对象软件测试方法探讨  
+陈锦富 教授 江苏大学计算机学院  
+时间:2月15日(星期六)9:30  
+地点:计算机科学技术楼112室  
+讲座摘要及主讲人简介见&lt;https://mp.weixin.qq.com/s/rDOrWxivAVucSzFR7j91CQ&gt;  
+2.適應隨機勝隨機  
+陈宗岳 教授 Swinburne University of Technology  
+时间:2月16日(星期日)10:30  
+地点:计算机科学技术楼112室  
+讲座摘要及主讲人简介见&lt;https://mp.weixin.qq.com/s/zQe0dxQpEBUpsCokcKipkg&gt;</content><link href="https://nik-nul.github.io/news/2025-02-14#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#Deadline%20Ongoing</id><title>Deadline Ongoing</title><updated>2025-02-14T15:48:02.997718+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: center;"&gt;消息(未见ddl的，不刊)&lt;/th&gt;
@@ -76,88 +67,52 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;西安史学论坛征稿&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;3.20&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-09"&gt;12.9&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;12306学生优惠票&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.12&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-13"&gt;12.13&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;南大博物馆展览&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;6.16&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2024-12-17"&gt;12.17&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;挂职干部选拔&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.13&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2024-12-31"&gt;12.31&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;ASC25报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.21&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-06"&gt;1.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;天文台开放日&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;/&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-06"&gt;1.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;开甲书院科研作坊&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.17&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-06"&gt;1.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;PL读书会&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.12&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-01-09"&gt;1.9&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: center;"&gt;春季选课&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.7&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-01-09"&gt;1.9&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;原创剧本联合孵化报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;3.20&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;阅读分享活动征稿&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;3.7&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-10"&gt;1.10&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;njumun代表报名&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;3.2&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-16"&gt;1.16&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;大气院寒假打卡&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.16&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-01-20"&gt;1.20&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;冬季代码2025报名&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.8&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-01-26"&gt;1.26&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;毓秀文创&lt;/td&gt;
@@ -166,32 +121,50 @@ href="https://nik-nul.github.io/news/2025-01-26"&gt;1.26&lt;/a&gt;&lt;/td&gt;
 href="https://nik-nul.github.io/news/2025-02-06"&gt;2.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="even"&gt;
-&lt;td style="text-align: center;"&gt;开甲支教志愿者&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;2.10&lt;/td&gt;
-&lt;td style="text-align: center;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-02-06"&gt;2.6&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;计院摄影&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.16&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-02-06"&gt;2.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: center;"&gt;数院捐书&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.16&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-02-06"&gt;2.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: center;"&gt;生科论文沙龙&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;2.22&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-02-06"&gt;2.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;地海训练营&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2.21&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;健雄摄影征集&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2.15&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: center;"&gt;返校注册&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2.23&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: center;"&gt;课程补退选&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;2.17&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-02-14"&gt;2.14&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-------------------------------------------------------------------------</content><link href="https://nik-nul.github.io/news/2025-02-07#Deadline%20Ongoing"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-07#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-02-06T20:02:43.082428+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+------------------------------------------------------------------------</content><link href="https://nik-nul.github.io/news/2025-02-14#Deadline%20Ongoing"/></entry><entry><id>https://nik-nul.github.io/news/2025-02-14#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-02-14T15:48:02.997665+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小祥  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content><link href="https://nik-nul.github.io/news/2025-02-07#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[849644979](https://qm.qq.com/q/VXIW7fgsEe).</content><link href="https://nik-nul.github.io/news/2025-02-14#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
