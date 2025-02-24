@@ -89,9 +89,9 @@
 |    萌马音乐工作室招新    |   2.28   | [2.22](https://nik-nul.github.io/news/2025-02-22) |
 |     秉文书院早晚自习     |   3.3    | [2.23](https://nik-nul.github.io/news/2025-02-23) |
 |         图协招新         |   2.28   | [2.23](https://nik-nul.github.io/news/2025-02-23) |
-|       “核真录”招新       |   3.2    | [2.25](https://nik-nul.github.io/news/2025-02-25) |
-|     菁菁南数招募讲师     |   3.9    | [2.25](https://nik-nul.github.io/news/2025-02-25) |
-|        四六级查分        |   2.27   | [2.25](https://nik-nul.github.io/news/2025-02-25) |
+|       “核真录”招新       |   3.2    | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+|     菁菁南数招募讲师     |   3.9    | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+|        四六级查分        |   2.27   | [2.24](https://nik-nul.github.io/news/2025-02-24) |
 
 ------------------------------------------------------------------------
 
@@ -109,9 +109,9 @@
 | 2025香港大学暑期课程宣讲会                                                                 | 2.26     | [2.21](https://nik-nul.github.io/news/2025-02-21) |
 | 在哲学与艺术之间                                                                           | 2.26     | [2.23](https://nik-nul.github.io/news/2025-02-23) |
 | Nonlinear magneto-optical effect in 2D magnets                                             | 2.27     | [2.24](https://nik-nul.github.io/news/2025-02-24) |
-| 社会分层视野下的教育失配研究：博士论文的写作、拓展与反思                                   | 2.26     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
-| MIMOS: the asynchronous paradigm and tools for safety-critical software design and updates | 2.27     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
-| 长江文明系列讲座第一期                                                                     | 2.27     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
+| 社会分层视野下的教育失配研究：博士论文的写作、拓展与反思                                   | 2.26     | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+| MIMOS: the asynchronous paradigm and tools for safety-critical software design and updates | 2.27     | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+| 长江文明系列讲座第一期                                                                     | 2.27     | [2.24](https://nik-nul.github.io/news/2025-02-24) |
 
 1.合美博士餐叙第七十五期  
 讲座题目：社会分层视野下的教育失配研究：博士论文的写作、拓展与反思  
