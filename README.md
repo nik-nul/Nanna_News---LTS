@@ -97,22 +97,21 @@
 
 ## 讲座
 
-\|&gt;m.3\|m.06\|m.06\| 讲座 & 开展时间 & 刊载时间  
-
-人机协同背景下高等外语教育的守正创新 & 2.27 & 2.17  
-大陆的起源 & 3.4 & 2.17  
-中国中古《孙子算经》在日本的受容 & 2.25 & 2.20  
-南京”世界文学之都”的前世今生 & 2.27 & 2.20  
-复杂异构大数据治理与分析关键技术及应用 & 2.25 & 2.20  
-香港大学经管学院硕士课程高校专场线下宣讲会 & 2.27 & 2.20  
-电子平带材料中的关联与拓扑 & 2.25 & 2.21  
-2025香港大学暑期课程宣讲会 & 2.26 & 2.21  
-在哲学与艺术之间 & 2.26 & 2.23  
-Nonlinear magneto-optical effect in 2D magnets & 2.27&2.24  
-社会分层视野下的教育失配研究：博士论文的写作、拓展与反思 & 2.26 & 2.25  
-MIMOS: the asynchronous paradigm and tools for safety-critical software
-design&updates & 2.27 & 2.25  
-长江文明系列讲座第一期 & 2.27 & 2.25  
+| 讲座                                                                                       | 开展时间 | 刊载时间                                          |
+|:-------------------------------------------------------------------------------------------|:---------|:--------------------------------------------------|
+| 人机协同背景下高等外语教育的守正创新                                                       | 2.27     | [2.17](https://nik-nul.github.io/news/2025-02-17) |
+| 大陆的起源                                                                                 | 3.4      | [2.17](https://nik-nul.github.io/news/2025-02-17) |
+| 中国中古《孙子算经》在日本的受容                                                           | 2.25     | [2.20](https://nik-nul.github.io/news/2025-02-20) |
+| 南京”世界文学之都”的前世今生                                                               | 2.27     | [2.20](https://nik-nul.github.io/news/2025-02-20) |
+| 复杂异构大数据治理与分析关键技术及应用                                                     | 2.25     | [2.20](https://nik-nul.github.io/news/2025-02-20) |
+| 香港大学经管学院硕士课程高校专场线下宣讲会                                                 | 2.27     | [2.20](https://nik-nul.github.io/news/2025-02-20) |
+| 电子平带材料中的关联与拓扑                                                                 | 2.25     | [2.21](https://nik-nul.github.io/news/2025-02-21) |
+| 2025香港大学暑期课程宣讲会                                                                 | 2.26     | [2.21](https://nik-nul.github.io/news/2025-02-21) |
+| 在哲学与艺术之间                                                                           | 2.26     | [2.23](https://nik-nul.github.io/news/2025-02-23) |
+| Nonlinear magneto-optical effect in 2D magnets                                             | 2.27     | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+| 社会分层视野下的教育失配研究：博士论文的写作、拓展与反思                                   | 2.26     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
+| MIMOS: the asynchronous paradigm and tools for safety-critical software design and updates | 2.27     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
+| 长江文明系列讲座第一期                                                                     | 2.27     | [2.25](https://nik-nul.github.io/news/2025-02-25) |
 
 1.合美博士餐叙第七十五期  
 讲座题目：社会分层视野下的教育失配研究：博士论文的写作、拓展与反思  
