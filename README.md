@@ -21,48 +21,29 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2025-03-22
+# 南哪消息 2025-03-23
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#订阅方式和加入编辑部"
         id="toc-订阅方式和加入编辑部">订阅方式和加入编辑部</a>
     -   <a href="#活动清单" id="toc-活动清单">活动清单</a>
     -   <a href="#讲座" id="toc-讲座">讲座</a>
-        -   <a href="#a-geometric-perspective-on-the-compressible-euler..."
-            id="toc-a-geometric-perspective-on-the-compressible-euler...">A
-            Geometric Perspective on the Compressible Euler...</a>
-        -   <a href="#multivirate-poisson-intensity-estimation-via-low-rank.."
-            id="toc-multivirate-poisson-intensity-estimation-via-low-rank..">Multivirate
-            Poisson intensity estimation via low-rank..</a>
-        -   <a href="#铜氧化物超导体中配对密度波态和强电子-晶格相互作用的直接观测"
-            id="toc-铜氧化物超导体中配对密度波态和强电子-晶格相互作用的直接观测">铜氧化物超导体中配对密度波态和强电子-晶格相互作用的直接观测</a>
-        -   <a href="#movers工作坊sdgs残障融合博物馆"
-            id="toc-movers工作坊sdgs残障融合博物馆">Movers工作坊SDGs&amp;残障融合&amp;博物馆</a>
-        -   <a href="#srtp3.23-3.25周日-周二学术文化活动概览"
-            id="toc-srtp3.23-3.25周日-周二学术文化活动概览">[SRTP]3.23-3.25（周日 周二）学术文化活动概览</a>
-    -   <a href="#荧光夜跑-韵动青春逐梦星辰"
-        id="toc-荧光夜跑-韵动青春逐梦星辰">荧光夜跑 | 韵动青春，逐梦星辰</a>
-    -   <a href="#南大地球科学博物馆春季学期开放安排"
-        id="toc-南大地球科学博物馆春季学期开放安排">南大地球科学博物馆春季学期开放安排</a>
-    -   <a href="#第44届校园十大歌星赛"
-        id="toc-第44届校园十大歌星赛">第44届校园十大歌星赛</a>
-    -   <a href="#南京大学研究生定向越野"
-        id="toc-南京大学研究生定向越野">南京大学研究生定向越野</a>
-    -   <a href="#年长望杯气象达人邀请赛"
-        id="toc-年长望杯气象达人邀请赛">2025年”长望杯”气象达人邀请赛</a>
-    -   <a href="#清明纸鸢手作工坊"
-        id="toc-清明纸鸢手作工坊">清明纸鸢手作工坊</a>
-    -   <a href="#访企拓岗丨中兴通讯"
-        id="toc-访企拓岗丨中兴通讯">访企拓岗丨中兴通讯</a>
+        -   <a href="#无导数优化简介" id="toc-无导数优化简介">无导数优化简介</a>
+        -   <a href="#南新读书会" id="toc-南新读书会">南新读书会</a>
+    -   <a href="#研途星光朋辈领航国奖对话会浦口专场"
+        id="toc-研途星光朋辈领航国奖对话会浦口专场">“研途星光·朋辈领航”国奖对话会（浦口专场）</a>
+    -   <a href="#南京大学博物馆篆刻体验课报名"
+        id="toc-南京大学博物馆篆刻体验课报名">南京大学博物馆”篆刻体验课”报名</a>
+    -   <a href="#暑期项目-2025年澳门大学合作院校优秀学生夏令营"
+        id="toc-暑期项目-2025年澳门大学合作院校优秀学生夏令营">暑期项目 |
+        2025年澳门大学合作院校优秀学生夏令营</a>
     -   <a href="#院级活动" id="toc-院级活动">院级活动</a>
-        -   <a href="#格物奋进-物耀启航一日职场访企拓岗活动波长光电参访邀请"
-            id="toc-格物奋进-物耀启航一日职场访企拓岗活动波长光电参访邀请">格物奋进
-            | “物耀启航”一日职场访企拓岗活动——波长光电参访邀请</a>
+        -   <a href="#南法之约主题餐会预告-家庭暴力致死案件的刑法归责"
+            id="toc-南法之约主题餐会预告-家庭暴力致死案件的刑法归责">南法之约——主题餐会预告
+            | “家庭暴力致死案件的刑法归责”</a>
     -   <a href="#社团活动" id="toc-社团活动">社团活动</a>
-        -   <a href="#早睡早起打卡" id="toc-早睡早起打卡">“早睡早起”打卡</a>
-        -   <a href="#院系杯辩论赛-3.22-3.23赛程预告"
-            id="toc-院系杯辩论赛-3.22-3.23赛程预告">院系杯辩论赛 |
-            3.22-3.23赛程预告</a>
+        -   <a href="#羽毛球院系杯季后赛"
+            id="toc-羽毛球院系杯季后赛">羽毛球院系杯季后赛</a>
 
 # **活动预告**
 
@@ -85,7 +66,6 @@
 | 医保零星报销         | 3.31     | [2.19](https://nik-nul.github.io/news/2025-02-19) |
 | 银星杯论文赛         | 4.22     | [2.27](https://nik-nul.github.io/news/2025-02-27) |
 | 高教社杯             | 4.25     | [3.5](https://nik-nul.github.io/news/2025-03-05)  |
-| 大创报名             | 3.23     | [3.6](https://nik-nul.github.io/news/2025-03-06)  |
 | 银星杯论文竞赛       | 4.22     | [3.6](https://nik-nul.github.io/news/2025-03-06)  |
 | 南辩院系杯           | 4.12     | [3.6](https://nik-nul.github.io/news/2025-03-06)  |
 | 大文大理题目征集     | 期末     | [3.8](https://nik-nul.github.io/news/2025-03-08)  |
@@ -98,10 +78,10 @@
 | Python比赛           | 4.6      | [3.16](https://nik-nul.github.io/news/2025-03-16) |
 | 扎染志愿者招募       | 3.28     | [3.18](https://nik-nul.github.io/news/2025-03-18) |
 | 中美中心开放日       | 3.26     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
-| 扎染体验             | 3.23     | [3.20](https://nik-nul.github.io/news/2025-03-20) |
 | 本科生院征集大鸣大放 | 4.4      | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 两会知识竞赛         | 3.30     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 纸鸢工作坊           | 4.3      | [3.22](https://nik-nul.github.io/news/2025-03-22) |
+| 南大博篆刻体验课     | 4.2      | [3.23](https://nik-nul.github.io/news/2025-03-23) |
 
 ## 讲座
 
@@ -109,9 +89,6 @@
 |:----------------------------------------------------------------------------------------------|:---------|:--------------------------------------------------|
 | 陶行知对中国教育现代化问题的探索                                                              | 3.24     | [3.7](https://nik-nul.github.io/news/2025-03-07)  |
 | Vinaya Revival on Baohua Mountain in Ming–Qing China                                          | 3.25     | [3.18](https://nik-nul.github.io/news/2025-03-18) |
-| 中美关系百年史                                                                                | 3.23     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
-| 文学之都南京的前世今生                                                                        | 3.23     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
-| 从数字化、网络化到AI驱动的新趋势                                                              | 3.23     | [3.20](https://nik-nul.github.io/news/2025-03-20) |
 | What Can Ecological Spatiotemporal Indicators Tell Us about the Resilience to Economic Crisis | 3.25     | [3.20](https://nik-nul.github.io/news/2025-03-20) |
 | Eigenvector Spatial Filtering in Areal and Origin-Destination Data                            | 3.25     | [3.20](https://nik-nul.github.io/news/2025-03-20) |
 | 智能时代下文科何为                                                                            | 3.25     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
@@ -122,129 +99,48 @@
 | A Geometric Perspective on the Compressible Euler...                                          | 3.26     | [3.22](https://nik-nul.github.io/news/2025-03-22) |
 | Multivirate Poisson intensity estimation via low-rank..                                       | 3.24     | [3.22](https://nik-nul.github.io/news/2025-03-22) |
 | 铜氧化物超导体中配对密度波态和强电子                                                          | 3.25     | [3.22](https://nik-nul.github.io/news/2025-03-22) |
-| SDGs&残障融合&博物馆                                                                          | 3.23     | [3.22](https://nik-nul.github.io/news/2025-03-22) |
+| 无导数优化简介                                                                                | 3.26     | [3.23](https://nik-nul.github.io/news/2025-03-23) |
+| 南新读书会                                                                                    | 3.26     | [3.23](https://nik-nul.github.io/news/2025-03-23) |
+| “研途星光·朋辈领航”国奖对话会                                                                 | 3.25     | [3.23](https://nik-nul.github.io/news/2025-03-23) |
 
-### A Geometric Perspective on the Compressible Euler...
+### 无导数优化简介
 
-报告人：于品教授（清华大学）  
-时间：2025年3月26日（周三）16:30  
-地点：鼓楼校区西大楼308  
-详见：<https://mp.weixin.qq.com/s/B-9PhLfGR9wMx9CnJRe7qA>
+报告人：曹立元  
+时间：3月26日(星期三)16:00-17:30  
+地点：鼓楼校区 戊己庚四楼北  
+腾讯会议：399-1313-1750  
+摘要：最优化算法往往依赖导数所提供的问题局部信息来求解问题，但在科技、工程、人工智能等领域里，许多最优化问题由黑箱函数表达，仅零阶信息可以直接获取，导数难以计算。研究如何有效求解这些问题的研究方向被称为无导数优化，也称零阶优化或黑箱优化。无导数优化算法种类众多，本次报告介绍其中几种。  
+详见：<https://mp.weixin.qq.com/s/7Z36fBemL_a5yOd_wRm8FA>
 
-### Multivirate Poisson intensity estimation via low-rank..
+### 南新读书会
 
-主讲人：徐昊天  
-现场报告时间：北京时间2025年3月24日（周一）上午10:00-11:00  
-现场报告地点：鼓楼校区西大楼108报告厅  
-腾讯会议：602-855-215  
-详见：<https://mp.weixin.qq.com/s/U0SsnvTwd-knx9_Hpxrigw>
+本周南新读书会将于3月26日在新闻传播学院311室举行，23硕蒋艺瑶将分享科西莫·亚卡托《数据时代》，23硕黄悠然将分享凯特·克劳福德《技术之外》，欢迎全体师生参与。  
+详见：<https://mp.weixin.qq.com/s/EYIxAgyOWk_8lj56FPlkKg>
 
-### 铜氧化物超导体中配对密度波态和强电子-晶格相互作用的直接观测
+## “研途星光·朋辈领航”国奖对话会（浦口专场）
 
-报告时间：3月25日（周二）中午12点  
-报告地点：南京大学鼓楼校区唐仲英楼B501  
-报告主题：Direct Visualization of Pair Density Wave States and Strong
-Electron-Lattice Interactions in the Cuprate Superconductor  
-报告人：杜增义  
-直播链接：<https://www.koushare.com/live/details/41321>  
-详见：<https://mp.weixin.qq.com/s/rCS6SfVny6komub38ewFPQ>
+活动时间：3月25日（周二）14:30  
+活动地点：浦口校区浦1-508  
+  
+详见：<https://mp.weixin.qq.com/s/Fmdg8bwwoD4dPKQKYtYFOQ>
 
-### Movers工作坊SDGs&残障融合&博物馆
+## 南京大学博物馆”篆刻体验课”报名
 
-3月23日19:00-21:00  
-腾讯会议号：537-238-647（密码后续群内公布）  
-参与方式：填写问卷并加入微信群。活动限额30人，在群内公布入选名单  
-（问卷及微信参见微信推送）  
-详见：<https://mp.weixin.qq.com/s/_OBHAph-3RjGSBNqSbeCfA>
+课程内容包括：篆刻文化简史、刀法入门教学、创意章料设计、朱砂钤印体验
+。专业导师全程指导；手残党友好，入门级工具材料全包；定制专属姓名章（可带走！）；
+24人精品小班，沉浸式体验。课程时间、地点安排和报名须知详见推文。  
+扫码报名（截止时间→4月2日18:00）  
+详见：<https://mp.weixin.qq.com/s/WHoNTBGCC10d33rCNBhfmQ>
 
-### \[SRTP\]3.23-3.25（周日 周二）学术文化活动概览
+## 暑期项目 \| 2025年澳门大学合作院校优秀学生夏令营
 
-周日（3.23）  
-1.合作与冲突：中美关系百年史  
-2.从数字化、网络化到AI驱动的新趋势（文娱消费案例分享与启示）  
-3.文学之都南京的前世今生  
-周一（3.24）  
-1.What Can Ecological Spatiotemporal Indicators Tell Us About the
-Resilience to Economic Crises  
-2.生活即田野，田野即生活  
-周二（3.25）  
-1.Vinaya Revival on Baohua Mountain in Ming-Qing China  
-2.Eigenvector Spatial Filtering in Areal and Origin-Destination Data  
-3.基层治理现代化语境下的居民社区责任  
-详见：<https://mp.weixin.qq.com/s/2paA_3iAiqDxOddELeBb7g>
-
-## 荧光夜跑 \| 韵动青春，逐梦星辰
-
-活动内容：活动参与者加入活动QQ群603704965，并为自己创建一个包含年级、专业、姓名的群相册，用于上传跑步打卡记录。策划组将根据参与者打卡里程核算分数，每周核算一次。当周分数前五的参与者将会获得精美小礼品（每人限领一次），最终总分排名前十的同学将获得特别惊喜！活动过程中宿舍结伴跑步打卡、分享跑步音乐、分享跑步心得将会获得额外加分。  
-活动时间：3月24日–5月16日  
-活动地点：仙林校区炜华运动场  
-详见：<https://mp.weixin.qq.com/s/XKqLEACxev0NmFomHDGvTw>
-
-## 南大地球科学博物馆春季学期开放安排
-
-地球科学博物馆将于4月20日（周日）、4月22日（周二）地球日增加开放！  
-地点：南京大学鼓楼校区田家炳楼4楼（电梯上到3楼）  
-时间：周一、周三、周五上午9:00-11:30，下午14:00-16:30；  
-4月20日（周日）、4月22日（周二）上午9:00-11:30，下午14:00-16:30增加开放！  
-详见：<https://mp.weixin.qq.com/s/pY3uGpB5TUyjws44O0phMQ>
-
-## 第44届校园十大歌星赛
-
-阳春三月，草木蔓发，南京大学第44届校园十大歌星赛即将拉开帷幕。为海选咨询群和海选报名问卷的二维码已经发布，欢迎扫码报名，唱响你的高光时刻！海选赛段的比赛具体时间及赛制等信息将在后续推送及海选咨询群中陆续发布，更多相关内容敬请关注”南京大学学生会”公众号。  
-详见：<https://mp.weixin.qq.com/s/s7tbAUpkVe4Hct1y1qoEdg>
-
-## 南京大学研究生定向越野
-
-为丰富南大学子的课余生活，感受文体活动的魅力，南京大学研究生会联合人工智能学院研会主办，天文、哲学、生科、文学院和外院研究生会协办本次定向越野活动。  
-活动时间：2025年3月29日 14:00-16:00  
-活动地点：南京大学仙林校区  
-活动对象：南京大学全体学生  
-参与形式：每支参赛队伍最多由6人组成，分为单人组、双人组和多人组三条赛道，不同赛道分设不同奖项  
-活动内容和规则介绍、安全提示、活动奖品、活动报名信息详见”南大研会”公众号推文。  
-详见：<https://mp.weixin.qq.com/s/i_1RtiGJspCjgOypayaqGg>
-
-## 2025年”长望杯”气象达人邀请赛
-
-比赛流程：  
-阶段一：知识竞赛——海选赛  
-2025年3月22日20：00-21：00 时长60分钟  
-选手通过电脑/手机扫描问卷星二维码或点开链接答题，开卷，可参考任何资料以及互相交流。由活动负责人根据参考答案登录问卷星考试系统评定简答题和材料题得分。  
-\| 比赛人员要求 \|  
-高校本科生、研究生  
-\| 比赛题型 \|  
-判断题 单选题 多选题 简答题 材料题 总分150分  
-\| 本阶段比赛奖励 \|  
-一等奖1名，500元  
-二等奖5名，200元  
-三等奖20名，100元  
-阶段二：预报竞赛——技能赛  
-时间待定，预计在四月中上旬  
-详见原推  
-详见：<https://mp.weixin.qq.com/s/siEOQOimnOTeESjqtwalzw>
-
-## 清明纸鸢手作工坊
-
-时间：4月3日 14:00-16:00  
-地点：南京大学仙林校区敬文学生活动中心9楼  
-对象：南京大学全体在校师生（本次活动为留学生专场，现场配有英文支持。欢迎留学生同学及对跨文化交流感兴趣的同学参加！）  
-报名方法及须知：报名人数限30人，具体报名方法请见微信推送  
-详见：<https://mp.weixin.qq.com/s/9g_MU7m-LC8YqZQXN3nO6w>
-
-## 访企拓岗丨中兴通讯
-
-活动时间：3月28日（周五）下午  
-活动地点：中兴通讯南京研发中心  
-活动对象：在读硕博各年级同学  
-交通方式：集中乘坐安排的车辆往返  
-活动出发时间：3月28日（周五）下午 13:30  
-企业内活动安排：  
-1、5G行业展厅参观  
-2、公司介绍与业务分享  
-3、校友分享与答疑  
-参加活动的同学请扫描链接中二维码报名  
-报名截止时间：2025年3月25日下午18:00  
-本次开放日活动的名额为30人，名额有限，先到先得！快来报名吧！  
-详见：<https://mp.weixin.qq.com/s/uF9tAEIRLilgcjYbsloX4w>
+2025年澳门大学合作院校优秀学生夏令营报名开始！课程将于2025年7月14日至19日期间举办  
+授课时间：2025年7月14日-7月19日  
+授课语言：英语  
+报名要求：本科生2人（不限专业）需具有流利的英语表达能力和熟练的英语写作技能  
+澳门大学将承担学员在澳活动期间（5晚）的住宿（双人间）、交通、活动及部分餐饮费用。  
+往返澳门交通费、保险及活动行程以外的个人消费等由学员自行承担。  
+详见：<https://mp.weixin.qq.com/s/6U_R5Re0-GK1otlAjkrNCg>
 
 ## 院级活动
 
@@ -252,61 +148,40 @@ Resilience to Economic Crises
 |:-------------------------|:---------|:--------------------------------------------------|
 | 文院剧本创作研讨会       | 9.30     | [3.2](https://nik-nul.github.io/news/2025-03-02)  |
 | 物院征集课程指南         | 6.15     | [3.3](https://nik-nul.github.io/news/2025-03-03)  |
-| 信地海环四院羽球赛       | 3.23     | [3.10](https://nik-nul.github.io/news/2025-03-10) |
 | 电子学院腾讯简历面试指导 | 3.24     | [3.10](https://nik-nul.github.io/news/2025-03-10) |
 | 地海征集春日影           | 6.15     | [3.14](https://nik-nul.github.io/news/2025-03-14) |
-| 计院定向越野             | 3.22     | /                                                 |
-| 秉文猫鼠游戏             | 3.23     | [3.18](https://nik-nul.github.io/news/2025-03-18) |
 | AI院影色舞               | 3.29     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
 | 商院羽球                 | 3.29     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
-| 物院春游                 | 3.22     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 史院就业                 | 3.25     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
-| 物院春游                 | 3.22     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 美团NJUAI专场空宣会      | 3.25     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 字节跳动NJUAI专场空宣会  | 3.24     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 物院访企                 | 3.28     | [3.22](https://nik-nul.github.io/news/2025-03-22) |
+| 法院主题餐会             | 3.28     | [3.23](https://nik-nul.github.io/news/2025-03-23) |
 
-### 格物奋进 \| “物耀启航”一日职场访企拓岗活动——波长光电参访邀请
+### 南法之约——主题餐会预告 \| “家庭暴力致死案件的刑法归责”
 
-活动时间：2025年3月28日13:00-18：00  
-活动对象：物理学院在读学生  
-活动名额：30人  
-报名链接：<https://table.nju.edu.cn/dtable/forms/f4b7b420-6771-465e-9e5e-940ed0e98ddd/>  
-详见：<https://mp.weixin.qq.com/s/plPSgHjyIWM564lyEPsiRg>
+本次午餐会将聚焦”刑法教义学视角下的家庭暴力致死案件的归责问题”，从刑法教义学的角度出发，探讨家庭暴力案件中死亡结果的归责路径，反思因果关系认定的法律标准，以及主观过错与责任划分的理论与实践问题，为司法实践提供理论支持与解决方案。  
+报名对象：南京大学全体本科生  
+活动时间及地点：2025年3月28日（周五）  
+12:15-13:30  
+活动地点：南京大学仙林校区5栋南青格庐  
+  
+  
+详见：<https://mp.weixin.qq.com/s/UUavol2P_9twF8Ee2kQ9dA>
 
 ## 社团活动
 
 | 社团活动       | 开展时间 | 刊载时间                                          |
 |:---------------|:---------|:--------------------------------------------------|
 | 天文台开放日   | /        | [1.6](https://nik-nul.github.io/news/2025-01-06)  |
-| 相声社春季专场 | 3.22     | [3.17](https://nik-nul.github.io/news/2025-03-17) |
 | 鸿新社捐书活动 | 3.30     | [3.17](https://nik-nul.github.io/news/2025-03-17) |
-| CAC观影        | 3.22     | [3.17](https://nik-nul.github.io/news/2025-03-17) |
-| 心协卡牌招募   | 3.22     | [3.17](https://nik-nul.github.io/news/2025-03-17) |
-| 知行古案今判   | 3.23     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
-| 心协流光影院   | 3.22     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
 | 长歌行声演剧   | 3.29     | [3.19](https://nik-nul.github.io/news/2025-03-19) |
 | 乒协抽奖       | 3.24     | 3 19                                              |
-| 新火星影映     | 3.23     | [3.21](https://nik-nul.github.io/news/2025-03-21) |
 | 鸿新社早起打卡 | 3.24     | [3.23](https://nik-nul.github.io/news/2025-03-23) |
 
-### “早睡早起”打卡
+### 羽毛球院系杯季后赛
 
-活动时间：3.24-3.30（共七天）  
-活动对象：全校学生  
-活动内容：同学们在活动期间坚持早睡早起，并在QQ群内以图片、音乐等方式进行打卡，与大家分享自律生活。  
-时间要求：需在早上8点前、晚上23点前打卡，在此时间段外的打卡不计入次数。  
-参与方式 ：加入活动QQ群824533808  
-详见：<https://mp.weixin.qq.com/s/rNQIFncY6Pp577F4rj4W2w>
-
-### 院系杯辩论赛 \| 3.22-3.23赛程预告
-
-3.23（周日） 14：00-15：30  
-地点：仙2-101  
-辩题：在当代心理学 / 命理学更是年轻人的治愈良方  
-对阵：商院辩论队 vs 匡医辩论队  
-3.23（周日） 16：00-17：30  
-地点：仙2-101  
-辩题：“娱乐至上”正在让互联网讨论氛围更松弛 / 更暴躁  
-对阵：社科辩论队 vs 软院辩论队  
-详见：<https://mp.weixin.qq.com/s/9sxRWaVt8Yq7PDQ_mxdZEA>
+比赛日期：3.28-4.13（不含清明）  
+比赛地点：仙林校区四组团体育馆一二楼  
+具体赛程安排等内容请见原推文  
+详见：<https://mp.weixin.qq.com/s/LbXfeeWR0C7B_7CtMVKT9A>

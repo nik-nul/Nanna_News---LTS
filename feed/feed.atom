@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-03-22T16:45:24.271006+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-03-22" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-03-22#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8</id><title>社团活动</title><updated>2025-03-22T16:45:24.271392+00:00</updated><content type="html">table
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-03-23T17:24:39.378873+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-03-23" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-03-23#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8</id><title>社团活动</title><updated>2025-03-23T17:24:39.379242+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"社团活动/th
@@ -15,57 +15,21 @@
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-01-06"1.6/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"相声社春季专场/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-17"3.17/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"鸿新社捐书活动/td
 &lt;br&gt;td style="text-align: left;"3.30/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-17"3.17/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"CAC观影/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-17"3.17/a/td
-&lt;br&gt;/tr
 &lt;br&gt;tr class="odd"
-&lt;br&gt;td style="text-align: left;"心协卡牌招募/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-17"3.17/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"知行古案今判/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
-&lt;br&gt;td style="text-align: left;"心协流光影院/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"长歌行声演剧/td
 &lt;br&gt;td style="text-align: left;"3.29/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"乒协抽奖/td
 &lt;br&gt;td style="text-align: left;"3.24/td
 &lt;br&gt;td style="text-align: left;"3 19/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"新火星影映/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"鸿新社早起打卡/td
@@ -76,26 +40,12 @@
 &lt;br&gt;/tbody
 &lt;br&gt;/table
 &lt;br&gt;
-&lt;br&gt;### “早睡早起”打卡
+&lt;br&gt;### 羽毛球院系杯季后赛
 &lt;br&gt;
-&lt;br&gt;活动时间：3.24-3.30（共七天）  
-&lt;br&gt;活动对象：全校学生  
-&lt;br&gt;活动内容：同学们在活动期间坚持早睡早起，并在QQ群内以图片、音乐等方式进行打卡，与大家分享自律生活。  
-&lt;br&gt;时间要求：需在早上8点前、晚上23点前打卡，在此时间段外的打卡不计入次数。  
-&lt;br&gt;参与方式 ：加入活动QQ群824533808  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/rNQIFncY6Pp577F4rj4W2w
-&lt;br&gt;
-&lt;br&gt;### 院系杯辩论赛 | 3.22-3.23赛程预告
-&lt;br&gt;
-&lt;br&gt;3.23（周日） 14：00-15：30  
-&lt;br&gt;地点：仙2-101  
-&lt;br&gt;辩题：在当代心理学 / 命理学更是年轻人的治愈良方  
-&lt;br&gt;对阵：商院辩论队 vs 匡医辩论队  
-&lt;br&gt;3.23（周日） 16：00-17：30  
-&lt;br&gt;地点：仙2-101  
-&lt;br&gt;辩题：“娱乐至上”正在让互联网讨论氛围更松弛 / 更暴躁  
-&lt;br&gt;对阵：社科辩论队 vs 软院辩论队  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/9sxRWaVt8Yq7PDQ_mxdZEA</content><link href="https://nik-nul.github.io/news/2025-03-22#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8</id><title>院级活动</title><updated>2025-03-22T16:45:24.271377+00:00</updated><content type="html">table
+&lt;br&gt;比赛日期：3.28-4.13（不含清明）  
+&lt;br&gt;比赛地点：仙林校区四组团体育馆一二楼  
+&lt;br&gt;具体赛程安排等内容请见原推文  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/LbXfeeWR0C7B_7CtMVKT9A</content><link href="https://nik-nul.github.io/news/2025-03-23#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8</id><title>院级活动</title><updated>2025-03-23T17:24:39.379224+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"活动/th
@@ -117,51 +67,28 @@
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-03"3.3/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="odd"
-&lt;br&gt;td style="text-align: left;"信地海环四院羽球赛/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-10"3.10/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"电子学院腾讯简历面试指导/td
 &lt;br&gt;td style="text-align: left;"3.24/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-10"3.10/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"地海征集春日影/td
 &lt;br&gt;td style="text-align: left;"6.15/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-14"3.14/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"计院定向越野/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"//td
-&lt;br&gt;/tr
 &lt;br&gt;tr class="odd"
-&lt;br&gt;td style="text-align: left;"秉文猫鼠游戏/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-18"3.18/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"AI院影色舞/td
 &lt;br&gt;td style="text-align: left;"3.29/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"商院羽球/td
 &lt;br&gt;td style="text-align: left;"3.29/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"物院春游/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"史院就业/td
@@ -170,84 +97,55 @@
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"物院春游/td
-&lt;br&gt;td style="text-align: left;"3.22/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"美团NJUAI专场空宣会/td
 &lt;br&gt;td style="text-align: left;"3.25/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"字节跳动NJUAI专场空宣会/td
 &lt;br&gt;td style="text-align: left;"3.24/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-21"3.21/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"物院访企/td
 &lt;br&gt;td style="text-align: left;"3.28/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-22"3.22/a/td
 &lt;br&gt;/tr
+&lt;br&gt;tr class="odd"
+&lt;br&gt;td style="text-align: left;"法院主题餐会/td
+&lt;br&gt;td style="text-align: left;"3.28/td
+&lt;br&gt;td style="text-align: left;"a
+&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-23"3.23/a/td
+&lt;br&gt;/tr
 &lt;br&gt;/tbody
 &lt;br&gt;/table
 &lt;br&gt;
-&lt;br&gt;### 格物奋进 | “物耀启航”一日职场访企拓岗活动——波长光电参访邀请
+&lt;br&gt;### 南法之约——主题餐会预告 | “家庭暴力致死案件的刑法归责”
 &lt;br&gt;
-&lt;br&gt;活动时间：2025年3月28日13:00-18：00  
-&lt;br&gt;活动对象：物理学院在读学生  
-&lt;br&gt;活动名额：30人  
-&lt;br&gt;报名链接：https://table.nju.edu.cn/dtable/forms/f4b7b420-6771-465e-9e5e-940ed0e98ddd/  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/plPSgHjyIWM564lyEPsiRg</content><link href="https://nik-nul.github.io/news/2025-03-22#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E8%AE%BF%E4%BC%81%E6%8B%93%E5%B2%97%E4%B8%A8%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF</id><title>访企拓岗丨中兴通讯</title><updated>2025-03-22T16:45:24.271364+00:00</updated><content type="html">活动时间：3月28日（周五）下午  
-&lt;br&gt;活动地点：中兴通讯南京研发中心  
-&lt;br&gt;活动对象：在读硕博各年级同学  
-&lt;br&gt;交通方式：集中乘坐安排的车辆往返  
-&lt;br&gt;活动出发时间：3月28日（周五）下午 13:30  
-&lt;br&gt;企业内活动安排：  
-&lt;br&gt;1、5G行业展厅参观  
-&lt;br&gt;2、公司介绍与业务分享  
-&lt;br&gt;3、校友分享与答疑  
-&lt;br&gt;参加活动的同学请扫描链接中二维码报名  
-&lt;br&gt;报名截止时间：2025年3月25日下午18:00  
-&lt;br&gt;本次开放日活动的名额为30人，名额有限，先到先得！快来报名吧！  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/uF9tAEIRLilgcjYbsloX4w</content><link href="https://nik-nul.github.io/news/2025-03-22#%E8%AE%BF%E4%BC%81%E6%8B%93%E5%B2%97%E4%B8%A8%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E6%B8%85%E6%98%8E%E7%BA%B8%E9%B8%A2%E6%89%8B%E4%BD%9C%E5%B7%A5%E5%9D%8A</id><title>清明纸鸢手作工坊</title><updated>2025-03-22T16:45:24.271350+00:00</updated><content type="html">时间：4月3日 14:00-16:00  
-&lt;br&gt;地点：南京大学仙林校区敬文学生活动中心9楼  
-&lt;br&gt;对象：南京大学全体在校师生（本次活动为留学生专场，现场配有英文支持。欢迎留学生同学及对跨文化交流感兴趣的同学参加！）  
-&lt;br&gt;报名方法及须知：报名人数限30人，具体报名方法请见微信推送  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/9g_MU7m-LC8YqZQXN3nO6w</content><link href="https://nik-nul.github.io/news/2025-03-22#%E6%B8%85%E6%98%8E%E7%BA%B8%E9%B8%A2%E6%89%8B%E4%BD%9C%E5%B7%A5%E5%9D%8A"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#2025%E5%B9%B4%E2%80%9D%E9%95%BF%E6%9C%9B%E6%9D%AF%E2%80%9D%E6%B0%94%E8%B1%A1%E8%BE%BE%E4%BA%BA%E9%82%80%E8%AF%B7%E8%B5%9B</id><title>2025年”长望杯”气象达人邀请赛</title><updated>2025-03-22T16:45:24.271326+00:00</updated><content type="html">比赛流程：  
-&lt;br&gt;阶段一：知识竞赛——海选赛  
-&lt;br&gt;2025年3月22日20：00-21：00 时长60分钟  
-&lt;br&gt;选手通过电脑/手机扫描问卷星二维码或点开链接答题，开卷，可参考任何资料以及互相交流。由活动负责人根据参考答案登录问卷星考试系统评定简答题和材料题得分。  
-&lt;br&gt;| 比赛人员要求 |  
-&lt;br&gt;高校本科生、研究生  
-&lt;br&gt;| 比赛题型 |  
-&lt;br&gt;判断题 单选题 多选题 简答题 材料题 总分150分  
-&lt;br&gt;| 本阶段比赛奖励 |  
-&lt;br&gt;一等奖1名，500元  
-&lt;br&gt;二等奖5名，200元  
-&lt;br&gt;三等奖20名，100元  
-&lt;br&gt;阶段二：预报竞赛——技能赛  
-&lt;br&gt;时间待定，预计在四月中上旬  
-&lt;br&gt;详见原推  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/siEOQOimnOTeESjqtwalzw</content><link href="https://nik-nul.github.io/news/2025-03-22#2025%E5%B9%B4%E2%80%9D%E9%95%BF%E6%9C%9B%E6%9D%AF%E2%80%9D%E6%B0%94%E8%B1%A1%E8%BE%BE%E4%BA%BA%E9%82%80%E8%AF%B7%E8%B5%9B"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E</id><title>南京大学研究生定向越野</title><updated>2025-03-22T16:45:24.271308+00:00</updated><content type="html">为丰富南大学子的课余生活，感受文体活动的魅力，南京大学研究生会联合人工智能学院研会主办，天文、哲学、生科、文学院和外院研究生会协办本次定向越野活动。  
-&lt;br&gt;活动时间：2025年3月29日 14:00-16:00  
-&lt;br&gt;活动地点：南京大学仙林校区  
-&lt;br&gt;活动对象：南京大学全体学生  
-&lt;br&gt;参与形式：每支参赛队伍最多由6人组成，分为单人组、双人组和多人组三条赛道，不同赛道分设不同奖项  
-&lt;br&gt;活动内容和规则介绍、安全提示、活动奖品、活动报名信息详见”南大研会”公众号推文。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/i_1RtiGJspCjgOypayaqGg</content><link href="https://nik-nul.github.io/news/2025-03-22#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%9A%E5%90%91%E8%B6%8A%E9%87%8E"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E7%AC%AC44%E5%B1%8A%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B</id><title>第44届校园十大歌星赛</title><updated>2025-03-22T16:45:24.271290+00:00</updated><content type="html">阳春三月，草木蔓发，南京大学第44届校园十大歌星赛即将拉开帷幕。为海选咨询群和海选报名问卷的二维码已经发布，欢迎扫码报名，唱响你的高光时刻！海选赛段的比赛具体时间及赛制等信息将在后续推送及海选咨询群中陆续发布，更多相关内容敬请关注”南京大学学生会”公众号。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/s7tbAUpkVe4Hct1y1qoEdg</content><link href="https://nik-nul.github.io/news/2025-03-22#%E7%AC%AC44%E5%B1%8A%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E5%8D%97%E5%A4%A7%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A6%86%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%BC%80%E6%94%BE%E5%AE%89%E6%8E%92</id><title>南大地球科学博物馆春季学期开放安排</title><updated>2025-03-22T16:45:24.271267+00:00</updated><content type="html">地球科学博物馆将于4月20日（周日）、4月22日（周二）地球日增加开放！  
-&lt;br&gt;地点：南京大学鼓楼校区田家炳楼4楼（电梯上到3楼）  
-&lt;br&gt;时间：周一、周三、周五上午9:00-11:30，下午14:00-16:30；  
-&lt;br&gt;4月20日（周日）、4月22日（周二）上午9:00-11:30，下午14:00-16:30增加开放！  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/pY3uGpB5TUyjws44O0phMQ</content><link href="https://nik-nul.github.io/news/2025-03-22#%E5%8D%97%E5%A4%A7%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A6%86%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%BC%80%E6%94%BE%E5%AE%89%E6%8E%92"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E8%8D%A7%E5%85%89%E5%A4%9C%E8%B7%91%20%7C%20%E9%9F%B5%E5%8A%A8%E9%9D%92%E6%98%A5%EF%BC%8C%E9%80%90%E6%A2%A6%E6%98%9F%E8%BE%B0</id><title>荧光夜跑 | 韵动青春，逐梦星辰</title><updated>2025-03-22T16:45:24.271234+00:00</updated><content type="html">活动内容：活动参与者加入活动QQ群603704965，并为自己创建一个包含年级、专业、姓名的群相册，用于上传跑步打卡记录。策划组将根据参与者打卡里程核算分数，每周核算一次。当周分数前五的参与者将会获得精美小礼品（每人限领一次），最终总分排名前十的同学将获得特别惊喜！活动过程中宿舍结伴跑步打卡、分享跑步音乐、分享跑步心得将会获得额外加分。  
-&lt;br&gt;活动时间：3月24日–5月16日  
-&lt;br&gt;活动地点：仙林校区炜华运动场  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/XKqLEACxev0NmFomHDGvTw</content><link href="https://nik-nul.github.io/news/2025-03-22#%E8%8D%A7%E5%85%89%E5%A4%9C%E8%B7%91%20%7C%20%E9%9F%B5%E5%8A%A8%E9%9D%92%E6%98%A5%EF%BC%8C%E9%80%90%E6%A2%A6%E6%98%9F%E8%BE%B0"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-03-22T16:45:24.271213+00:00</updated><content type="html">&lt;table&gt;
+&lt;br&gt;本次午餐会将聚焦”刑法教义学视角下的家庭暴力致死案件的归责问题”，从刑法教义学的角度出发，探讨家庭暴力案件中死亡结果的归责路径，反思因果关系认定的法律标准，以及主观过错与责任划分的理论与实践问题，为司法实践提供理论支持与解决方案。  
+&lt;br&gt;报名对象：南京大学全体本科生  
+&lt;br&gt;活动时间及地点：2025年3月28日（周五）  
+&lt;br&gt;12:15-13:30  
+&lt;br&gt;活动地点：南京大学仙林校区5栋南青格庐  
+&lt;br&gt;  
+&lt;br&gt;  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/UUavol2P_9twF8Ee2kQ9dA</content><link href="https://nik-nul.github.io/news/2025-03-23#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E6%9A%91%E6%9C%9F%E9%A1%B9%E7%9B%AE%20%7C%202025%E5%B9%B4%E6%BE%B3%E9%97%A8%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%E9%99%A2%E6%A0%A1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5</id><title>暑期项目 | 2025年澳门大学合作院校优秀学生夏令营</title><updated>2025-03-23T17:24:39.379197+00:00</updated><content type="html">2025年澳门大学合作院校优秀学生夏令营报名开始！课程将于2025年7月14日至19日期间举办  
+&lt;br&gt;授课时间：2025年7月14日-7月19日  
+&lt;br&gt;授课语言：英语  
+&lt;br&gt;报名要求：本科生2人（不限专业）需具有流利的英语表达能力和熟练的英语写作技能  
+&lt;br&gt;澳门大学将承担学员在澳活动期间（5晚）的住宿（双人间）、交通、活动及部分餐饮费用。  
+&lt;br&gt;往返澳门交通费、保险及活动行程以外的个人消费等由学员自行承担。  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/6U_R5Re0-GK1otlAjkrNCg</content><link href="https://nik-nul.github.io/news/2025-03-23#%E6%9A%91%E6%9C%9F%E9%A1%B9%E7%9B%AE%20%7C%202025%E5%B9%B4%E6%BE%B3%E9%97%A8%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%E9%99%A2%E6%A0%A1%E4%BC%98%E7%A7%80%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E7%AF%86%E5%88%BB%E4%BD%93%E9%AA%8C%E8%AF%BE%E2%80%9D%E6%8A%A5%E5%90%8D</id><title>南京大学博物馆”篆刻体验课”报名</title><updated>2025-03-23T17:24:39.379175+00:00</updated><content type="html">课程内容包括：篆刻文化简史、刀法入门教学、创意章料设计、朱砂钤印体验
+&lt;br&gt;。专业导师全程指导；手残党友好，入门级工具材料全包；定制专属姓名章（可带走！）；
+&lt;br&gt;24人精品小班，沉浸式体验。课程时间、地点安排和报名须知详见推文。  
+&lt;br&gt;扫码报名（截止时间→4月2日18:00）  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/WHoNTBGCC10d33rCNBhfmQ</content><link href="https://nik-nul.github.io/news/2025-03-23#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A6%86%E2%80%9D%E7%AF%86%E5%88%BB%E4%BD%93%E9%AA%8C%E8%AF%BE%E2%80%9D%E6%8A%A5%E5%90%8D"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E2%80%9C%E7%A0%94%E9%80%94%E6%98%9F%E5%85%89%C2%B7%E6%9C%8B%E8%BE%88%E9%A2%86%E8%88%AA%E2%80%9D%E5%9B%BD%E5%A5%96%E5%AF%B9%E8%AF%9D%E4%BC%9A%EF%BC%88%E6%B5%A6%E5%8F%A3%E4%B8%93%E5%9C%BA%EF%BC%89</id><title>“研途星光·朋辈领航”国奖对话会（浦口专场）</title><updated>2025-03-23T17:24:39.379137+00:00</updated><content type="html">活动时间：3月25日（周二）14:30  
+&lt;br&gt;活动地点：浦口校区浦1-508  
+&lt;br&gt;  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/Fmdg8bwwoD4dPKQKYtYFOQ</content><link href="https://nik-nul.github.io/news/2025-03-23#%E2%80%9C%E7%A0%94%E9%80%94%E6%98%9F%E5%85%89%C2%B7%E6%9C%8B%E8%BE%88%E9%A2%86%E8%88%AA%E2%80%9D%E5%9B%BD%E5%A5%96%E5%AF%B9%E8%AF%9D%E4%BC%9A%EF%BC%88%E6%B5%A6%E5%8F%A3%E4%B8%93%E5%9C%BA%EF%BC%89"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-03-23T17:24:39.379115+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: left;"&gt;讲座&lt;/th&gt;
@@ -270,146 +168,105 @@ Ming–Qing China&lt;/td&gt;
 href="https://nik-nul.github.io/news/2025-03-18"&gt;3.18&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;中美关系百年史&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;3.23&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-03-19"&gt;3.19&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: left;"&gt;文学之都南京的前世今生&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;3.23&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-03-19"&gt;3.19&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="odd"&gt;
-&lt;td style="text-align: left;"&gt;从数字化、网络化到AI驱动的新趋势&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;3.23&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-03-20"&gt;3.20&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;What Can Ecological Spatiotemporal
 Indicators Tell Us about the Resilience to Economic Crisis&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-20"&gt;3.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;Eigenvector Spatial Filtering in Areal and
 Origin-Destination Data&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-20"&gt;3.20&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;智能时代下文科何为&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-21"&gt;3.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;生活即田野，田野即生活&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.24&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-21"&gt;3.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;基层治理现代化语境下的居民社区责任&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-21"&gt;3.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td
 style="text-align: left;"&gt;利用个人传感器评估人类对城市空间的反应&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.24&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-21"&gt;3.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td
 style="text-align: left;"&gt;分数量子霍尔态的相变以及围绕任意子的密度波的特征&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.27&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-21"&gt;3.21&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;A Geometric Perspective on the
 Compressible Euler...&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.26&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-22"&gt;3.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
+&lt;tr class="odd"&gt;
 &lt;td style="text-align: left;"&gt;Multivirate Poisson intensity estimation
 via low-rank..&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.24&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-22"&gt;3.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="odd"&gt;
+&lt;tr class="even"&gt;
 &lt;td style="text-align: left;"&gt;铜氧化物超导体中配对密度波态和强电子&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
 href="https://nik-nul.github.io/news/2025-03-22"&gt;3.22&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr class="even"&gt;
-&lt;td style="text-align: left;"&gt;SDGs&amp;amp;残障融合&amp;amp;博物馆&lt;/td&gt;
-&lt;td style="text-align: left;"&gt;3.23&lt;/td&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: left;"&gt;无导数优化简介&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;3.26&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;a
-href="https://nik-nul.github.io/news/2025-03-22"&gt;3.22&lt;/a&gt;&lt;/td&gt;
+href="https://nik-nul.github.io/news/2025-03-23"&gt;3.23&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="even"&gt;
+&lt;td style="text-align: left;"&gt;南新读书会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;3.26&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-03-23"&gt;3.23&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="odd"&gt;
+&lt;td style="text-align: left;"&gt;“研途星光·朋辈领航”国奖对话会&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;3.25&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;a
+href="https://nik-nul.github.io/news/2025-03-23"&gt;3.23&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-### A Geometric Perspective on the Compressible Euler...
+### 无导数优化简介
 
-报告人：于品教授（清华大学）  
-时间：2025年3月26日（周三）16:30  
-地点：鼓楼校区西大楼308  
-详见：&lt;https://mp.weixin.qq.com/s/B-9PhLfGR9wMx9CnJRe7qA&gt;
+报告人：曹立元  
+时间：3月26日(星期三)16:00-17:30  
+地点：鼓楼校区 戊己庚四楼北  
+腾讯会议：399-1313-1750  
+摘要：最优化算法往往依赖导数所提供的问题局部信息来求解问题，但在科技、工程、人工智能等领域里，许多最优化问题由黑箱函数表达，仅零阶信息可以直接获取，导数难以计算。研究如何有效求解这些问题的研究方向被称为无导数优化，也称零阶优化或黑箱优化。无导数优化算法种类众多，本次报告介绍其中几种。  
+详见：&lt;https://mp.weixin.qq.com/s/7Z36fBemL_a5yOd_wRm8FA&gt;
 
-### Multivirate Poisson intensity estimation via low-rank..
+### 南新读书会
 
-主讲人：徐昊天  
-现场报告时间：北京时间2025年3月24日（周一）上午10:00-11:00  
-现场报告地点：鼓楼校区西大楼108报告厅  
-腾讯会议：602-855-215  
-详见：&lt;https://mp.weixin.qq.com/s/U0SsnvTwd-knx9_Hpxrigw&gt;
-
-### 铜氧化物超导体中配对密度波态和强电子-晶格相互作用的直接观测
-
-报告时间：3月25日（周二）中午12点  
-报告地点：南京大学鼓楼校区唐仲英楼B501  
-报告主题：Direct Visualization of Pair Density Wave States and Strong
-Electron-Lattice Interactions in the Cuprate Superconductor  
-报告人：杜增义  
-直播链接：&lt;https://www.koushare.com/live/details/41321&gt;  
-详见：&lt;https://mp.weixin.qq.com/s/rCS6SfVny6komub38ewFPQ&gt;
-
-### Movers工作坊SDGs&amp;残障融合&amp;博物馆
-
-3月23日19:00-21:00  
-腾讯会议号：537-238-647（密码后续群内公布）  
-参与方式：填写问卷并加入微信群。活动限额30人，在群内公布入选名单  
-（问卷及微信参见微信推送）  
-详见：&lt;https://mp.weixin.qq.com/s/_OBHAph-3RjGSBNqSbeCfA&gt;
-
-### \[SRTP\]3.23-3.25（周日 周二）学术文化活动概览
-
-周日（3.23）  
-1.合作与冲突：中美关系百年史  
-2.从数字化、网络化到AI驱动的新趋势（文娱消费案例分享与启示）  
-3.文学之都南京的前世今生  
-周一（3.24）  
-1.What Can Ecological Spatiotemporal Indicators Tell Us About the
-Resilience to Economic Crises  
-2.生活即田野，田野即生活  
-周二（3.25）  
-1.Vinaya Revival on Baohua Mountain in Ming-Qing China  
-2.Eigenvector Spatial Filtering in Areal and Origin-Destination Data  
-3.基层治理现代化语境下的居民社区责任  
-详见：&lt;https://mp.weixin.qq.com/s/2paA_3iAiqDxOddELeBb7g&gt;</content><link href="https://nik-nul.github.io/news/2025-03-22#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95</id><title>活动清单</title><updated>2025-03-22T16:45:24.271191+00:00</updated><content type="html">table
+本周南新读书会将于3月26日在新闻传播学院311室举行，23硕蒋艺瑶将分享科西莫·亚卡托《数据时代》，23硕黄悠然将分享凯特·克劳福德《技术之外》，欢迎全体师生参与。  
+详见：&lt;https://mp.weixin.qq.com/s/EYIxAgyOWk_8lj56FPlkKg&gt;</content><link href="https://nik-nul.github.io/news/2025-03-23#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95</id><title>活动清单</title><updated>2025-03-23T17:24:39.379090+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"活动/th
@@ -473,88 +330,76 @@ Resilience to Economic Crises
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-05"3.5/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="even"
-&lt;br&gt;td style="text-align: left;"大创报名/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-06"3.6/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"银星杯论文竞赛/td
 &lt;br&gt;td style="text-align: left;"4.22/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-06"3.6/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"南辩院系杯/td
 &lt;br&gt;td style="text-align: left;"4.12/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-06"3.6/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"大文大理题目征集/td
 &lt;br&gt;td style="text-align: left;"期末/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-08"3.8/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"5月免费上网/td
 &lt;br&gt;td style="text-align: left;"？/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-09"3.9/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"基础学科论坛/td
 &lt;br&gt;td style="text-align: left;"4.20/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-09"3.9/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"四六级报名/td
 &lt;br&gt;td style="text-align: left;"3.24/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-11"3.11/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"普通话测试/td
 &lt;br&gt;td style="text-align: left;"3.28/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-12"3.12/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"外教社杯/td
 &lt;br&gt;td style="text-align: left;"5.27/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-12"3.12/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"心理中心全媒体招新/td
 &lt;br&gt;td style="text-align: left;"3.25/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-14"3.14/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"Python比赛/td
 &lt;br&gt;td style="text-align: left;"4.6/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-16"3.16/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
+&lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"扎染志愿者招募/td
 &lt;br&gt;td style="text-align: left;"3.28/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-18"3.18/a/td
 &lt;br&gt;/tr
-&lt;br&gt;tr class="even"
+&lt;br&gt;tr class="odd"
 &lt;br&gt;td style="text-align: left;"中美中心开放日/td
 &lt;br&gt;td style="text-align: left;"3.26/td
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-19"3.19/a/td
-&lt;br&gt;/tr
-&lt;br&gt;tr class="odd"
-&lt;br&gt;td style="text-align: left;"扎染体验/td
-&lt;br&gt;td style="text-align: left;"3.23/td
-&lt;br&gt;td style="text-align: left;"a
-&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-20"3.20/a/td
 &lt;br&gt;/tr
 &lt;br&gt;tr class="even"
 &lt;br&gt;td style="text-align: left;"本科生院征集大鸣大放/td
@@ -574,7 +419,13 @@ Resilience to Economic Crises
 &lt;br&gt;td style="text-align: left;"a
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-03-22"3.22/a/td
 &lt;br&gt;/tr
+&lt;br&gt;tr class="odd"
+&lt;br&gt;td style="text-align: left;"南大博篆刻体验课/td
+&lt;br&gt;td style="text-align: left;"4.2/td
+&lt;br&gt;td style="text-align: left;"a
+&lt;br&gt;href="https://nik-nul.github.io/news/2025-03-23"3.23/a/td
+&lt;br&gt;/tr
 &lt;br&gt;/tbody
-&lt;br&gt;/table</content><link href="https://nik-nul.github.io/news/2025-03-22#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-22#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-03-22T16:45:24.271137+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+&lt;br&gt;/table</content><link href="https://nik-nul.github.io/news/2025-03-23#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95"/></entry><entry><id>https://nik-nul.github.io/news/2025-03-23#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-03-23T17:24:39.379011+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小千  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[466863272](https://qm.qq.com/q/4HL41Nt3sQ).</content><link href="https://nik-nul.github.io/news/2025-03-22#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[466863272](https://qm.qq.com/q/4HL41Nt3sQ).</content><link href="https://nik-nul.github.io/news/2025-03-23#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
