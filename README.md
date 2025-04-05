@@ -21,49 +21,34 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2025-04-04
+# 南哪消息 2025-04-05
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#订阅方式和加入编辑部"
         id="toc-订阅方式和加入编辑部">订阅方式和加入编辑部</a>
     -   <a href="#活动清单" id="toc-活动清单">活动清单</a>
     -   <a href="#讲座" id="toc-讲座">讲座</a>
-        -   <a href="#csai-卓越科学家大讲堂" id="toc-csai-卓越科学家大讲堂">CSAI
-            卓越科学家大讲堂</a>
-        -   <a
-            href="#consumer-awareness-noisy-certification-and-corporate-social-responsibility-under-asymmetric-information"
-            id="toc-consumer-awareness-noisy-certification-and-corporate-social-responsibility-under-asymmetric-information">Consumer
-            Awareness, Noisy Certification, and Corporate Social Responsibility
-            under Asymmetric Information</a>
-        -   <a href="#assortment-optimization-under-history-dependent-effects"
-            id="toc-assortment-optimization-under-history-dependent-effects">Assortment
-            Optimization Under History-Dependent Effects</a>
-    -   <a href="#招募-世贸组织2026年青年专业人员"
-        id="toc-招募-世贸组织2026年青年专业人员">招募 |
-        世贸组织2026年青年专业人员</a>
-    -   <a href="#志愿者招募-旧物焕新生童心护地球"
-        id="toc-志愿者招募-旧物焕新生童心护地球">志愿者招募 |
-        旧物焕新生，童心护地球</a>
-    -   <a href="#华为杯第八届研究生创芯大赛"
-        id="toc-华为杯第八届研究生创芯大赛">“华为杯”第八届研究生创”芯”大赛</a>
-    -   <a href="#报名启动南京大学瑞声杯建模挑战赛"
-        id="toc-报名启动南京大学瑞声杯建模挑战赛">【报名启动】南京大学”瑞声杯”建模挑战赛</a>
-    -   <a href="#年江苏大学生志愿服务乡村振兴计划报名"
-        id="toc-年江苏大学生志愿服务乡村振兴计划报名">2025年江苏大学生志愿服务乡村振兴计划报名</a>
-    -   <a href="#仙林校区志愿法律咨询项目正式启动"
-        id="toc-仙林校区志愿法律咨询项目正式启动">仙林校区志愿法律咨询项目正式启动</a>
+        -   <a href="#直播预告诚计划第146期冯新宇教授主讲编程语言的设计和实现"
+            id="toc-直播预告诚计划第146期冯新宇教授主讲编程语言的设计和实现">直播预告|“诚计划”第146期：冯新宇教授主讲”编程语言的设计和实现”</a>
+    -   <a href="#苏州校区校园共享头盔上线"
+        id="toc-苏州校区校园共享头盔上线">苏州校区校园共享头盔上线</a>
+    -   <a href="#南雍星光丨2025摄影大赛金陵寻春-镜中春影"
+        id="toc-南雍星光丨2025摄影大赛金陵寻春-镜中春影">南雍星光丨2025摄影大赛——金陵寻春
+        “镜”中春影</a>
     -   <a href="#院级活动" id="toc-院级活动">院级活动</a>
-        -   <a href="#阳光南数-数海竞技羽动几何数学学院羽毛球赛"
-            id="toc-阳光南数-数海竞技羽动几何数学学院羽毛球赛">阳光南数 |
-            数海竞技，羽动几何—数学学院羽毛球赛</a>
-        -   <a href="#计科清明桌游会" id="toc-计科清明桌游会">计科清明桌游会</a>
-        -   <a href="#软院桌游会" id="toc-软院桌游会">软院桌游会</a>
-        -   <a href="#创想无界-智绘未来-软件学院形象ip设计征集活动"
-            id="toc-创想无界-智绘未来-软件学院形象ip设计征集活动">创想无界 智绘未来
-            | 软件学院形象IP设计征集活动</a>
+        -   <a href="#会议通知-第八届高校法语专业课程设计与教学方法研讨会二号通知"
+            id="toc-会议通知-第八届高校法语专业课程设计与教学方法研讨会二号通知">会议通知
+            | 第八届”高校法语专业课程设计与教学方法”研讨会（二号通知）</a>
+        -   <a href="#活动预告-企业近距离荣耀南京研究所"
+            id="toc-活动预告-企业近距离荣耀南京研究所">活动预告 |
+            企业近距离——荣耀南京研究所</a>
+        -   <a href="#南新读书会-下周预告" id="toc-南新读书会-下周预告">南新读书会 |
+            下周预告</a>
     -   <a href="#社团活动" id="toc-社团活动">社团活动</a>
-        -   <a href="#男篮院系杯小组赛ⅰ明日赛程"
-            id="toc-男篮院系杯小组赛ⅰ明日赛程">男篮院系杯小组赛Ⅰ明日赛程</a>
+        -   <a href="#新火星放映-钢的琴" id="toc-新火星放映-钢的琴">新火星放映
+            《钢的琴》</a>
+        -   <a href="#篮协院系杯4月6日周天赛程"
+            id="toc-篮协院系杯4月6日周天赛程">篮协院系杯4月6日（周天）赛程</a>
 
 # **活动预告**
 
@@ -75,141 +60,71 @@
 
 ## 活动清单
 
-| 活动                | 开展时间 | 刊载时间                                          |
-|:--------------------|:---------|:--------------------------------------------------|
-| 南大版deepseek      | /        | [2.22](https://nik-nul.github.io/news/2025-02-22) |
-| 悦读课程群          | /        | [2.24](https://nik-nul.github.io/news/2025-02-24) |
-| eScience AI科研助手 | /        | [3.11](https://nik-nul.github.io/news/2025-03-11) |
-| 地科博物馆开放安排  | /        | [3.22](https://nik-nul.github.io/news/2025-03-22) |
-| 乐跑                | 5.16     | [3.10](https://nik-nul.github.io/news/2025-03-10) |
-| 本科生劳育实践      | 7.20     | [2.19](https://nik-nul.github.io/news/2025-02-19) |
-| 银星杯论文赛        | 4.22     | [2.27](https://nik-nul.github.io/news/2025-02-27) |
-| 高教社杯            | 4.25     | [3.5](https://nik-nul.github.io/news/2025-03-05)  |
-| 南辩院系杯          | 4.12     | [3.6](https://nik-nul.github.io/news/2025-03-06)  |
-| 大文大理题目征集    | 期末     | [3.8](https://nik-nul.github.io/news/2025-03-08)  |
-| 5月免费上网         | ？       | [3.9](https://nik-nul.github.io/news/2025-03-09)  |
-| 基础学科论坛        | 4.20     | [3.9](https://nik-nul.github.io/news/2025-03-09)  |
-| 普通话测试          | 4.11     | [3.25](https://nik-nul.github.io/news/2025-03-25) |
-| 外教社杯            | 5.27     | [3.12](https://nik-nul.github.io/news/2025-03-12) |
-| Python比赛          | 4.6      | [3.16](https://nik-nul.github.io/news/2025-03-16) |
-| 粤歌赛              | 4.12     | [3.24](https://nik-nul.github.io/news/2025-03-24) |
-| 江苏创青春赛事      | 4.30     | [3.26](https://nik-nul.github.io/news/2025-03-26) |
-| 悦读测试            | 4.6      | [3.27](https://nik-nul.github.io/news/2025-03-27) |
-| 南大数学竞赛        | 4.15     | [3.27](https://nik-nul.github.io/news/2025-03-27) |
-| AI素养大赛          | 4.15     | [3.31](https://nik-nul.github.io/news/2025-03-31) |
-| 浦口音乐跑          | 5.30     | [3.31](https://nik-nul.github.io/news/2025-03-31) |
-| 红会暑期项目招募    | 4.12     | [4.1](https://nik-nul.github.io/news/2025-04-01)  |
-| 程设大赛            | 4.26     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
-| 主持人大赛报名      | 4.10     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
-| 春影摄影大赛        | 4.13     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
-| 奇绩创业宣讲课      | 4.11     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 活动                       | 开展时间 | 刊载时间                                          |
+|:---------------------------|:---------|:--------------------------------------------------|
+| 南大版deepseek             | /        | [2.22](https://nik-nul.github.io/news/2025-02-22) |
+| 悦读课程群                 | /        | [2.24](https://nik-nul.github.io/news/2025-02-24) |
+| eScience AI科研助手        | /        | [3.11](https://nik-nul.github.io/news/2025-03-11) |
+| 地科博物馆开放安排         | /        | [3.22](https://nik-nul.github.io/news/2025-03-22) |
+| 乐跑                       | 5.16     | [3.10](https://nik-nul.github.io/news/2025-03-10) |
+| 本科生劳育实践             | 7.20     | [2.19](https://nik-nul.github.io/news/2025-02-19) |
+| 银星杯论文赛               | 4.22     | [2.27](https://nik-nul.github.io/news/2025-02-27) |
+| 高教社杯                   | 4.25     | [3.5](https://nik-nul.github.io/news/2025-03-05)  |
+| 南辩院系杯                 | 4.12     | [3.6](https://nik-nul.github.io/news/2025-03-06)  |
+| 大文大理题目征集           | 期末     | [3.8](https://nik-nul.github.io/news/2025-03-08)  |
+| 5月免费上网                | ？       | [3.9](https://nik-nul.github.io/news/2025-03-09)  |
+| 基础学科论坛               | 4.20     | [3.9](https://nik-nul.github.io/news/2025-03-09)  |
+| 普通话测试                 | 4.11     | [3.25](https://nik-nul.github.io/news/2025-03-25) |
+| 外教社杯                   | 5.27     | [3.12](https://nik-nul.github.io/news/2025-03-12) |
+| Python比赛                 | 4.6      | [3.16](https://nik-nul.github.io/news/2025-03-16) |
+| 粤歌赛                     | 4.12     | [3.24](https://nik-nul.github.io/news/2025-03-24) |
+| 江苏创青春赛事             | 4.30     | [3.26](https://nik-nul.github.io/news/2025-03-26) |
+| 悦读测试                   | 4.6      | [3.27](https://nik-nul.github.io/news/2025-03-27) |
+| 南大数学竞赛               | 4.15     | [3.27](https://nik-nul.github.io/news/2025-03-27) |
+| AI素养大赛                 | 4.15     | [3.31](https://nik-nul.github.io/news/2025-03-31) |
+| 浦口音乐跑                 | 5.30     | [3.31](https://nik-nul.github.io/news/2025-03-31) |
+| 红会暑期项目招募           | 4.12     | [4.1](https://nik-nul.github.io/news/2025-04-01)  |
+| 程设大赛                   | 4.26     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
+| 主持人大赛报名             | 4.10     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 春影摄影大赛               | 4.13     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 奇绩创业宣讲课             | 4.11     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 瑞声杯                     | 4.20     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 江苏大学生乡村振兴计划 4.7 | 4.4      |                                                   |
+| 仙林校区志愿法律咨询       | /        | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 天健志愿者招募             | 4.13     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 外新社征集春日影           | 4.13     | [4.5](https://nik-nul.github.io/news/2025-04-05)  |
 
 ## 讲座
 
-| 讲座              | 开展时间 | 刊载时间                                          |
-|:------------------|:---------|:--------------------------------------------------|
-| 秦汉玺印人名考析  | 4.9      | [3.31](https://nik-nul.github.io/news/2025-03-31) |
-| 先人后事 破局之道 | 4.11     | [3.3](https://nik-nul.github.io/news/2025-03-03)  |
+| 讲座                                                                                                                             | 开展时间 | 刊载时间                                          |
+|:---------------------------------------------------------------------------------------------------------------------------------|:---------|:--------------------------------------------------|
+| 秦汉玺印人名考析                                                                                                                 | 4.9      | [3.31](https://nik-nul.github.io/news/2025-03-31) |
+| 先人后事 破局之道                                                                                                                | 4.11     | [3.3](https://nik-nul.github.io/news/2025-03-03)  |
+| Regularization, Heuristics, and Strategy: A Long Journey Towards Understanding a Few Fundamental yet Fuzzy Concepts in Computing | 4.8      | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| Consumer Awareness, Noisy Certification, and Corporate Social Responsibility under Asymmetric Information                        | 4.9      | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| Assortment Optimization Under History-Dependent Effects                                                                          | 4.11     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 编程语言的设计和实现                                                                                                             | 4.8      | [4.5](https://nik-nul.github.io/news/2025-04-05)  |
 
-### CSAI 卓越科学家大讲堂
+### 直播预告\|“诚计划”第146期：冯新宇教授主讲”编程语言的设计和实现”
 
-Regularization, Heuristics, and Strategy: A Long Journey Towards
-Understanding a Few Fundamental yet Fuzzy Concepts in Computing  
-讲座嘉宾：滕尚华 教授  
-时间：4月8日（星期二）9:00  
-地点：计算机科学技术楼111室  
-详见：<https://mp.weixin.qq.com/s/zkSlqUZAGW5TTBOZKaTE6g>
+主讲人：冯新宇
+南京大学教授、华为编程语言首席专家、仓颉编程语言首席架构师  
+时间：4月8日（周二）19：30-21：00  
+直播观看地点请见活动链接  
+详见：<https://mp.weixin.qq.com/s/SaYDJYSo-MLD3GcXYezkNg>
 
-### Consumer Awareness, Noisy Certification, and Corporate Social Responsibility under Asymmetric Information
+## 苏州校区校园共享头盔上线
 
-报告人：肖光教授 香港理工大学  
-主持人：肖条军教授 南京大学  
-报告时间：2025年4月9日（周三）下午14:00-15:15  
-报告地点：协鑫楼108  
-详见：<https://mp.weixin.qq.com/s/hr8iaVxyrs2-NKC00aOuvg>
+为保障师生安全出行，南京大学苏州校区推出暖心服务——在校区南门及东门门口设置”自助共享头盔借取点”。如师生匆忙出门忘带头盔，或临时需要应急，在门岗登记即可免费借用。校区将安排专人做好安全头盔的日常保管和卫生消毒工作，师生可放心使用。  
+详见：<https://mp.weixin.qq.com/s/K0vFBLdb1ucsFNt5vb45NA>
 
-### Assortment Optimization Under History-Dependent Effects
+## 南雍星光丨2025摄影大赛——金陵寻春 “镜”中春影
 
-报告人：郑欢教授 上海交通大学  
-主持人：肖条军教授 南京大学  
-报告时间：2025年4月11日（周五）下午14:00-15:30  
-报告地点：协鑫楼108  
-  
-详见：<https://mp.weixin.qq.com/s/Z9iBMf-jlearET7JlfsuTA>
-
-## 招募 \| 世贸组织2026年青年专业人员
-
-组织：世界贸易组织  
-语言：流利使用英语，掌握法语或者西班牙语是一个优势  
-月薪：4000瑞士法郎  
-详细招募信息（英文原文）见链接。  
-申请截止日期：2025年4月22日  
-详见：<https://mp.weixin.qq.com/s/tPKFKwYt_C9epznprTj1Sg>
-
-## 志愿者招募 \| 旧物焕新生，童心护地球
-
-活动概述：诚邀20位热心志愿者，一起为环保助力，陪伴特殊儿童（自闭症）度过一段充满意义的时光。  
-活动内容：两个阶段  
-1.在线下活动前，志愿者们收集废弃的可回收材料，发挥创意将其制作成环保教具。  
-2.在课堂上，通过教具向小朋友们讲解生态保护知识，开展问答互动，给答对的小朋友发奖品。课堂后半段，志愿者将协助孩子们在环保袋上创作环保主题绘画。  
-活动时间：  
-1. 校内准备：2025年4月14日 - 4月20日，收集材料制作教具。  
-2. 校外活动：2025年5月12日下午，开展线下环保课堂。  
-报名截止日期——2025年4月13日  
-二维码和QQ群详见链接。  
-详见：<https://mp.weixin.qq.com/s/N6c2WP-B6qcEjn0y7ICaKQ>
-
-## “华为杯”第八届研究生创”芯”大赛
-
-参赛对象包括：  
-1. 中国大陆、港澳台地区在读研究生；（硕士/博士/留学生）  
-2. 已获得研究生录取资格的大四本科生；（须提供录取证明）  
-3. 国外高校在读研究生。  
-组队方式：  
-1. 每支队伍2-3名学生，可配1-2名指导教师；  
-2. 每位指导教师最多指导5支队伍；  
-3. 每位学生仅可加入1支队伍。  
-报名时间安排  
-报名启动时间：2025年3月25日  
-报名截止时间：2025年6月15日  
-资格审核及作品提交截止时间：2025年6月20日  
-决赛时间：2025年7月27日—31日（拟）  
-决赛地点：南京大学苏州校区  
-参赛方式与作品要求  
-参赛队可选择”自主命题”或”企业命题”：自主命题需提交语音讲解PPT及技术附件，内容涵盖应用背景、创新设计、系统功能演示等，播放时长不超过8分钟；企业命题需参考官网发布的题目及要求，提交针对性的解决方案；  
-注：参赛作品涉及领域包括模拟电路、AI芯片、射频设计、器件制造等十余个方向，详见官网分类说明。  
-报名及提交渠道  
-大赛官网：https://cpipc.acge.org.cn/cw/hp/10  
-请参赛同学提前完成团队组建、命题选择、材料准备等工作。报名及作品提交均通过大赛官网完成。  
-详见：<https://mp.weixin.qq.com/s/DrQGy2SGdBAOgY-Z7iOx1g>
-
-## 【报名启动】南京大学”瑞声杯”建模挑战赛
-
-参赛对象：南京大学全体在读本科生、硕士生、博士生，以不超过3人组队形式参赛（可以单人参赛、鼓励跨学院组队）。  
-赛程规划  
-报名阶段：即日起至4月20日  
-赛题发布：4月23日  
-建模攻坚：4月23日至5月7日  
-决赛（公开答辩）、颁奖典礼：5月20日左右  
-赛题主题  
-本次赛事选题聚焦两大算法核心问题：  
-（1）大规模矩阵的特征值高效稳定求解  
-（2）振动声学仿真中涉及的声学仿真结果评估  
-详见：<https://mp.weixin.qq.com/s/snHHXpwhiCSHwhMHST3Vug>
-
-## 2025年江苏大学生志愿服务乡村振兴计划报名
-
-招募对象：面向2025年江苏省普通高等学校应届毕业生或在读研究生，到岗前获得毕业证书和学位证书。中共党员（含中共预备党员）、优秀团学干部、有志愿服务经历的优先录用。已被录取为研究生的应届高校毕业生参加”志愿服务乡村振兴计划”的，学校应为其保留学籍。  
-工作内容：按照公开招募、自愿报名、组织审核、考核面试、体检培训等程序，集中选拔不少于1000名志愿者，续签120名左右志愿者，赴徐州、连云港、淮安、盐城、宿迁等设区市基层单位开展为期一年的志愿服务。服务内容主要包括：基础教育、农业科技、医疗卫生、法律服务、青年工作、社会治理等。  
-招募流程、政策支持详见推文。校内QQ咨询群：729263400（群内实名制）  
-详见：<https://mp.weixin.qq.com/s/IsEaUkAkTN9quErKTv2Rlw>
-
-## 仙林校区志愿法律咨询项目正式启动
-
-法律咨询志愿者由法学院团委统一选拔，志愿者在仙林校区图书馆127室值班，负责接待来访的咨询者，提供基础法律咨询服务。  
-值班时间为每周一至周五9：30-11：30、14：00-18：00（节假日休息）。如您有咨询需求，可在工作时间前往一站式法治育人社区。如有合同、起诉状等材料，可一并携带。  
-本项目暂时仅有线下咨询渠道。图书馆一楼入口位于图书馆东侧（藜照湖旁），127室位于进门左侧。其他信息详见推文。  
-详见：<https://mp.weixin.qq.com/s/BtRJqy8Oo0NAF0IGSPcYOQ>
+大赛主题：金陵寻春 “镜”中春影  
+参赛对象：南京大学全体师生  
+截止时间：4月13日（周天）24:00  
+参与方式、评选规则和奖品设置请见活动链接  
+详见：<https://mp.weixin.qq.com/s/MMKn4JGAIiM8uK7h4bCebg>
 
 ## 院级活动
 
@@ -226,43 +141,35 @@ Understanding a Few Fundamental yet Fuzzy Concepts in Computing
 | 法院党建征文       | 5.20     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
 | 地学乒赛           | 4.19     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
 | 匡计社商联谊       | 4.13     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
+| 数院羽球           | 4.12     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 软院桌游           | 4.6      | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 软院征集           | 4.20     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 南新读书会         | 4.9      | [4.5](https://nik-nul.github.io/news/2025-04-05)  |
 
-### 阳光南数 \| 数海竞技，羽动几何—数学学院羽毛球赛
+### 会议通知 \| 第八届”高校法语专业课程设计与教学方法”研讨会（二号通知）
 
-时间：2025年4月12日（周六）14:00-18:00  
-比赛地点：南京大学鼓楼校区体育馆  
-参赛对象：数学学院全体师生  
-项目设置：男单、女单  
-报名问卷链接：https://www.wjx.cn/vm/YrMZSZx.aspx#  
-比赛规则、奖项设置见原文。  
-详见：<https://mp.weixin.qq.com/s/3K-lintx54wbUZnQyGz6Og>
+会议时间：6月6日-6月8日  
+会议地点：南京大学国际会议中心、南京大学外国语学院  
+主办单位：南京大学外国语学院、外语教学与研究出版社  
+会议日程、报名程序、报名链接请见活动链接  
+详见：<https://mp.weixin.qq.com/s/6snI2bv_1r2p26pAG2K2ZA>
 
-### 计科清明桌游会
+### 活动预告 \| 企业近距离——荣耀南京研究所
 
-2025年4月5日，计科院楼233。活动自由分组，每位同学根据自己喜欢的桌游进行游玩，下午1点开始，可以随时离开，最晚不超过晚7点。  
-详见：<https://mp.weixin.qq.com/s/wrChSnYf5dxYTOXiT87qvA>
+活动时间：4月10日（周四）下午14:00-16:30  
+参与对象：南京大学计算机学院学生  
+报名方式和活动群聊请见活动链接  
+详见：<https://mp.weixin.qq.com/s/TywPbCk7S26N0MPRfKjenw>
 
-### 软院桌游会
+### 南新读书会 \| 下周预告
 
-【清明小憩·桌间逢春】  
-春意渐浓，思绪纷繁，恰是清明寄情时。为助力同学们在传统节气中舒缓身心，软件学院学生会特别组织策划了一场清明桌游会，让同学们在策略协作间感受春日乐趣，在欢声笑语释放压力，既得春日雅趣之闲适，亦获同窗共进之默契，以清明澄澈之心境拥抱盎然春意。  
-1.🎈快乐游戏🎈你画我猜等小游戏，在交流中认识新朋友  
-2.🎈经典桌游🎈UNO、三国杀、狼人杀，畅享乐趣  
-3.🎈互动桌游🎈不要做挑战、谁是卧底，欢笑中释放压力  
-4.🎈传统棋类🎈象棋、围棋、五子棋，智慧与策略的较量  
-学习之余，不妨给自己一个放松的机会，一起度过一段轻松愉快的时光吧！  
-  
-时间：【4月6日(本周日)15:00-20:00】  
-地点：费B501  
-参与方式：加入群聊465023305👇🏻
-
-### 创想无界 智绘未来 \| 软件学院形象IP设计征集活动
-
-作品征集时间：2025年4月3日至2025年4月20日  
-评审时间：2025年4月21日至2025年4月30日  
-参加对象：软件学院全体师生及海内外院友  
-详情见推文。  
-详见：<https://mp.weixin.qq.com/s/XFrlifylKT0Nqv5ym3ao1w>
+时间：4月9日（周三）19:00  
+地点：新闻传播学院311室  
+1.临床医学的诞生 \[法\]米歇尔·福柯  
+分享人：林鑫 2024级博士研究生  
+2.神学政治论 \[荷\]巴鲁赫·斯宾诺莎  
+分享人：赵璇 2024级硕士研究生  
+详见：<https://mp.weixin.qq.com/s/Ge5jveM-ACxZf4h-1OE-nQ>
 
 ## 社团活动
 
@@ -286,10 +193,22 @@ Understanding a Few Fundamental yet Fuzzy Concepts in Computing
 | 吉他社歌手招募 | 4.20     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
 | 吉他社春日音   | 4.26     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
 | 国学社寄明信片 | 4.14     | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 新火星影映     | 4.6      | [4.5](https://nik-nul.github.io/news/2025-04-05)  |
 
-### 男篮院系杯小组赛Ⅰ明日赛程
+### 新火星放映 《钢的琴》
 
-数学 vs 海外  
-时间：4月5日15：00 - 16：00  
+时间：4.6 19:00（本周日）  
+地点：仙林校区？ 鼓楼校区费A410  
+简介：钢厂下岗工人陈桂林为了维持生计终日奔波，妻子小菊却想要与他离婚。为了争夺女儿的抚养权，他在身边朋友的帮助用钢铁为女儿打造了一架钢琴。影片借下岗工人陈桂林为女儿造钢琴的荒诞行动，折射计划经济崩塌后工人阶级的身份迷失与精神自救。导演以冷峻的灰蓝色调贯穿全片，手持摄影机穿梭于废弃厂房、烟囱与工人村，构建出极具后工业时代特征的”废墟美学”。该片以粗粝的影像质感与符号化叙事，完成对东北老工业基地转型阵痛的艺术化铭刻，被誉为”一部用钢铁铸造的时代寓言”。  
+欢迎感兴趣的同学前来观影，放映结束后有可选的讲解&讨论环节。加群了解详细信息：907939564
+
+### 篮协院系杯4月6日（周天）赛程
+
+男篮院系杯小组赛  
+电子vs文院 17:00 - 18:00  
+软院vs物理 18:00 - 19:00  
 地点：一组团篮球场  
-详见：<https://mp.weixin.qq.com/s/M2tgp0UDLsUnxgDjpWP_yg>
+女篮院系杯小组赛  
+外院vs数理 16:00 - 17:00  
+地点：一组团篮球场  
+详见：<https://mp.weixin.qq.com/s/njJYmBJbk-wsHfOMCpWgNg>
