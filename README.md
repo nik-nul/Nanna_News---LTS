@@ -21,43 +21,38 @@
 现在由我每日手动更新源文件到此 repo
 
 ----
-# 南哪消息 2025-05-09
+# 南哪消息 2025-05-12
 
 -   <a href="#活动预告" id="toc-活动预告"><strong>活动预告</strong></a>
     -   <a href="#订阅方式和加入编辑部"
         id="toc-订阅方式和加入编辑部">订阅方式和加入编辑部</a>
     -   <a href="#活动清单" id="toc-活动清单">活动清单</a>
     -   <a href="#讲座" id="toc-讲座">讲座</a>
-        -   <a href="#南大mba-本周校园讲座汇总5.9-5.16"
-            id="toc-南大mba-本周校园讲座汇总5.9-5.16">南大MBA |
-            本周校园讲座汇总（5.9-5.16）</a>
-        -   <a href="#学术专栏-本科生论坛教师系列第103讲大一专场"
-            id="toc-学术专栏-本科生论坛教师系列第103讲大一专场">学术专栏 |
-            本科生论坛（教师系列第103讲——大一专场）</a>
-    -   <a href="#赛事推介-中国国际大学生创新大赛2025南京大学校赛报名开启"
-        id="toc-赛事推介-中国国际大学生创新大赛2025南京大学校赛报名开启">赛事推介
-        | 中国国际大学生创新大赛（2025）南京大学校赛报名开启！</a>
-    -   <a href="#心理健康节心理中心开放日"
-        id="toc-心理健康节心理中心开放日">5·25心理健康节心理中心开放日</a>
-    -   <a href="#第十三届粤语歌唱大赛决赛"
-        id="toc-第十三届粤语歌唱大赛决赛">第十三届粤语歌唱大赛决赛</a>
-    -   <a href="#人工智能信息素养知识竞赛领奖通知"
-        id="toc-人工智能信息素养知识竞赛领奖通知">人工智能信息素养知识竞赛领奖通知</a>
+        -   <a href="#下一代材质渲染从物理精确性到神经表达的融合探索"
+            id="toc-下一代材质渲染从物理精确性到神经表达的融合探索">下一代材质渲染：从物理精确性到神经表达的融合探索</a>
+        -   <a href="#拥抱人工智能争做时代新人"
+            id="toc-拥抱人工智能争做时代新人">“拥抱人工智能，争做时代新人”</a>
+        -   <a href="#周一周五讲座概览"
+            id="toc-周一周五讲座概览">5.12-5.16（周一~周五）讲座概览</a>
+        -   <a href="#讲座预告-marius-mjaalandfreedom-in-nature"
+            id="toc-讲座预告-marius-mjaalandfreedom-in-nature">讲座预告 | Marius
+            Mjaaland：Freedom in Nature</a>
+    -   <a href="#计算理论之美-summer-2025"
+        id="toc-计算理论之美-summer-2025">计算理论之美 (Summer 2025)</a>
+    -   <a href="#校庆社团巡礼月晚会暨星光集市摊主招募"
+        id="toc-校庆社团巡礼月晚会暨星光集市摊主招募">校庆社团巡礼月晚会暨星光集市摊主招募</a>
+    -   <a href="#南有嘉鱼丨5月学科竞赛信息速递"
+        id="toc-南有嘉鱼丨5月学科竞赛信息速递">南有嘉鱼丨5月学科竞赛信息速递</a>
+    -   <a href="#团体招募唤醒内在的超级英雄自我赋能团体"
+        id="toc-团体招募唤醒内在的超级英雄自我赋能团体">团体招募｜唤醒内在的超级英雄——自我赋能团体</a>
+    -   <a href="#团体招募-我与我的相遇自我成长之旅"
+        id="toc-团体招募-我与我的相遇自我成长之旅">团体招募 |
+        我与”我”的相遇——自我成长之旅</a>
     -   <a href="#院级活动" id="toc-院级活动">院级活动</a>
-        -   <a href="#南京大学商学院第十三届党团知识竞赛招募令"
-            id="toc-南京大学商学院第十三届党团知识竞赛招募令">南京大学商学院第十三届党团知识竞赛招募令</a>
-        -   <a href="#天空院心理疗愈活动"
-            id="toc-天空院心理疗愈活动">天空院心理疗愈活动</a>
-        -   <a href="#地海院-从hr视角解锁求职面试秘籍"
-            id="toc-地海院-从hr视角解锁求职面试秘籍">地海院 |
-            从HR视角解锁求职面试秘籍</a>
+        -   <a href="#计算机学院oppo南京办公室参观"
+            id="toc-计算机学院oppo南京办公室参观">计算机学院OPPO南京办公室参观</a>
+        -   <a href="#南新读书会" id="toc-南新读书会">南新读书会</a>
     -   <a href="#社团活动" id="toc-社团活动">社团活动</a>
-        -   <a href="#坠落的审判电影放映交流"
-            id="toc-坠落的审判电影放映交流">《坠落的审判》电影放映&amp;交流</a>
-        -   <a href="#音乐剧社乐队自远方来访"
-            id="toc-音乐剧社乐队自远方来访">音乐剧社｜乐队自远方来访</a>
-        -   <a href="#passion十九周年专场热情永远ok"
-            id="toc-passion十九周年专场热情永远ok">PASSION十九周年专场｜热情永远OK</a>
 
 # **活动预告**
 
@@ -77,33 +72,25 @@
 | 地科博物馆开放安排         | /        | [3.22](https://nik-nul.github.io/news/2025-03-22) |
 | 2025年分流和转专业政策通知 | /        | [4.7](https://nik-nul.github.io/news/2025-04-07)  |
 | 2025年转专业志愿填报通知   | /        | [4.24](https://nik-nul.github.io/news/2025-04-24) |
-| 林校区志愿法律咨询         | /        | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
+| 仙林校区志愿法律咨询       | /        | [4.4](https://nik-nul.github.io/news/2025-04-04)  |
 | 南大购买WPS                | /        | [4.8](https://nik-nul.github.io/news/2025-04-08)  |
 | 关于毛概习概实践教学的要求 | /        | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
 | 乐跑                       | 5.16     | [3.10](https://nik-nul.github.io/news/2025-03-10) |
 | 本科生劳育实践             | 7.20     | [2.19](https://nik-nul.github.io/news/2025-02-19) |
-| 大文大理题目征集           | 期末     | [3.8](https://nik-nul.github.io/news/2025-03-08)  |
-| 5月免费上网                | ？       | [3.9](https://nik-nul.github.io/news/2025-03-09)  |
 | 外教社杯                   | 5.27     | [3.12](https://nik-nul.github.io/news/2025-03-12) |
 | 浦口音乐跑                 | 5.30     | [3.31](https://nik-nul.github.io/news/2025-03-31) |
 | 青春活力大赛               | 5.17     | [4.7](https://nik-nul.github.io/news/2025-04-07)  |
 | 在校生自愿体检             | 6.20     | [4.8](https://nik-nul.github.io/news/2025-04-08)  |
 | 中美中心2025年证书项目     | 5.24     | [4.14](https://nik-nul.github.io/news/2025-04-14) |
-| 粤歌赛决赛                 | 5.10     | [4.21](https://nik-nul.github.io/news/2025-04-21) |
 | 校博岩画展                 | 6.22     | [4.23](https://nik-nul.github.io/news/2025-04-23) |
 | CASHL”畅读”活动            | 5.23     | [4.24](https://nik-nul.github.io/news/2025-04-24) |
 | 江苏高校凤凰读书节         | 6.15     | [4.24](https://nik-nul.github.io/news/2025-04-24) |
-| 图书馆征集春日影           | 5.10     | [4.28](https://nik-nul.github.io/news/2025-04-28) |
-| 数智应用大赛               | 5.10     | [5.3](https://nik-nul.github.io/news/2025-05-03)  |
 | 港澳台生征文               | 6.20     | [5.3](https://nik-nul.github.io/news/2025-05-03)  |
-| 《封神演义》角色扮演       | 5.10     | [5.5](https://nik-nul.github.io/news/2025-05-05)  |
-| 简历优化指导               | 5.11     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 织布手工                   | 5.10     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
 | 挑杯征集                   | 5.25     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
-| 南说开麦                   | 5.11     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
 | 国际大学生创新大赛         | 5.18     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| 粤歌赛                     | 5.10     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| 心理中心开放日             | 5.11     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
+| 金箔体验课                 | 5.13     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| 计算理论之美报名           | 6.14     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| 星光集市摊主招募           | 5.24     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
 
 ## 讲座
 
@@ -111,11 +98,7 @@
 |:-----------------------------------------------------------------|:---------|:--------------------------------------------------|
 | 儿童脑智发育与人口神经科学                                       | 5.14     | [4.30](https://nik-nul.github.io/news/2025-04-30) |
 | 2026巴黎高科国际工程师项目宣讲会                                 | 5.15     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 漫谈后冷战东欧电影                                               | 5.10     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
 | 中国北方地区清洁取暖的政策演变与可持续发展路径研究               | 5.14     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
-| 新浪潮在格鲁吉亚发生了吗？                                       | 5.11     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
-| 唐纪传体《国史》再研讨                                           | 5.10     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| 唐代的净土信仰与净土宗                                           | 5.10     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | Error propagation in Data-Driven Multi-Period Inventory System   | 5.13     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | Publishing in Top Tier-Journals: An Asian Scholar’s Perspective  | 5.13     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | 技术与人类思考的交汇                                             | 5.14     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
@@ -123,75 +106,116 @@
 | 一些女性创业者相关的课题简介                                     | 5.16     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | Platform Competition and App Development                         | 5.16     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | On infinite series with summands involving binomial coefficients | 5.14     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
+| 德国留学宣讲会                                                   | 5.13     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| “含英咀华”新生午餐读书会                                         | 5.14     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| 下一代材质渲染：从物理精确性到神经表达的融合探索                 | 5.14     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| 谭铁牛：“拥抱人工智能，争做时代新人”                             | 5.15     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| 人工智能与哲学谘商                                               | 51.4     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| 儿童脑智发育与人口神经科学                                       | 5.14     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| Freedom in Nature                                                | 5.16     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
 
-### 南大MBA \| 本周校园讲座汇总（5.9-5.16）
+### 下一代材质渲染：从物理精确性到神经表达的融合探索
 
-1\. 题目：唐纪传体《国史》再研讨 主讲人：唐雯，复旦大学中文系教授  
-题目：唐代的净土信仰与净土宗 主讲人：孙英刚，浙江大学历史学院教授  
-时间：5月10日（周六）14:30  
-地点：南京大学仙林校区文学院221会议室  
-2. Error propagation in Data-Driven Multi-Period Inventory System  
-时间：5月12日（周一） 16:00-18:00  
-地点：南京大学鼓楼校区工程管理学院协鑫楼108  
-报告人：叶志盛，新加坡国立大学教授  
-3. Publishing in Top Tier-Journals: An Asian Scholar’s Perspective  
-时间：5月13日（周二）14:00  
-地点：南京大学鼓楼校区商学院安中楼302室  
-主讲人：黄韫慧，南京大学商学院营销与电子商务系教授  
-4. AI与哲学谘商——技术与人类思考的交汇  
-时间：5月14日（周三）9:30-11:00  
-地点：南京大学仙林校区薛光林楼314室  
-主讲人：黎建球，辅仁大学哲学博士  
-5. 中央银行数字货币与银行：文献综述与前沿问题Central Bank Digital
-Currency and Banking: Literature Review and New Questions  
-时间：5月16日（周五）14:00  
-地点：南京大学鼓楼校区商学院安中楼302室  
-报告人：朱萸，中国人民大学经济学院副教授  
-6. 一些女性创业者相关的课题简介  
-时间：5月16日（周五）15:00  
-地点：南京大学鼓楼校区商学院安中楼302室  
-报告人：曹娴，伊利诺伊州立大学助理教授  
-7. Platform Competition and App Development  
-时间：5月16日（周五）14:00  
-地点：南京大学浦口校区 浦I-222  
-报告人：Doh Shin Jeon，图卢兹经济学院教授  
-详见：<https://mp.weixin.qq.com/s/zSPe2fFYhv1Ml1YVwDJ06A>
+时间：2025年5月14日（星期三） 15:00  
+地点：计算机科学技术楼229室  
+主讲人：朱君秋, 研究员 山东大学  
+详见：<https://mp.weixin.qq.com/s/qblBNjbInpXaQmw3Ds0CVQ>
 
-### 学术专栏 \| 本科生论坛（教师系列第103讲——大一专场）
+### “拥抱人工智能，争做时代新人”
 
-题目: On infinite series with summands involving binomial coefficients  
-报告人：孙智伟  
-时间：5月14日(星期三)16:00-17:30  
-地点：戊己庚四楼北  
-腾讯会议：399-1313-1750  
-详见：<https://mp.weixin.qq.com/s/lPJldjAr42AjKeIJmxk0DA>
+主讲人：谭铁牛  
+时间：5月15日（周四）19：30-21：00  
+微信扫码观看直播  
+详见：<https://mp.weixin.qq.com/s/aKfROf4Wezczax7g76_R8w>
 
-## 赛事推介 \| 中国国际大学生创新大赛（2025）南京大学校赛报名开启！
+### 5.12-5.16（周一~周五）讲座概览
 
-中国国际大学生创新大赛（2025）由教育部等14家单位主办，目前已成为中国大学生双创领域规模最大、级别最高、影响力最大的双创赛事之一。大赛获奖情况已纳入到双一流和学科评估的监测指标及本科教育教学评估体系中。参赛要求及赛事详情请见原文  
-详见：<https://mp.weixin.qq.com/s/ciS_kkW_GMYxAL3Wm1voUQ>
-参赛团队通过登录”全国大学生创业服务网”（网址：cy.ncss.cn）进行报名（5月9日开放）。扫描二维码下载报名信息表，并于5月18日（周日）24:00前发送报名信息表+项目PPT发送至wurong@nju.edu.cn。以上两步均需完成才算报名成功。
+周一（5.12）  
+Error propagation in Data-Driven Multi-Period Inventory System  
+周二（5.13）  
+Publishing in Top Tier-Journals: An Asian Scholar’s Perspective  
+周三（5.14）  
+1.人工智能与哲学谘商：技术与人类思考的交汇  
+2.儿童脑智发育与人口神经科学  
+3.On infinite series with summands involving binomial coefficients  
+周五（5.16）  
+1.Platform Competition and App Development  
+2.Central Bank Digital Currency and Banking: Literature Review and New
+Questions  
+3.一些女性创业者相关的课题简介  
+详见原文  
+详见：<https://mp.weixin.qq.com/s/y7Mj1PQpmWyrxgZSjAKDCw>
 
-## 5·25心理健康节心理中心开放日
+### 讲座预告 \| Marius Mjaaland：Freedom in Nature
 
-不织布手工创作：5月11日 13:00-17:00，无需提前报名，直接到场即可  
-蓝鲸寻梦心理剧本杀：5月11日 9:00-12:00，加群749019358先到先得  
-焦虑与抑郁自评：5月11日
-13:00-17:00，采用SAS与SDS量表，无需提前报名，直接到场即可  
-详见：<https://mp.weixin.qq.com/s/K_fMW3Hq8pgPZlS_CBMdzQ>
+时间：2025年5月16日（周五）上午9点  
+地点：仙林校区哲学学院218  
+主讲人：Marius Mjaaland（挪威奥斯陆大学教授）  
+  
+详见：<https://mp.weixin.qq.com/s/QiHVkOfeJO_BxV65Xxz4pg>
 
-## 第十三届粤语歌唱大赛决赛
+## 计算理论之美 (Summer 2025)
 
-第十三届粤语歌唱大赛决赛将于5月10日19:00
-大活多功能厅举行，届时可在https://tp.wjx.top/vm/wFP2k6E.aspx投票选择最喜爱选手。原推含选手介绍  
-详见：<https://mp.weixin.qq.com/s/L7Y8VZ8H51BDWu-qhYQUEg>
+时间：2025年6月30日至7月3日  
+地点：计算机科学与技术楼 111报告厅  
+联系邮箱：nju\_tcs@163.com  
+联系人：黄棱潇：huanglingxiao@nju.edu.cn  
+班吟：175227530@qq.com  
+注册报名流程：由于前几届报名人数过多，本届将会采用问卷初筛形式进行报名。请同学们先填写以下调查问卷:  
+https://table.nju.edu.cn/external-apps/1d0c9688-b1e7-4d58-a21f-c5fc37910f5f  
+通过初筛后的同学将提前两周收到包含报名链接的邮件。
+南大同学仅需填写问卷，讲习班期间直接到会场听报告即可。  
+费用：本科生包住宿，非本科生不包含住宿。餐费自理  
+报名截止日期： 2025.6.14  
+6月29日布置作业，
+7月2日晚上12点截止提交。成绩优秀的同学可推荐参加南京大学计算机学院本科生开放日保研面试，并在录取后可凭借此次暑期讲习班申请两个研究生学分。  
+作业提交方式：发送电子版到邮箱nju\_tcs@163.com  
+详见：<https://tcs.nju.edu.cn/wiki/index.php?title=%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA%E4%B9%8B%E7%BE%8E_(Summer_2025)>
 
-## 人工智能信息素养知识竞赛领奖通知
+## 校庆社团巡礼月晚会暨星光集市摊主招募
 
-获奖名单见推文  
-领奖时间及地点：2025年5月12日-16日 上午9:00-11：00/下午14:00-16:00  
-仙林图书馆C205  
-详见：<https://mp.weixin.qq.com/s/mrm2i6j9H7wEzhn5Bd0gKw>
+时间：2025年5月24日  
+地点：南京大学鼓楼校区苏浙体育场  
+晚会开设60个各具特色的摊位，宛如一条流淌着青春灵感的星河——“小蓝鲸”的创意、社团的奇思、学院（书院）的匠心、校企联动的巧艺，还有本次特别设立的”挑战杯”摊位等待解密，这些摊位交融成流动的盛宴。  
+星光集市预设20个左右个人摊位，现面向南京大学全体同学征集摊主，活动方将为各位摊主免费提供场地和摊位硬件等，请各位同学自行准备商品，自负盈亏。欢迎各位摊主售卖手工艺品等既能展现摊主个人特色又能突显NJUer全面发展的可爱潮酷商品。  
+报名途径：摊位报名时间从即日起至5月13日（下周二）24:00
+，有意报名个人摊位的同学请扫描二维码填写申请表，心动不如行动，感兴趣的各位快来报名吧！  
+详见：<https://mp.weixin.qq.com/s/sXcbQHlMoaYKiDFHaUZhDg>
+
+## 南有嘉鱼丨5月学科竞赛信息速递
+
+一、第七届·2025 MindSpore量子计算黑客松全国大赛  
+报名时间：2025年5月20日 18：00前  
+参赛要求：  
+1.对量子计算感兴趣，具备基本Python编程能力的所有开发者；  
+2.选手可自行组队，每个团队最多3人报名，指导老师1人（指导老师无需报名）；  
+3.每位选手仅可加入一个团队，可以跨专业、跨校、跨地域组队。  
+二、2025中国高校计算机大赛——智能交互创新赛  
+报名时间：2025年5月18日截止  
+报名要求：  
+1.面向全球高校学生，专业不限、年级不限；参赛队员须为高等学校在册、在校生；  
+2.每支参赛队伍至多由1名队长、3名队员组成，不允许跨校组队；  
+3.每支参赛队伍须有一名参赛队所属高校正式教师担任指导老师；  
+  
+详见：<https://mp.weixin.qq.com/s/l-WrfRoxH-YuZw_oDk8xNg>
+
+## 团体招募｜唤醒内在的超级英雄——自我赋能团体
+
+《唤醒内在的超级英雄》心理团辅招募  
+活动时间：5月17日、5月24日、5月31日晚 18:00  
+活动地点：南大仙林校区  
+招募人数：南大全体学生 10-12人（为了关注到团体内每个人）  
+带领者：韩奇桐，南大心理系在读研究生，心理中心见习咨询师，心理中心热线咨询师  
+详见：<https://mp.weixin.qq.com/s/uLsyPAPV0g-pi-szscs_RA>
+
+## 团体招募 \| 我与”我”的相遇——自我成长之旅
+
+南大心理中心特别策划——“自我觉察、接纳与成长”团体心理辅导，  
+招募人数:15人，限南京大学学生  
+团体时间:5月14日、5月17日、5月18日下午14：00-15：30  
+报名见原文  
+  
+详见：<https://mp.weixin.qq.com/s/-k1VddNa7rIH9yD3U_n6UA>
 
 ## 院级活动
 
@@ -201,91 +225,47 @@ Currency and Banking: Literature Review and New Questions
 | 物院征集课程指南   | 6.15     | [3.3](https://nik-nul.github.io/news/2025-03-03)  |
 | 地海征集春日影     | 6.15     | [3.14](https://nik-nul.github.io/news/2025-03-14) |
 | 法院党建征文       | 5.20     | [4.2](https://nik-nul.github.io/news/2025-04-02)  |
-| 四院音乐节         | 5.11     | [4.7](https://nik-nul.github.io/news/2025-04-07)  |
 | 物院运动打卡       | 5.14     | [4.12](https://nik-nul.github.io/news/2025-04-12) |
-| 电院征集           | 5.11     | [4.22](https://nik-nul.github.io/news/2025-04-22) |
-| 物院研讨会         | 5.11     | [4.30](https://nik-nul.github.io/news/2025-04-30) |
 | 健雄摄影           | 5.20     | [4.30](https://nik-nul.github.io/news/2025-04-30) |
-| 开甲许愿           | 5.10     | [4.30](https://nik-nul.github.io/news/2025-04-30) |
 | 数院文创           | 5.31     | [5.3](https://nik-nul.github.io/news/2025-05-03)  |
 | 电院求职           | 5.15     | [5.3](https://nik-nul.github.io/news/2025-05-03)  |
-| 七院草地音         | 5.10     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 物院趣运会         | 5.11     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 物院围棋           | 5.10     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
 | 法院征集           | 5.31     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
 | 法专生沙龙         | 5.10     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 行知晚会           | 5.10     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
-| 安邦宿舍           | 5.11     | [5.8](https://nik-nul.github.io/news/2025-05-08)  |
 | 商院竞赛           | 5.14     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| 天院心理           | 5.11     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
 | 地海求职           | 5.13     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
+| 开甲行知假面舞会   | 5.16     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| 秉文安邦联谊       | 5.18     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| 秉文手工           | 5.17     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
+| 计院参观           | 5.15     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
+| 新传读书           | 5.14     | [5.11](https://nik-nul.github.io/news/2025-05-11) |
 
-### 南京大学商学院第十三届党团知识竞赛招募令
+### 计算机学院OPPO南京办公室参观
 
-比赛时间：2025年5月28日（周三）下午  
-报名截止：2025年5月14日（周三）晚19点  
-本次大赛采取现场竞赛的形式，分为三个环节，分别为晋级赛环节、淘汰赛环节和冠军赛环节  
-本次竞赛将于商学院招聘一定数量的志愿者，包括主持、摄影、裁判等  
-参赛方式及赛制介绍请见原文  
-详见：<https://mp.weixin.qq.com/s/7G4mjX2DF9TxHGBEtzOdGw>
+活动时间：2025年5月15日（周四）14:30-17:00  
+参与对象：南京大学计算机学院学生  
+参观流程  
+14:30-15:00 OPPO公司介绍  
+15:00-16:00 OPPO AI技术交流分享  
+16:00-16:45 校友交流  
+16:45-17:00 办公室环境参观  
+详见：<https://mp.weixin.qq.com/s/hKsOaR3LVJL5-7Q_G3MqOw>
 
-### 天空院心理疗愈活动
+### 南新读书会
 
-活动内容包括黑胶唱片画、古法制香、桌游活动。  
-活动时间：5月11日下午 15：30—17：30  
-报名方式：填写问卷后加入QQ群  
-  
-详见：<https://mp.weixin.qq.com/s/mUDRId4Vr8wkMLh3Hcz4eg>
-
-### 地海院 \| 从HR视角解锁求职面试秘籍
-
-环节一：面试技能全解析  
-环节二：群面实战模拟  
-环节三：互动答疑  
-时间：2025年5月13日（周二）14:00-16:00  
-地点：仙一教学楼112教室  
-报名二维码见原文  
-详见：<https://mp.weixin.qq.com/s/tQM6YetFYZuu0_dtv6-uHw>
+时间：2025年5月14日（周三）19:00  
+地点：南京大学新闻传播学院311室  
+《总体屏幕：从电影到智能手机》 分享人：刘敏心 2024级硕士研究生  
+《时间与他者》 分享人：闫炜炜 2024级硕士研究生  
+《Introduction à l’Anthropologie 》 分享人：董翟
+南京大学21级哲学系本科生  
+详见：<https://mp.weixin.qq.com/s/yJdStoKbj8IMWYZGnD8n4g>
 
 ## 社团活动
 
-| 社团活动               | 开展时间 | 刊载时间                                          |
-|:-----------------------|:---------|:--------------------------------------------------|
-| 天文台开放日           | /        | [1.6](https://nik-nul.github.io/news/2025-01-06)  |
-| 红会一块走             | 5.20     | [4.21](https://nik-nul.github.io/news/2025-04-21) |
-| 集庆折子戏             | 5.11     | [4.22](https://nik-nul.github.io/news/2025-04-22) |
-| 九歌大会               | 5.11     | [4.27](https://nik-nul.github.io/news/2025-04-27) |
-| 紫藤钱币研学           | 5.11     | [4.30](https://nik-nul.github.io/news/2025-04-30) |
-| 粤歌赛                 | 5.10     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| AED定向打卡            | 5.11     | [5.6](https://nik-nul.github.io/news/2025-05-06)  |
-| 《坠落的审判》电影放映 | 5.10     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| 歌魅演出               | 5.23     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-| passion演出            | 5.16     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
-
-### 《坠落的审判》电影放映&交流
-
-《坠落的审判》电影放映&交流  
-时间：2025年5月10日晚19:00  
-地点：南京大学仙林校区 逸C-203  
-QQ群：1138418860  
-加群可获得更多信息  
-详见：<https://mp.weixin.qq.com/s/lFpNefN10wYzTptRMMQQwA>
-
-### 音乐剧社｜乐队自远方来访
-
-乐队即将在沙漠小镇奏响动人乐章•
-演出将于「5月23日」开始，在「5月25日」落幕，在「张心瑜剧场」的两日演出中，我们期待您沉浸在音乐盛宴中，共享美好时光。票务信息请持续关注公众号后续推送。  
-详见：<https://mp.weixin.qq.com/s/Js4A5YaJSU63K247fFpVsg>
-
-### PASSION十九周年专场｜热情永远OK
-
-时间：5月16日19:00  
-地点：恩玲剧场  
-领票方式转发任意周年专场推送至朋友圈集满18赞即可领取普通票集满38赞获得VIP票  
-门票不限座，VIP票和普通票仅有入场时间上的区分VIP聚提前l0min检票  
-展台派票：  
-5.14-15 周三-周四 12:00-14:00 仙林校区四五六食堂门口  
-5.14 周三 12:00-14:00 鼓楼校区南园喷泉处  
-请准备好转发集赞截图核验通过后便会进行门票的派发  
-票数有限 发完为止  
-详见：<https://mp.weixin.qq.com/s/HQ8rabu0jszs8TP27aRovg>
+| 社团活动       | 开展时间 | 刊载时间                                          |
+|:---------------|:---------|:--------------------------------------------------|
+| 天文台开放日   | /        | [1.6](https://nik-nul.github.io/news/2025-01-06)  |
+| 红会一块走     | 5.20     | [4.21](https://nik-nul.github.io/news/2025-04-21) |
+| 歌魅演出       | 5.23     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
+| passion演出    | 5.16     | [5.9](https://nik-nul.github.io/news/2025-05-09)  |
+| 拉丁舞社周年庆 | 5.19     | [5.10](https://nik-nul.github.io/news/2025-05-10) |
