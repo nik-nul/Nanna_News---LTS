@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-05-17T17:03:19.433010+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-05-17" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-05-17#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8</id><title>社团活动</title><updated>2025-05-17T17:03:19.433436+00:00</updated><content type="html">table
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><id>https://nik-nul.github.io/rss.xml</id><title>南哪消息 ./tmp</title><updated>2025-05-18T12:29:39.800520+00:00</updated><author><name>南哪小报编辑部</name><email>231220103@smail.nju.edu.cn</email></author><link href="https://nik-nul.github.io/news/feed.atom" rel="self"/><link href="https://nik-nul.github.io/news/2025-05-18" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><rights>CC0</rights><subtitle>南哪大专集约化信息发布</subtitle><entry><id>https://nik-nul.github.io/news/2025-05-18#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8</id><title>社团活动</title><updated>2025-05-18T12:29:39.800908+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"社团活动/th
@@ -90,7 +90,7 @@
 &lt;br&gt;活动三：心理剧本杀  
 &lt;br&gt;《于蓝鲸中迷失》与《打碎镜子》原创剧本杀  
 &lt;br&gt;参与方式：扫描二维码加qq群报名（749019358），详见原文  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/9GesClorhkWjxOKMN3zZQw</content><link href="https://nik-nul.github.io/news/2025-05-17#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8</id><title>院级活动</title><updated>2025-05-17T17:03:19.433425+00:00</updated><content type="html">table
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/9GesClorhkWjxOKMN3zZQw</content><link href="https://nik-nul.github.io/news/2025-05-18#%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8</id><title>院级活动</title><updated>2025-05-18T12:29:39.800896+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"活动/th
@@ -208,7 +208,7 @@
 &lt;br&gt;
 &lt;br&gt;地点：南京大学鼓楼校区田家炳楼4楼  
 &lt;br&gt;时间：周一、周三、周五上午9:00-11:30，下午14:00-16:30；5月18日（周日）、5月20日（周二）上午9:00-11:30，下午14:00-16:30增加开放  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/gOZAdFGiGxjoBnc1kxHv9g</content><link href="https://nik-nul.github.io/news/2025-05-17#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E7%BA%BF%E4%B8%8B%E5%85%A5%E5%9C%BA%E6%8C%87%E5%8D%97%E5%8F%8A%E7%BA%BF%E4%B8%8A%E8%A7%82%E7%9C%8B%E6%B8%A0%E9%81%93</id><title>十大歌星赛线下入场指南及线上观看渠道</title><updated>2025-05-17T17:03:19.433405+00:00</updated><content type="html">南京大学第44届校园十大歌星赛决赛将于5月18日 19:00 在炜华体育场启幕。  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/gOZAdFGiGxjoBnc1kxHv9g</content><link href="https://nik-nul.github.io/news/2025-05-18#%E9%99%A2%E7%BA%A7%E6%B4%BB%E5%8A%A8"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E7%BA%BF%E4%B8%8B%E5%85%A5%E5%9C%BA%E6%8C%87%E5%8D%97%E5%8F%8A%E7%BA%BF%E4%B8%8A%E8%A7%82%E7%9C%8B%E6%B8%A0%E9%81%93</id><title>十大歌星赛线下入场指南及线上观看渠道</title><updated>2025-05-18T12:29:39.800875+00:00</updated><content type="html">南京大学第44届校园十大歌星赛决赛将于5月18日 19:00 在炜华体育场启幕。  
 &lt;br&gt;入场指南如下：  
 &lt;br&gt;VIP 票：请于 18:10
 &lt;br&gt;开始检票进场，听从工作人员安排，从指定入口排队有序入场。  
@@ -217,8 +217,8 @@
 &lt;br&gt;无票：活动开场 15
 &lt;br&gt;分钟后，炜华体育场将对外开放，无票的同学届时可入场观看。  
 &lt;br&gt;另有线上直播：关注”南大青年”“南京大学学生会”“南京大学”官方公众号，进入视频号直播，或者关注”南京大学”抖音号。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/ODBSGVeucfIVa3LxhxGcOg</content><link href="https://nik-nul.github.io/news/2025-05-17#%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E7%BA%BF%E4%B8%8B%E5%85%A5%E5%9C%BA%E6%8C%87%E5%8D%97%E5%8F%8A%E7%BA%BF%E4%B8%8A%E8%A7%82%E7%9C%8B%E6%B8%A0%E9%81%93"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E5%85%B3%E4%BA%8E%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E6%93%8D%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E7%9A%84%E8%AF%B4%E6%98%8E</id><title>关于校园十大歌星赛操场使用情况的说明</title><updated>2025-05-17T17:03:19.433383+00:00</updated><content type="html">亲爱的各位老师、同学：5月17日-5月18日，全天将进行南京大学第44届校园十大歌星赛的试音彩排和正式演出，音响音量较大，可能会打扰老师、同学们的学习与生活，对此我们深表歉意。我们会在保证舞台效果的前提下，尽量控制现场音量，让我们一同期待这场精彩的视听盛宴！——共青团南京大学委员会及南京大学学生会  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/bHeYfEXHAuIRFL_Fii6G7g</content><link href="https://nik-nul.github.io/news/2025-05-17#%E5%85%B3%E4%BA%8E%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E6%93%8D%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E7%9A%84%E8%AF%B4%E6%98%8E"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%B0%B4%E4%B8%8A%E8%B6%A3%E5%91%B3%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%8A%A5%E5%90%8D</id><title>南京大学第三届水上趣味运动会报名</title><updated>2025-05-17T17:03:19.433360+00:00</updated><content type="html">时间：2025年5月24日8:00  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/ODBSGVeucfIVa3LxhxGcOg</content><link href="https://nik-nul.github.io/news/2025-05-18#%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E7%BA%BF%E4%B8%8B%E5%85%A5%E5%9C%BA%E6%8C%87%E5%8D%97%E5%8F%8A%E7%BA%BF%E4%B8%8A%E8%A7%82%E7%9C%8B%E6%B8%A0%E9%81%93"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E5%85%B3%E4%BA%8E%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E6%93%8D%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E7%9A%84%E8%AF%B4%E6%98%8E</id><title>关于校园十大歌星赛操场使用情况的说明</title><updated>2025-05-18T12:29:39.800853+00:00</updated><content type="html">亲爱的各位老师、同学：5月17日-5月18日，全天将进行南京大学第44届校园十大歌星赛的试音彩排和正式演出，音响音量较大，可能会打扰老师、同学们的学习与生活，对此我们深表歉意。我们会在保证舞台效果的前提下，尽量控制现场音量，让我们一同期待这场精彩的视听盛宴！——共青团南京大学委员会及南京大学学生会  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/bHeYfEXHAuIRFL_Fii6G7g</content><link href="https://nik-nul.github.io/news/2025-05-18#%E5%85%B3%E4%BA%8E%E6%A0%A1%E5%9B%AD%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%98%9F%E8%B5%9B%E6%93%8D%E5%9C%BA%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E7%9A%84%E8%AF%B4%E6%98%8E"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%B0%B4%E4%B8%8A%E8%B6%A3%E5%91%B3%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%8A%A5%E5%90%8D</id><title>南京大学第三届水上趣味运动会报名</title><updated>2025-05-18T12:29:39.800831+00:00</updated><content type="html">时间：2025年5月24日8:00  
 &lt;br&gt;地点：仙林校区游泳馆  
 &lt;br&gt;参与对象：南京大学全日制本科生、硕士研究生、博士研究生、留学生  
 &lt;br&gt;比赛项目：  
@@ -235,7 +235,7 @@
 &lt;br&gt;扫码加入微信群，以问卷方式在线报名。  
 &lt;br&gt;报名链接：https://table.nju.edu.cn/dtable/forms/fd3ff972-d14b-4713-9d94-92c8cf0d006f/  
 &lt;br&gt;微信群（必须转换为二维码并使用微信扫描，否则微信会禁止你加群）：https://weixin.qq.com/g/AQYAANm0Fn4Mddwe11at7r7nRcOHSy-6SZW3Z32QPfhe\_cMNboHY6qLVgI3hRrGP  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/IP88mT070ic1R6LayXK1yw</content><link href="https://nik-nul.github.io/news/2025-05-17#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%B0%B4%E4%B8%8A%E8%B6%A3%E5%91%B3%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%8A%A5%E5%90%8D"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E7%AC%AC%E5%85%AD%E5%9C%BA</id><title>新生午餐读书会第六场</title><updated>2025-05-17T17:03:19.433326+00:00</updated><content type="html">时间：5月21日（周三）12:15-13:40  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/IP88mT070ic1R6LayXK1yw</content><link href="https://nik-nul.github.io/news/2025-05-18#%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%B1%8A%E6%B0%B4%E4%B8%8A%E8%B6%A3%E5%91%B3%E8%BF%90%E5%8A%A8%E4%BC%9A%E6%8A%A5%E5%90%8D"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E7%AC%AC%E5%85%AD%E5%9C%BA</id><title>新生午餐读书会第六场</title><updated>2025-05-18T12:29:39.800805+00:00</updated><content type="html">时间：5月21日（周三）12:15-13:40  
 &lt;br&gt;地点：鼓楼校区南大出版社党建活动室  
 &lt;br&gt;主讲老师：新闻传播学院 胡翼青  
 &lt;br&gt;阅读书目：  
@@ -245,10 +245,10 @@
 &lt;br&gt;汇报人：秉文书院 吴奕萱  
 &lt;br&gt;向全体新生开放18个旁听名额，于5月18日（周日）9：00开始报名。  
 &lt;br&gt;报名二维码见链接。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/zU2cMEUQrdzybpcabuVSGA</content><link href="https://nik-nul.github.io/news/2025-05-17#%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E7%AC%AC%E5%85%AD%E5%9C%BA"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#123%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E8%88%9E%E8%B9%88%E4%B8%93%E5%9C%BA</id><title>123周年校庆舞蹈专场</title><updated>2025-05-17T17:03:19.433282+00:00</updated><content type="html">为庆祝南京大学建校123周年，南京大学舞蹈团将举办”起舞在南雍，奋进向未来”专场舞蹈演出。  
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/zU2cMEUQrdzybpcabuVSGA</content><link href="https://nik-nul.github.io/news/2025-05-18#%E6%96%B0%E7%94%9F%E5%8D%88%E9%A4%90%E8%AF%BB%E4%B9%A6%E4%BC%9A%E7%AC%AC%E5%85%AD%E5%9C%BA"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#123%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E8%88%9E%E8%B9%88%E4%B8%93%E5%9C%BA</id><title>123周年校庆舞蹈专场</title><updated>2025-05-18T12:29:39.800776+00:00</updated><content type="html">为庆祝南京大学建校123周年，南京大学舞蹈团将举办”起舞在南雍，奋进向未来”专场舞蹈演出。  
 &lt;br&gt;专场现定于5月24日19:00在仙林校区恩玲剧场开幕。  
 &lt;br&gt;在推文中点击”阅读原文”或扫描小程序码进行观看预约，将根据预约人数分校区发票。  
-&lt;br&gt;详见：https://mp.weixin.qq.com/s/hRwg_yRisOtklSeKxtWe2A</content><link href="https://nik-nul.github.io/news/2025-05-17#123%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E8%88%9E%E8%B9%88%E4%B8%93%E5%9C%BA"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-05-17T17:03:19.433264+00:00</updated><content type="html">&lt;table&gt;
+&lt;br&gt;详见：https://mp.weixin.qq.com/s/hRwg_yRisOtklSeKxtWe2A</content><link href="https://nik-nul.github.io/news/2025-05-18#123%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%BA%86%E8%88%9E%E8%B9%88%E4%B8%93%E5%9C%BA"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E8%AE%B2%E5%BA%A7</id><title>讲座</title><updated>2025-05-18T12:29:39.800758+00:00</updated><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr class="header"&gt;
 &lt;th style="text-align: left;"&gt;讲座&lt;/th&gt;
@@ -428,7 +428,7 @@ Benefits（当国家运河邂逅地方管网：清洁供水、本地基建与健
 活动部分：回溯时光、默契合作赛、未来展望  
 活动地点：南青格庐 多功能厅  
 活动时间：5月18日下午14:00  
-详见：&lt;https://mp.weixin.qq.com/s/HgnJrgT7O9R2TsCMrtiGGA&gt;</content><link href="https://nik-nul.github.io/news/2025-05-17#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95</id><title>活动清单</title><updated>2025-05-17T17:03:19.433241+00:00</updated><content type="html">table
+详见：&lt;https://mp.weixin.qq.com/s/HgnJrgT7O9R2TsCMrtiGGA&gt;</content><link href="https://nik-nul.github.io/news/2025-05-18#%E8%AE%B2%E5%BA%A7"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95</id><title>活动清单</title><updated>2025-05-18T12:29:39.800733+00:00</updated><content type="html">table
 &lt;br&gt;thead
 &lt;br&gt;tr class="header"
 &lt;br&gt;th style="text-align: left;"活动/th
@@ -714,6 +714,6 @@ Benefits（当国家运河邂逅地方管网：清洁供水、本地基建与健
 &lt;br&gt;href="https://nik-nul.github.io/news/2025-05-17"5.17/a/td
 &lt;br&gt;/tr
 &lt;br&gt;/tbody
-&lt;br&gt;/table</content><link href="https://nik-nul.github.io/news/2025-05-17#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-17#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-05-17T17:03:19.433156+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
+&lt;br&gt;/table</content><link href="https://nik-nul.github.io/news/2025-05-18#%E6%B4%BB%E5%8A%A8%E6%B8%85%E5%8D%95"/></entry><entry><id>https://nik-nul.github.io/news/2025-05-18#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8</id><title>订阅方式和加入编辑部</title><updated>2025-05-18T12:29:39.800667+00:00</updated><content type="html">编辑部招聘人才，用爱发电，工作轻松，详情可联系QQ：1329527951
 &lt;br&gt;客服小千  
-&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[466863272](https://qm.qq.com/q/4HL41Nt3sQ).</content><link href="https://nik-nul.github.io/news/2025-05-17#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
+&lt;br&gt;想订阅本消息或获取PDF版（便于查看超链接和往期），可加QQ群：[466863272](https://qm.qq.com/q/4HL41Nt3sQ).</content><link href="https://nik-nul.github.io/news/2025-05-18#%E8%AE%A2%E9%98%85%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8A%A0%E5%85%A5%E7%BC%96%E8%BE%91%E9%83%A8"/></entry></feed>
